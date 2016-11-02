@@ -1,0 +1,1527 @@
+[I 05:18:18.739 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Notebooks
+[I 05:18:18.739 NotebookApp] 0 active kernels 
+[I 05:18:18.739 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 05:18:18.739 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 05:19:27.531 NotebookApp] 302 GET / (98.237.176.174) 0.93ms
+[I 05:19:27.567 NotebookApp] 302 GET /tree (98.237.176.174) 1.17ms
+[I 05:19:36.414 NotebookApp] 302 POST /login?next=%2Ftree (98.237.176.174) 1.14ms
+[I 05:19:50.707 NotebookApp] Creating new notebook in 
+[I 05:19:50.710 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[I 05:19:52.701 NotebookApp] Kernel started: e1c1851a-44ee-40fa-9b12-2f5e01ba3f9d
+[I 05:20:14.075 NotebookApp] Saving file at /Untitled.ipynb
+[W 05:32:53.203 NotebookApp] WebSocket ping timeout after 119973 ms.
+[W 05:34:25.910 NotebookApp] SSL Error on 10 ('94.102.49.174', 33529): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:35:50.097 NotebookApp] SSL Error on 10 ('185.25.151.159', 47457): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:57:20.876 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 07:00:36.231 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 07:26:32.965 NotebookApp] SSL Error on 8 ('188.191.92.117', 56695): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:26:33.586 NotebookApp] SSL Error on 8 ('188.191.92.117', 56746): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:26:34.201 NotebookApp] SSL Error on 8 ('188.191.92.117', 56794): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:48:50.859 NotebookApp] SSL Error on 8 ('91.196.50.33', 52270): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 19:42:43.863 NotebookApp] Saving file at /Other Math Club.ipynb
+[I 20:10:38.804 NotebookApp] Saving file at /Other Math Club.ipynb
+[W 20:30:13.212 NotebookApp] WebSocket ping timeout after 119970 ms.
+[I 23:18:20.075 NotebookApp] 302 GET / (108.179.151.81) 0.54ms
+[I 23:18:43.564 NotebookApp] Saving file at /Other Math Club.ipynb
+[I 23:20:43.522 NotebookApp] Saving file at /Other Math Club.ipynb
+[I 23:21:56.018 NotebookApp] Creating new notebook in 
+[I 23:21:57.582 NotebookApp] Kernel started: e49593bc-b1a3-4d26-9544-9b7529dcfa61
+[I 23:22:44.253 NotebookApp] Saving file at /Other Math Club.ipynb
+[I 23:25:57.655 NotebookApp] Saving file at /Python for math.ipynb
+[I 23:27:57.667 NotebookApp] Saving file at /Python for math.ipynb
+[I 23:29:57.652 NotebookApp] Saving file at /Python for math.ipynb
+[I 23:31:57.680 NotebookApp] Saving file at /Python for math.ipynb
+[I 23:33:58.442 NotebookApp] Saving file at /Python for math.ipynb
+[I 23:54:44.336 NotebookApp] Saving file at /Welcome README.ipynb
+[I 00:12:13.171 NotebookApp] 302 GET / (108.179.151.81) 0.52ms
+[W 00:43:54.120 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 00:43:57.999 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 03:26:11.815 NotebookApp] SSL Error on 8 ('96.228.211.79', 37126): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:26:20.019 NotebookApp] SSL Error on 8 ('96.228.211.79', 42228): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:26:30.231 NotebookApp] SSL Error on 8 ('96.228.211.79', 48612): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:43:30.912 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 03:43:31.629 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 09:22:15.664 NotebookApp] SSL Error on 8 ('93.174.93.136', 57460): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:23:44.730 NotebookApp] SSL Error on 8 ('185.49.14.190', 59778): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:22:52.743 NotebookApp] SSL Error on 8 ('188.191.92.117', 61693): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:22:53.475 NotebookApp] SSL Error on 8 ('188.191.92.117', 61753): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:22:54.215 NotebookApp] SSL Error on 8 ('188.191.92.117', 61811): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:34:21.855 NotebookApp] SSL Error on 8 ('185.25.148.240', 35173): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:02:57.940 NotebookApp] SSL Error on 8 ('94.102.49.174', 50064): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:16:21.555 NotebookApp] SSL Error on 8 ('91.196.50.33', 39777): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:24:32.392 NotebookApp] SSL Error on 8 ('96.228.211.79', 60024): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:24:41.596 NotebookApp] SSL Error on 8 ('96.228.211.79', 40730): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:24:43.815 NotebookApp] SSL Error on 8 ('96.228.211.79', 41942): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:58:48.270 NotebookApp] SSL Error on 8 ('185.25.148.240', 57471): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:55:38.680 NotebookApp] SSL Error on 8 ('93.174.93.136', 39492): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:27:13.309 NotebookApp] SSL Error on 8 ('123.59.59.52', 51639): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:35:18.039 NotebookApp] SSL Error on 8 ('96.228.211.79', 38912): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:35:26.234 NotebookApp] SSL Error on 8 ('96.228.211.79', 48464): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:35:35.436 NotebookApp] SSL Error on 8 ('96.228.211.79', 54882): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:54:53.808 NotebookApp] WebSocket ping timeout after 119968 ms.
+[W 16:54:53.915 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 19:34:19.780 NotebookApp] 302 GET / (98.237.176.174) 0.51ms
+[I 19:34:19.802 NotebookApp] 302 GET /tree (98.237.176.174) 0.82ms
+[I 19:34:26.889 NotebookApp] 302 POST /login?next=%2Ftree (98.237.176.174) 1.11ms
+[I 19:37:58.869 NotebookApp] Uploading file to /Resources Notebook.ipynb
+[W 19:37:58.871 NotebookApp] Saving untrusted notebook Resources Notebook.ipynb
+[W 19:38:06.975 NotebookApp] Notebook Resources Notebook.ipynb is not trusted
+[I 19:38:10.120 NotebookApp] Kernel started: 9d0db441-d611-4a11-9a66-eb67b814dfed
+[I 19:39:04.284 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:40:10.445 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:42:10.460 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:44:10.445 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:46:10.565 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:48:10.464 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:50:10.527 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:52:10.451 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:54:10.431 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:56:10.478 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 19:58:10.462 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 20:00:10.485 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 20:02:10.459 NotebookApp] Saving file at /Resources Notebook.ipynb
+[I 20:04:10.413 NotebookApp] Saving file at /Taylor series examples.ipynb
+[I 20:05:41.853 NotebookApp] Uploading file to /LWDS Paper.ipynb
+[W 20:05:41.872 NotebookApp] Saving untrusted notebook LWDS Paper.ipynb
+[I 20:05:45.092 NotebookApp] Uploading file to /e to the i pi over 2.ipynb
+[I 20:05:46.188 NotebookApp] Uploading file to /Canine Longitudinal Aging Study.ipynb
+[I 20:05:48.595 NotebookApp] Uploading file to /BDS.ipynb
+[I 20:05:49.861 NotebookApp] Uploading file to /Arduino IOT.ipynb
+[I 20:05:51.357 NotebookApp] Uploading file to /Boats.ipynb
+[I 20:06:00.715 NotebookApp] Uploading file to /LiveOcean.ipynb
+[W 20:06:00.716 NotebookApp] Saving untrusted notebook LiveOcean.ipynb
+[I 20:06:00.953 NotebookApp] Uploading file to /Cloud Day Talk.ipynb
+[W 20:06:00.955 NotebookApp] Saving untrusted notebook Cloud Day Talk.ipynb
+[I 20:06:11.257 NotebookApp] Saving file at /Taylor series examples.ipynb
+[I 20:06:11.520 NotebookApp] Uploading file to /How To.ipynb
+[W 20:06:11.524 NotebookApp] Saving untrusted notebook How To.ipynb
+[I 20:06:23.423 NotebookApp] Saving file at /How To.ipynb
+[W 20:06:23.426 NotebookApp] Saving untrusted notebook How To.ipynb
+[I 20:07:40.490 NotebookApp] Kernel started: 34452c18-4335-4331-bf84-3ea970506196
+[I 20:15:51.150 NotebookApp] Kernel shutdown: 34452c18-4335-4331-bf84-3ea970506196
+[W 20:16:14.732 NotebookApp] delete /Arduino IOT.ipynb
+[I 20:16:18.552 NotebookApp] Kernel started: af1ca71e-e863-425b-9308-e8fdc3409314
+[I 20:16:37.438 NotebookApp] Kernel shutdown: af1ca71e-e863-425b-9308-e8fdc3409314
+[W 20:16:40.432 NotebookApp] delete /BDS.ipynb
+[I 20:16:44.390 NotebookApp] Kernel started: 78fbabaa-d006-4e24-82b0-1464276a8326
+[I 20:18:44.526 NotebookApp] Saving file at /Boats.ipynb
+[I 20:20:44.491 NotebookApp] Saving file at /Boats.ipynb
+[I 20:22:44.557 NotebookApp] Saving file at /Boats.ipynb
+[I 20:24:44.496 NotebookApp] Saving file at /Boats.ipynb
+[I 20:26:44.499 NotebookApp] Saving file at /Boats.ipynb
+[I 20:28:44.412 NotebookApp] Saving file at /Estuaries and math.ipynb
+[I 20:30:44.494 NotebookApp] Saving file at /Estuaries and math.ipynb
+[I 20:30:59.202 NotebookApp] Saving file at /Estuaries and math.ipynb
+[I 20:31:10.840 NotebookApp] Kernel shutdown: 78fbabaa-d006-4e24-82b0-1464276a8326
+[W 20:31:16.169 NotebookApp] Notebook How To.ipynb is not trusted
+[I 20:31:32.819 NotebookApp] Kernel started: f0990f3d-92d8-4742-91b6-a071f5572183
+[I 20:33:52.166 NotebookApp] Saving file at /How To.ipynb
+[W 20:33:52.168 NotebookApp] Saving untrusted notebook How To.ipynb
+[I 20:37:32.253 NotebookApp] Saving file at /How To.ipynb
+[W 20:37:32.255 NotebookApp] Saving untrusted notebook How To.ipynb
+[I 20:40:52.086 NotebookApp] Saving file at /How To.ipynb
+[W 20:40:52.089 NotebookApp] Saving untrusted notebook How To.ipynb
+[I 20:44:12.049 NotebookApp] Saving file at /How To.ipynb
+[W 20:44:12.051 NotebookApp] Saving untrusted notebook How To.ipynb
+[I 20:44:16.351 NotebookApp] Kernel restarted: f0990f3d-92d8-4742-91b6-a071f5572183
+[I 20:47:13.247 NotebookApp] Saving file at /How To.ipynb
+[I 20:50:07.145 NotebookApp] Saving file at /Broken How To.ipynb
+[I 20:50:16.082 NotebookApp] Kernel shutdown: f0990f3d-92d8-4742-91b6-a071f5572183
+[I 20:50:24.886 NotebookApp] Kernel started: cf6df0de-d947-4f26-8517-ed11dc1782f9
+[I 20:51:30.194 NotebookApp] Kernel shutdown: cf6df0de-d947-4f26-8517-ed11dc1782f9
+[W 20:51:33.851 NotebookApp] delete /Estuaries and math.ipynb
+[W 20:51:33.853 NotebookApp] delete /Canine Longitudinal Aging Study.ipynb
+[W 20:51:37.183 NotebookApp] Notebook Cloud Day Talk.ipynb is not trusted
+[I 20:51:47.320 NotebookApp] Kernel started: c7476a75-271d-4e7c-95a6-6650b45f97ea
+[I 20:53:43.150 NotebookApp] Kernel shutdown: c7476a75-271d-4e7c-95a6-6650b45f97ea
+[W 20:53:47.274 NotebookApp] delete /Cloud Day Talk.ipynb
+[W 20:54:04.858 NotebookApp] Notebook LWDS Paper.ipynb is not trusted
+[I 20:54:12.129 NotebookApp] Kernel started: 15d9c81f-afb8-44bc-9f5c-b6bbcfc8541c
+[I 20:54:44.750 NotebookApp] Kernel shutdown: 15d9c81f-afb8-44bc-9f5c-b6bbcfc8541c
+[W 20:54:47.792 NotebookApp] delete /LWDS Paper.ipynb
+[W 20:54:57.293 NotebookApp] delete /LiveOcean.ipynb
+[I 20:55:07.227 NotebookApp] Kernel started: 37ecb819-4203-4395-a632-4fc6c8e760e1
+[I 20:57:07.405 NotebookApp] Saving file at /e to the i pi over 2.ipynb
+[I 20:57:53.524 NotebookApp] Kernel started: 8d1a4371-e96e-47df-b678-503950326034
+[I 21:13:04.938 NotebookApp] Kernel restarted: 37ecb819-4203-4395-a632-4fc6c8e760e1
+[I 21:13:07.191 NotebookApp] Saving file at /e to the i pi over 2.ipynb
+[I 21:14:28.351 NotebookApp] Kernel restarted: 37ecb819-4203-4395-a632-4fc6c8e760e1
+[I 21:15:07.193 NotebookApp] Saving file at /e to the i pi over 2.ipynb
+[I 21:17:07.288 NotebookApp] Saving file at /e to the i pi over 2.ipynb
+[I 21:19:07.326 NotebookApp] Saving file at /e to the i pi over 2.ipynb
+[I 21:30:13.551 NotebookApp] Saving file at /calculate pi with random numbers.ipynb
+[I 21:32:50.176 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:34:50.152 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:36:50.126 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:38:50.139 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:40:50.136 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:42:50.139 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:44:50.143 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:46:50.191 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:48:50.128 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:50:50.184 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:52:50.122 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:54:50.168 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:56:50.180 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:58:50.167 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:00:50.154 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:02:50.173 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:04:50.155 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:06:50.269 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:08:50.142 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:09:28.230 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:10:12.401 NotebookApp] Uploading file to /serp.ipynb
+[W 22:10:12.402 NotebookApp] Saving untrusted notebook serp.ipynb
+[I 22:10:17.979 NotebookApp] Uploading file to /Robs Resource Notebook.ipynb
+[W 22:10:17.980 NotebookApp] Saving untrusted notebook Robs Resource Notebook.ipynb
+[I 22:10:23.447 NotebookApp] Uploading file to /Rainbow.ipynb
+[W 22:10:23.448 NotebookApp] Saving untrusted notebook Rainbow.ipynb
+[W 22:10:29.984 NotebookApp] Notebook serp.ipynb is not trusted
+[I 22:10:31.104 NotebookApp] Kernel started: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[I 22:12:31.257 NotebookApp] Saving file at /serp.ipynb
+[I 22:13:36.962 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:15:37.195 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[W 22:16:25.002 NotebookApp] SSL Error on 12 ('185.25.151.159', 54060): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 22:18:31.170 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 22:20:31.287 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 22:22:31.256 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 22:24:31.288 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 22:26:31.438 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 22:28:31.491 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 22:31:37.121 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:31:48.703 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:32:02.852 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[W 22:32:29.629 NotebookApp] Notebook Rainbow.ipynb is not trusted
+[I 22:32:39.610 NotebookApp] Kernel started: 163c34e3-e40e-4400-ad83-09921a704267
+[I 23:40:31.397 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 23:42:31.479 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 23:56:31.510 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:02:31.495 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:04:31.483 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:06:31.473 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:08:31.893 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:10:31.821 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:12:31.844 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:14:31.943 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:16:31.933 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:18:31.895 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:20:31.922 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:22:31.570 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:24:31.496 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:26:31.524 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:28:31.563 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:30:31.559 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:32:31.550 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:34:31.495 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:36:31.575 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:40:31.614 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:42:31.551 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:44:31.492 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:46:31.567 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:48:31.577 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:52:31.508 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:54:31.587 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:56:32.300 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 00:58:32.937 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:00:32.940 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:02:31.940 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:04:32.912 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:06:31.613 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:07:40.910 NotebookApp] Kernel interrupted: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[I 01:07:51.852 NotebookApp] Kernel restarted: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[I 01:08:02.128 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:08:31.193 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:10:31.217 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:12:31.238 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:14:31.227 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 01:19:37.211 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 01:21:37.143 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[W 01:23:01.584 NotebookApp] Notebook Robs Resource Notebook.ipynb is not trusted
+[I 01:23:04.508 NotebookApp] Kernel started: 58266d6f-6783-42c6-8f44-5690e1c89a55
+[W 01:23:21.812 NotebookApp] delete /Robs Resource Notebook.ipynb
+[I 01:23:22.215 NotebookApp] Kernel shutdown: 58266d6f-6783-42c6-8f44-5690e1c89a55
+[I 01:23:37.184 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 01:25:33.894 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:49:33.923 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[W 02:43:31.262 NotebookApp] SSL Error on 8 ('120.132.50.135', 42803): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:28:40.032 NotebookApp] SSL Error on 8 ('71.6.165.200', 43523): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:41:23.281 NotebookApp] SSL Error on 8 ('198.20.69.98', 40735): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 05:39:17.578 NotebookApp] Kernel restarted: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[W 05:40:32.177 NotebookApp] No such file or directory: Egon in the Monte Carlo piazza.ipynb
+[W 05:40:32.177 NotebookApp] 404 GET /api/contents/Egon%20in%20the%20Monte%20Carlo%20piazza.ipynb?content=0&_=1473027025571 (98.237.176.174) 1.84ms referer=https://52.38.63.33:8888/notebooks/Egon%20in%20the%20Monte%20Carlo%20piazza.ipynb
+[I 05:40:37.588 NotebookApp] Uploading file to /Egon in the Monte Carlo piazza.ipynb
+[I 05:42:33.350 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:44:33.130 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:46:32.869 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:48:32.861 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:50:33.554 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:52:33.088 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:54:33.225 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:56:33.043 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 05:58:32.836 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:00:32.845 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:02:32.873 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:04:32.866 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:05:09.465 NotebookApp] Kernel restarted: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[I 06:06:31.374 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:08:31.643 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:10:35.234 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:18:33.199 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:20:31.745 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:22:32.532 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:24:31.797 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:26:31.357 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[I 06:28:32.091 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[W 06:33:07.197 NotebookApp] WebSocket ping timeout after 119898 ms.
+[W 06:33:09.666 NotebookApp] WebSocket ping timeout after 119575 ms.
+[W 06:33:10.041 NotebookApp] WebSocket ping timeout after 119926 ms.
+[W 07:34:41.787 NotebookApp] SSL Error on 8 ('185.25.148.240', 49147): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:38:52.274 NotebookApp] SSL Error on 8 ('139.162.34.160', 53882): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:38:52.644 NotebookApp] SSL Error on 8 ('139.162.34.160', 54038): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:38:53.014 NotebookApp] SSL Error on 8 ('139.162.34.160', 54136): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:39:13.754 NotebookApp] SSL Error on 8 ('139.162.34.160', 33210): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 14:21:09.795 NotebookApp] 302 GET / (98.237.176.174) 0.55ms
+[W 14:21:52.476 NotebookApp] Notebook Egon in the Monte Carlo piazza.ipynb is not trusted
+[I 14:21:54.698 NotebookApp] Kernel started: 375b97dc-e58e-46a9-bd8c-3e4c813c8ba2
+[I 14:22:25.906 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[W 14:22:25.907 NotebookApp] Saving untrusted notebook Egon in the Monte Carlo piazza.ipynb
+[I 14:23:55.490 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[W 14:23:55.491 NotebookApp] Saving untrusted notebook Egon in the Monte Carlo piazza.ipynb
+[W 14:23:56.364 NotebookApp] SSL Error on 55 ('94.102.49.174', 36384): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 14:58:34.817 NotebookApp] Saving file at /Egon in the Monte Carlo piazza.ipynb
+[W 14:58:34.817 NotebookApp] Saving untrusted notebook Egon in the Monte Carlo piazza.ipynb
+[I 14:59:00.605 NotebookApp] Kernel shutdown: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[W 14:59:00.607 NotebookApp] delete /Egon in Monte Carlo.ipynb
+[I 14:59:55.498 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[W 14:59:55.498 NotebookApp] Saving untrusted notebook Egon in Monte Carlo.ipynb
+[I 15:01:56.478 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:03:19.609 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:03:58.995 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:05:59.092 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:07:59.100 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:09:56.415 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:11:56.373 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:14:01.440 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:15:56.424 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:17:56.668 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:25:45.673 NotebookApp] Kernel restarted: 375b97dc-e58e-46a9-bd8c-3e4c813c8ba2
+[I 15:25:54.849 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:27:05.084 NotebookApp] Kernel restarted: 375b97dc-e58e-46a9-bd8c-3e4c813c8ba2
+[I 15:27:54.860 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:29:54.976 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:31:40.923 NotebookApp] Kernel restarted: 375b97dc-e58e-46a9-bd8c-3e4c813c8ba2
+[I 15:31:45.094 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 15:39:13.378 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:41:13.349 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:43:13.363 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:45:13.390 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:46:29.524 NotebookApp] Kernel restarted: 37ecb819-4203-4395-a632-4fc6c8e760e1
+[I 15:47:13.283 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:49:13.366 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:51:13.401 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:53:13.386 NotebookApp] Saving file at /Random Pi.ipynb
+[I 15:54:16.727 NotebookApp] Saving file at /Random Pi.ipynb
+[W 17:28:50.109 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174): Kernel does not exist: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[W 17:28:50.116 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174) 10.45ms referer=None
+[W 17:29:06.220 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174): Kernel does not exist: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[W 17:29:06.221 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174) 3.73ms referer=None
+[W 17:29:38.347 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174): Kernel does not exist: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[W 17:29:38.348 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174) 3.74ms referer=None
+[W 17:30:42.472 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174): Kernel does not exist: 0ed468d4-a21d-46f5-8550-6f8ba0a5d327
+[W 17:30:42.474 NotebookApp] 404 GET /api/kernels/0ed468d4-a21d-46f5-8550-6f8ba0a5d327/channels?session_id=93B16A76EDAC4987A51A91C80D3F9ACC (98.237.176.174) 3.67ms referer=None
+[W 18:28:23.856 NotebookApp] SSL Error on 53 ('93.174.93.136', 35468): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:48:34.864 NotebookApp] SSL Error on 8 ('185.25.151.159', 51392): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:23:22.551 NotebookApp] SSL Error on 8 ('59.56.110.51', 1897): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:03:46.259 NotebookApp] SSL Error on 8 ('123.59.59.52', 60318): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:04:49.270 NotebookApp] SSL Error on 8 ('123.59.59.52', 37553): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:33:22.415 NotebookApp] SSL Error on 8 ('123.59.83.40', 46421): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:14:53.791 NotebookApp] SSL Error on 8 ('185.25.151.159', 33639): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:28:52.743 NotebookApp] SSL Error on 8 ('91.196.50.33', 46874): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:02:28.696 NotebookApp] SSL Error on 8 ('93.174.93.136', 58077): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:03:26.492 NotebookApp] SSL Error on 8 ('80.82.70.24', 45276): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:03:31.066 NotebookApp] SSL Error on 8 ('80.82.70.24', 43104): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:03:40.624 NotebookApp] SSL Error on 8 ('80.82.70.24', 48258): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:39:31.415 NotebookApp] SSL Error on 8 ('91.196.50.33', 55971): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:45:52.752 NotebookApp] SSL Error on 8 ('94.102.49.174', 42458): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:49:45.869 NotebookApp] SSL Error on 8 ('91.196.50.33', 33508): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:35:50.322 NotebookApp] SSL Error on 8 ('80.82.70.24', 40392): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:35:52.878 NotebookApp] SSL Error on 8 ('80.82.70.24', 45884): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:36:03.431 NotebookApp] SSL Error on 8 ('80.82.70.24', 35356): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:02:02.404 NotebookApp] SSL Error on 8 ('96.228.211.79', 50326): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:02:05.598 NotebookApp] SSL Error on 8 ('96.228.211.79', 54688): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:02:12.805 NotebookApp] SSL Error on 8 ('96.228.211.79', 58470): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:28:20.438 NotebookApp] Notebook Egon in Monte Carlo.ipynb is not trusted
+[I 22:30:22.289 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 22:32:22.241 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 22:34:22.248 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 22:36:23.899 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 22:38:23.942 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[W 22:57:22.312 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 00:09:39.471 NotebookApp] SSL Error on 8 ('185.25.151.159', 34208): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:35:14.278 NotebookApp] SSL Error on 8 ('93.174.93.136', 44835): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 04:56:32.331 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 04:58:32.990 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 05:00:30.290 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 05:00:43.831 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 05:02:55.030 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 05:04:07.545 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[W 05:08:51.430 NotebookApp] WebSocket ping timeout after 119959 ms.
+[W 06:05:54.744 NotebookApp] SSL Error on 8 ('80.82.70.24', 55192): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:06:06.293 NotebookApp] SSL Error on 8 ('80.82.70.24', 35440): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:06:23.576 NotebookApp] SSL Error on 8 ('80.82.70.24', 44052): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:10:04.025 NotebookApp] SSL Error on 8 ('91.196.50.33', 45137): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:52:55.971 NotebookApp] SSL Error on 8 ('162.243.34.90', 59022): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:59:25.776 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 14:10:59.260 NotebookApp] SSL Error on 8 ('96.228.211.79', 38226): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:11:08.465 NotebookApp] SSL Error on 8 ('96.228.211.79', 45620): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:11:12.663 NotebookApp] SSL Error on 8 ('96.228.211.79', 50334): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:01:31.827 NotebookApp] WebSocket ping timeout after 119949 ms.
+[I 18:13:32.728 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 18:17:52.896 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[W 18:45:07.382 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 19:06:46.423 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 19:22:12.369 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 19:56:43.156 NotebookApp] WebSocket ping timeout after 119941 ms.
+[W 23:03:56.077 NotebookApp] SSL Error on 37 ('94.102.49.174', 55602): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:39:27.443 NotebookApp] WebSocket ping timeout after 119768 ms.
+[W 08:04:41.052 NotebookApp] SSL Error on 8 ('93.174.93.136', 38939): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:24:38.399 NotebookApp] SSL Error on 8 ('185.25.151.159', 44785): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:59:57.546 NotebookApp] SSL Error on 8 ('96.228.211.79', 53384): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:00:01.766 NotebookApp] SSL Error on 8 ('96.228.211.79', 57000): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:00:03.972 NotebookApp] SSL Error on 8 ('96.228.211.79', 58586): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 21:03:44.454 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:05:43.759 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:07:43.720 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:11:26.820 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:20:43.883 NotebookApp] Creating new notebook in 
+[I 21:20:45.737 NotebookApp] Kernel started: 3fb596e4-1e8d-4230-ae1a-e5dac11cabd4
+[I 21:22:45.655 NotebookApp] Saving file at /Minecraft.ipynb
+[I 21:24:45.678 NotebookApp] Saving file at /Minecraft.ipynb
+[I 21:26:46.185 NotebookApp] Saving file at /Minecraft.ipynb
+[I 21:28:46.104 NotebookApp] Saving file at /Minecraft.ipynb
+[I 21:28:48.204 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 21:29:40.325 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 21:31:35.116 NotebookApp] Saving file at /Python for math.ipynb
+[I 21:33:36.153 NotebookApp] Saving file at /Python for math.ipynb
+[I 21:35:35.166 NotebookApp] Saving file at /Python for math.ipynb
+[W 21:37:02.442 NotebookApp] Notebook Rainbow.ipynb is not trusted
+[I 21:37:37.012 NotebookApp] Saving file at /Python for math.ipynb
+[I 21:38:12.248 NotebookApp] Saving file at /Random Pi.ipynb
+[W 21:59:42.759 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 21:59:43.374 NotebookApp] WebSocket ping timeout after 119897 ms.
+[W 21:59:46.133 NotebookApp] WebSocket ping timeout after 119890 ms.
+[W 22:00:03.269 NotebookApp] WebSocket ping timeout after 119927 ms.
+[W 22:00:06.250 NotebookApp] WebSocket ping timeout after 119894 ms.
+[W 22:00:10.032 NotebookApp] WebSocket ping timeout after 119945 ms.
+[W 00:05:17.144 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 00:05:17.577 NotebookApp] WebSocket ping timeout after 119952 ms.
+[W 00:05:17.711 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 00:05:17.715 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 00:05:39.760 NotebookApp] WebSocket ping timeout after 119961 ms.
+[W 00:05:39.965 NotebookApp] WebSocket ping timeout after 119941 ms.
+[W 12:36:27.196 NotebookApp] SSL Error on 8 ('93.174.93.136', 59267): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:23:20.890 NotebookApp] SSL Error on 8 ('94.102.49.174', 39738): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:55:56.236 NotebookApp] WebSocket ping timeout after 119958 ms.
+[W 23:55:56.550 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 23:56:22.805 NotebookApp] WebSocket ping timeout after 119975 ms.
+[W 23:56:23.048 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 23:56:23.301 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 23:56:23.304 NotebookApp] WebSocket ping timeout after 119975 ms.
+[W 01:23:30.167 NotebookApp] SSL Error on 8 ('96.228.211.79', 59418): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:23:34.374 NotebookApp] SSL Error on 8 ('96.228.211.79', 36736): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:23:44.572 NotebookApp] SSL Error on 8 ('96.228.211.79', 45170): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:56:00.134 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 02:56:00.265 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 08:41:39.195 NotebookApp] SSL Error on 8 ('162.243.34.90', 46790): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:11:09.549 NotebookApp] SSL Error on 8 ('123.59.59.52', 52465): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:34:30.454 NotebookApp] SSL Error on 8 ('185.25.151.159', 42240): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:17:46.559 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 16:17:46.639 NotebookApp] WebSocket ping timeout after 119975 ms.
+[W 16:17:46.928 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 16:17:47.127 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 16:17:53.635 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 16:17:53.717 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 16:21:50.751 NotebookApp] WebSocket ping timeout after 119851 ms.
+[W 16:21:50.989 NotebookApp] WebSocket ping timeout after 119912 ms.
+[W 16:21:51.173 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 16:21:52.920 NotebookApp] WebSocket ping timeout after 119975 ms.
+[W 16:21:54.731 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 16:21:54.788 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 17:05:53.723 NotebookApp] SSL Error on 8 ('93.174.93.136', 42191): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:33:21.589 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 19:33:21.853 NotebookApp] WebSocket ping timeout after 119909 ms.
+[W 19:33:22.061 NotebookApp] WebSocket ping timeout after 119871 ms.
+[W 19:33:23.513 NotebookApp] WebSocket ping timeout after 119900 ms.
+[W 19:33:25.591 NotebookApp] WebSocket ping timeout after 119953 ms.
+[W 19:33:25.649 NotebookApp] WebSocket ping timeout after 119970 ms.
+[W 19:33:38.256 NotebookApp] WebSocket ping timeout after 119514 ms.
+[W 20:47:51.551 NotebookApp] WebSocket ping timeout after 119921 ms.
+[W 20:47:51.554 NotebookApp] WebSocket ping timeout after 119924 ms.
+[W 20:47:54.098 NotebookApp] WebSocket ping timeout after 119890 ms.
+[W 20:47:54.363 NotebookApp] WebSocket ping timeout after 119960 ms.
+[W 20:47:54.366 NotebookApp] WebSocket ping timeout after 119964 ms.
+[W 20:47:54.706 NotebookApp] WebSocket ping timeout after 119932 ms.
+[W 20:47:54.721 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 21:00:12.405 NotebookApp] WebSocket ping timeout after 119940 ms.
+[W 21:00:16.467 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 21:00:18.995 NotebookApp] WebSocket ping timeout after 119930 ms.
+[W 21:00:19.539 NotebookApp] WebSocket ping timeout after 119931 ms.
+[W 21:00:19.572 NotebookApp] WebSocket ping timeout after 119964 ms.
+[W 21:00:31.006 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 21:00:31.184 NotebookApp] WebSocket ping timeout after 118937 ms.
+[W 21:49:16.446 NotebookApp] SSL Error on 42 ('91.196.50.33', 43027): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:43:08.162 NotebookApp] Notebook Rainbow.ipynb is not trusted
+[W 23:52:18.298 NotebookApp] WebSocket ping timeout after 119972 ms.
+[I 01:33:40.783 NotebookApp] 302 GET / (98.237.176.174) 0.50ms
+[I 01:36:03.933 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:38:08.164 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:40:08.035 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:42:08.003 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:44:03.880 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:45:34.378 NotebookApp] 302 GET /notebooks/Egon%20in%20Monte%20Carlo.ipynb (98.237.176.174) 0.84ms
+[I 01:45:43.645 NotebookApp] 302 POST /login?next=%2Fnotebooks%2FEgon%2520in%2520Monte%2520Carlo.ipynb (98.237.176.174) 1.12ms
+[I 01:46:07.678 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:48:43.724 NotebookApp] Kernel restarted: 375b97dc-e58e-46a9-bd8c-3e4c813c8ba2
+[I 01:50:01.000 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[I 01:52:01.024 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[W 02:51:30.276 NotebookApp] 404 GET /notebooks/Other%20Math%20Club.ipynb (98.237.176.174): No such file or directory: Other Math Club.ipynb
+[W 02:51:30.278 NotebookApp] 404 GET /notebooks/Other%20Math%20Club.ipynb (98.237.176.174) 2.19ms referer=None
+[W 02:52:20.660 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 02:52:26.963 NotebookApp] 404 GET /notebooks/Other%20Math%20Club.ipynb (98.237.176.174): No such file or directory: Other Math Club.ipynb
+[W 02:52:26.964 NotebookApp] 404 GET /notebooks/Other%20Math%20Club.ipynb (98.237.176.174) 2.16ms referer=None
+[W 04:55:23.363 NotebookApp] WebSocket ping timeout after 119964 ms.
+[W 04:55:43.813 NotebookApp] WebSocket ping timeout after 119852 ms.
+[W 06:41:55.591 NotebookApp] SSL Error on 8 ('139.162.34.160', 40636): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:41:55.963 NotebookApp] SSL Error on 8 ('139.162.34.160', 40716): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:41:56.331 NotebookApp] SSL Error on 8 ('139.162.34.160', 40766): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:42:17.093 NotebookApp] SSL Error on 8 ('139.162.34.160', 44118): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:37:59.644 NotebookApp] SSL Error on 8 ('94.102.49.174', 50236): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:37:24.739 NotebookApp] SSL Error on 8 ('91.196.50.33', 59086): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:26:35.518 NotebookApp] SSL Error on 8 ('47.197.167.26', 50824): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:26:40.714 NotebookApp] SSL Error on 8 ('47.197.167.26', 54474): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:26:51.000 NotebookApp] SSL Error on 8 ('47.197.167.26', 60628): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:30:35.488 NotebookApp] Notebook Rainbow.ipynb is not trusted
+[W 20:20:20.661 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 21:35:43.330 NotebookApp] SSL Error on 45 ('93.174.93.136', 59300): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:19:14.106 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 00:38:37.026 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 01:24:01.277 NotebookApp] SSL Error on 8 ('185.25.148.240', 34390): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:09:09.273 NotebookApp] WebSocket ping timeout after 119972 ms.
+[I 04:43:30.321 NotebookApp] 302 GET // (80.82.65.120) 0.51ms
+[I 04:43:30.961 NotebookApp] 302 GET // (80.82.65.120) 0.51ms
+[I 04:43:31.627 NotebookApp] 302 GET // (80.82.65.120) 0.50ms
+[I 04:43:32.279 NotebookApp] 302 GET // (80.82.65.120) 0.58ms
+[I 04:43:32.927 NotebookApp] 302 GET // (80.82.65.120) 0.53ms
+[I 04:43:33.575 NotebookApp] 302 GET // (80.82.65.120) 0.51ms
+[W 10:45:49.731 NotebookApp] SSL Error on 8 ('185.25.151.159', 34223): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:34:12.314 NotebookApp] WebSocket ping timeout after 112899 ms.
+[I 13:06:48.147 NotebookApp] Creating new notebook in 
+[I 13:06:50.196 NotebookApp] Kernel started: ec9d536a-eac0-4f9c-a216-a21100bc2399
+[I 13:08:50.205 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:10:50.260 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:12:50.218 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:14:50.236 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:16:50.300 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:18:50.253 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:20:50.270 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:22:50.267 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:24:50.269 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:26:50.274 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:28:50.306 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:30:50.292 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:32:50.343 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:34:50.320 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:36:50.327 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:38:50.361 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:40:50.532 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 13:43:48.319 NotebookApp] WebSocket ping timeout after 119875 ms.
+[W 13:43:50.629 NotebookApp] WebSocket ping timeout after 119955 ms.
+[I 13:44:50.349 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:45:24.815 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:46:50.891 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:47:57.480 NotebookApp] Kernel restarted: ec9d536a-eac0-4f9c-a216-a21100bc2399
+[I 13:48:50.424 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 13:50:50.523 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 14:06:41.661 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 14:06:57.599 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 14:22:50.729 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 14:24:50.737 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 14:26:50.757 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 14:28:50.739 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 14:30:50.737 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 14:32:50.794 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 14:36:31.066 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 14:36:47.004 NotebookApp] WebSocket ping timeout after 119978 ms.
+[I 14:38:50.587 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 14:38:57.176 NotebookApp] Kernel restarted: ec9d536a-eac0-4f9c-a216-a21100bc2399
+[I 14:40:50.697 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 14:42:51.206 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 14:57:57.298 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 14:58:17.284 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 15:02:11.892 NotebookApp] WebSocket ping timeout after 119973 ms.
+[W 15:02:12.182 NotebookApp] WebSocket ping timeout after 119977 ms.
+[W 16:25:53.528 NotebookApp] SSL Error on 84 ('120.132.50.135', 36166): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 16:52:52.671 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 16:54:51.793 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 16:56:53.652 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 16:58:52.124 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 16:59:47.472 NotebookApp] Notebook Rainbow.ipynb is not trusted
+[I 17:48:51.964 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 17:50:52.725 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 17:52:53.517 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 17:54:29.503 NotebookApp] WebSocket ping timeout after 119944 ms.
+[W 17:54:30.380 NotebookApp] WebSocket ping timeout after 119945 ms.
+[W 17:54:30.680 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 18:34:37.792 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 18:34:38.007 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 18:34:38.075 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 19:50:33.164 NotebookApp] WebSocket ping timeout after 119938 ms.
+[W 19:50:33.442 NotebookApp] WebSocket ping timeout after 119885 ms.
+[W 19:50:33.499 NotebookApp] WebSocket ping timeout after 119942 ms.
+[W 19:52:50.509 NotebookApp] SSL Error on 8 ('185.25.151.159', 50104): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:07:12.302 NotebookApp] WebSocket ping timeout after 119904 ms.
+[W 21:07:13.032 NotebookApp] WebSocket ping timeout after 119936 ms.
+[W 21:07:13.036 NotebookApp] WebSocket ping timeout after 119939 ms.
+[I 21:38:51.546 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 21:54:28.677 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 21:54:28.963 NotebookApp] WebSocket ping timeout after 119971 ms.
+[W 21:54:29.038 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 22:27:05.571 NotebookApp] SSL Error on 95 ('80.82.70.24', 52098): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:27:19.122 NotebookApp] SSL Error on 95 ('80.82.70.24', 48256): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:27:24.682 NotebookApp] SSL Error on 95 ('80.82.70.24', 37264): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:54:46.555 NotebookApp] SSL Error on 95 ('94.102.49.174', 50185): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:47:32.360 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 00:47:32.641 NotebookApp] WebSocket ping timeout after 119988 ms.
+[W 00:47:32.685 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 02:07:15.316 NotebookApp] SSL Error on 8 ('93.174.93.136', 48910): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:46:37.646 NotebookApp] SSL Error on 8 ('222.186.56.87', 3128): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:10:56.563 NotebookApp] SSL Error on 8 ('185.25.148.240', 40777): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:21:51.565 NotebookApp] SSL Error on 8 ('185.25.151.159', 52709): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:09:24.627 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 21:09:24.636 NotebookApp] WebSocket ping timeout after 119981 ms.
+[W 23:31:26.411 NotebookApp] SSL Error on 8 ('185.25.151.159', 52287): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:38:37.735 NotebookApp] SSL Error on 8 ('93.174.93.136', 53721): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:12:47.314 NotebookApp] SSL Error on 8 ('104.37.213.21', 59364): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:12:48.622 NotebookApp] SSL Error on 8 ('104.37.213.21', 59400): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:12:54.246 NotebookApp] SSL Error on 8 ('104.37.213.21', 60004): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:12:54.296 NotebookApp] SSL Error on 8 ('104.37.213.21', 60024): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:12:54.347 NotebookApp] SSL Error on 8 ('104.37.213.21', 60029): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:54:28.255 NotebookApp] SSL Error on 8 ('185.25.151.159', 58316): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:00:58.816 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 16:12:19.672 NotebookApp] SSL Error on 8 ('94.102.49.174', 55141): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:02:08.944 NotebookApp] SSL Error on 8 ('185.25.151.159', 35266): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[C 03:04:57.763 NotebookApp] received signal 15, stopping
+[I 03:04:57.764 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 3fb596e4-1e8d-4230-ae1a-e5dac11cabd4 restarted
+[I 03:04:57.774 NotebookApp] Shutting down kernels
+[I 03:04:57.779 NotebookApp] Kernel shutdown: 375b97dc-e58e-46a9-bd8c-3e4c813c8ba2
+[I 03:04:57.780 NotebookApp] Kernel shutdown: e1c1851a-44ee-40fa-9b12-2f5e01ba3f9d
+[I 03:04:57.780 NotebookApp] Kernel shutdown: e49593bc-b1a3-4d26-9544-9b7529dcfa61
+[I 03:04:57.780 NotebookApp] Kernel shutdown: 37ecb819-4203-4395-a632-4fc6c8e760e1
+[I 03:04:58.585 NotebookApp] Kernel shutdown: 3fb596e4-1e8d-4230-ae1a-e5dac11cabd4
+[I 03:04:58.586 NotebookApp] Kernel shutdown: 8d1a4371-e96e-47df-b678-503950326034
+[I 03:04:58.586 NotebookApp] Kernel shutdown: 163c34e3-e40e-4400-ad83-09921a704267
+[I 03:04:58.586 NotebookApp] Kernel shutdown: 9d0db441-d611-4a11-9a66-eb67b814dfed
+[I 03:04:58.587 NotebookApp] Kernel shutdown: ec9d536a-eac0-4f9c-a216-a21100bc2399
+[I 19:29:18.606 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 19:29:18.686 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Notebooks
+[I 19:29:18.686 NotebookApp] 0 active kernels 
+[I 19:29:18.686 NotebookApp] The IPython Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 19:29:18.686 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 19:30:50.403 NotebookApp] 302 GET /api/terminals?_=1474054009920 (69.91.145.37) 1.52ms
+[I 19:30:50.404 NotebookApp] 302 GET /api/sessions?_=1474054009919 (69.91.145.37) 0.64ms
+[I 19:46:00.772 NotebookApp] 302 GET /api/sessions?_=1474054009921 (69.91.145.37) 0.71ms
+[I 19:46:00.775 NotebookApp] 302 GET /api/terminals?_=1474054009922 (69.91.145.37) 0.50ms
+[I 19:46:06.939 NotebookApp] 302 GET /tree (69.91.145.37) 0.65ms
+[I 19:46:12.854 NotebookApp] 302 POST /login?next=%2Ftree (69.91.145.37) 0.94ms
+[I 19:46:20.598 NotebookApp] Kernel started: ad92af69-00cd-4a47-80c0-2442bec056a8
+[I 19:48:20.653 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 19:50:20.733 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 19:52:20.687 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 19:56:20.633 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 19:58:20.663 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:00:20.706 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:02:20.664 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:04:20.740 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:06:21.551 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:08:20.826 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:24:20.727 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:26:20.941 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:28:20.935 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:30:20.862 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:32:20.759 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:34:21.626 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:50:21.679 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:52:20.862 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:54:21.737 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:56:20.862 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 20:58:20.864 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 20:58:51.835 NotebookApp] Notebook Rainbow.ipynb is not trusted
+[I 20:59:00.015 NotebookApp] Kernel started: 3eab1ec0-b5d9-496a-b8b4-3846965269a9
+[I 21:00:21.078 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 21:02:20.898 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 21:07:00.711 NotebookApp] Saving file at /Rainbow.ipynb
+[W 21:07:00.712 NotebookApp] Saving untrusted notebook Rainbow.ipynb
+[I 21:08:20.906 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 21:10:20.931 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 21:12:21.220 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 21:13:01.618 NotebookApp] Saving file at /Rainbow.ipynb
+[W 21:13:01.619 NotebookApp] Saving untrusted notebook Rainbow.ipynb
+[I 21:44:22.110 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 22:15:30.890 NotebookApp] SSL Error on 9 ('185.25.151.159', 34535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 22:31:41.607 NotebookApp] Kernel started: 4912370d-c08c-4cfa-b813-646293217dda
+[I 22:33:42.356 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:35:41.978 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:35:57.752 NotebookApp] 302 GET /notebooks/images/Alice.jpg (69.91.145.37) 1.09ms
+[I 22:37:41.624 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:39:42.079 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 22:41:52.964 NotebookApp] Kernel started: 0c0f0d6c-677d-4069-8330-6161a009f802
+[I 22:43:52.823 NotebookApp] Saving file at /Random Pi.ipynb
+[I 22:45:49.549 NotebookApp] Uploading file to /FindInPi.ipynb
+[I 22:45:53.517 NotebookApp] Saving file at /Random Pi.ipynb
+[I 22:45:58.597 NotebookApp] Kernel started: c1f56931-5c81-4963-a28b-aa2c045a3d33
+[I 22:47:52.878 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 22:49:52.887 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 22:53:52.955 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 22:57:52.974 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 23:09:52.996 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 23:11:53.006 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 23:13:52.965 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 23:15:53.014 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 23:17:53.021 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 00:22:19.719 NotebookApp] Kernel shutdown: c1f56931-5c81-4963-a28b-aa2c045a3d33
+[W 00:22:19.721 NotebookApp] delete /FindInPi.ipynb
+[I 00:23:20.434 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 00:23:32.130 NotebookApp] Saving file at /Flavors of Pi.ipynb
+[I 00:24:04.493 NotebookApp] Saving file at /Rainbow.ipynb
+[W 00:24:04.494 NotebookApp] Saving untrusted notebook Rainbow.ipynb
+[I 00:24:21.722 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[I 00:25:41.555 NotebookApp] Saving file at /Wolfy 1DCA.ipynb
+[W 06:57:37.839 NotebookApp] SSL Error on 8 ('185.25.151.159', 45319): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:31:15.287 NotebookApp] SSL Error on 8 ('94.102.49.174', 58857): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:50:24.864 NotebookApp] SSL Error on 8 ('61.157.96.110', 4811): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:50:25.533 NotebookApp] SSL Error on 8 ('61.157.96.110', 4823): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:50:26.233 NotebookApp] SSL Error on 8 ('61.157.96.110', 4836): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:41:37.531 NotebookApp] SSL Error on 8 ('93.174.93.136', 59921): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:47:53.593 NotebookApp] SSL Error on 8 ('61.157.96.110', 9518): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:47:54.254 NotebookApp] SSL Error on 8 ('61.157.96.110', 9676): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:47:54.935 NotebookApp] SSL Error on 8 ('61.157.96.110', 9690): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:20:10.976 NotebookApp] SSL Error on 8 ('185.49.14.190', 48956): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:31:46.884 NotebookApp] SSL Error on 8 ('101.201.211.145', 54327): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:31:47.594 NotebookApp] SSL Error on 8 ('101.201.211.145', 54462): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:31:51.417 NotebookApp] SSL Error on 8 ('101.201.211.145', 54591): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:59:45.768 NotebookApp] SSL Error on 8 ('80.82.70.24', 57968): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:59:49.318 NotebookApp] SSL Error on 8 ('80.82.70.24', 39900): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:00:00.858 NotebookApp] SSL Error on 8 ('80.82.70.24', 42150): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:58:59.501 NotebookApp] SSL Error on 8 ('139.162.34.160', 46990): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:58:59.896 NotebookApp] SSL Error on 8 ('139.162.34.160', 47072): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:59:00.295 NotebookApp] SSL Error on 8 ('139.162.34.160', 47108): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:59:21.047 NotebookApp] SSL Error on 8 ('139.162.34.160', 50712): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:34:33.661 NotebookApp] SSL Error on 8 ('185.25.151.159', 39519): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:11:47.680 NotebookApp] SSL Error on 8 ('93.174.93.136', 38851): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:10:59.240 NotebookApp] SSL Error on 8 ('123.59.59.52', 44464): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:49:38.962 NotebookApp] SSL Error on 8 ('94.102.49.174', 48689): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 02:34:30.518 NotebookApp] 302 GET / (98.237.176.174) 0.42ms
+[I 02:34:30.540 NotebookApp] 302 GET /tree (98.237.176.174) 0.75ms
+[I 02:34:35.737 NotebookApp] 302 POST /login?next=%2Ftree (98.237.176.174) 0.95ms
+[I 04:01:33.286 NotebookApp] 302 GET /notebooks/images/Alice.jpg (98.237.176.174) 1.06ms
+[I 04:02:00.940 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 04:11:33.712 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 04:13:33.806 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[I 04:15:33.874 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[W 04:59:51.908 NotebookApp] SSL Error on 15 ('185.25.151.159', 36445): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:47:40.100 NotebookApp] SSL Error on 8 ('104.216.4.242', 6832): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:47:40.165 NotebookApp] SSL Error on 8 ('104.216.4.242', 6833): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:51:15.321 NotebookApp] SSL Error on 8 ('91.196.50.33', 43119): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:54:33.753 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 16:29:52.127 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 22:31:03.945 NotebookApp] SSL Error on 8 ('104.216.4.242', 31541): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:31:04.008 NotebookApp] SSL Error on 8 ('104.216.4.242', 31561): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:33:32.181 NotebookApp] SSL Error on 8 ('185.49.14.190', 59455): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:37:32.930 NotebookApp] SSL Error on 8 ('80.82.65.212', 40902): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:44:59.091 NotebookApp] SSL Error on 8 ('93.174.93.136', 41929): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:05:43.857 NotebookApp] SSL Error on 31 ('80.82.70.24', 53086): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:05:46.420 NotebookApp] SSL Error on 31 ('80.82.70.24', 56412): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:05:51.965 NotebookApp] SSL Error on 31 ('80.82.70.24', 39806): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 04:28:26.104 NotebookApp] 302 GET / (98.237.176.174) 0.43ms
+[I 04:28:34.502 NotebookApp] 302 GET /notebooks/images/Alice.jpg (98.237.176.174) 1.06ms
+[I 04:28:44.101 NotebookApp] Kernel restarted: 4912370d-c08c-4cfa-b813-646293217dda
+[I 04:29:12.593 NotebookApp] Kernel started: f5f73ea0-2f89-4947-98c4-d77c16cdc0bc
+[I 04:30:35.119 NotebookApp] Saving file at /A Welcome README FIRST notebook.ipynb
+[W 06:08:55.095 NotebookApp] SSL Error on 31 ('104.216.4.242', 16034): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:08:55.168 NotebookApp] SSL Error on 31 ('104.216.4.242', 16054): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:46:11.901 NotebookApp] SSL Error on 31 ('185.25.151.159', 40537): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:11:56.036 NotebookApp] SSL Error on 31 ('123.59.141.148', 60351): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:57:07.757 NotebookApp] SSL Error on 31 ('120.132.50.135', 38788): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:45:12.272 NotebookApp] WebSocket ping timeout after 119946 ms.
+[W 14:45:13.013 NotebookApp] WebSocket ping timeout after 119954 ms.
+[W 14:45:14.200 NotebookApp] WebSocket ping timeout after 119949 ms.
+[W 15:57:30.523 NotebookApp] SSL Error on 8 ('104.216.4.242', 53632): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:57:30.588 NotebookApp] SSL Error on 8 ('104.216.4.242', 53679): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:10:26.585 NotebookApp] SSL Error on 8 ('94.102.49.174', 40727): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:58:31.846 NotebookApp] SSL Error on 8 ('185.25.151.159', 58874): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:45:25.004 NotebookApp] SSL Error on 8 ('104.216.4.242', 43154): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:45:25.069 NotebookApp] SSL Error on 8 ('104.216.4.242', 43163): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:53:29.522 NotebookApp] SSL Error on 8 ('95.191.130.150', 36556): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:53:30.052 NotebookApp] SSL Error on 8 ('95.191.130.150', 36909): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:59:12.167 NotebookApp] SSL Error on 8 ('185.25.148.240', 39380): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 05:05:34.806 NotebookApp] Saving file at /Egon in Monte Carlo.ipynb
+[W 05:06:09.129 NotebookApp] SSL Error on 35 ('80.82.70.24', 49510): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:06:20.674 NotebookApp] SSL Error on 35 ('80.82.70.24', 43776): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:06:27.232 NotebookApp] SSL Error on 35 ('80.82.70.24', 38780): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:11:17.228 NotebookApp] WebSocket ping timeout after 119982 ms.
+[W 05:11:18.904 NotebookApp] WebSocket ping timeout after 119960 ms.
+[W 05:11:34.718 NotebookApp] WebSocket ping timeout after 119965 ms.
+[W 05:20:18.682 NotebookApp] SSL Error on 9 ('93.174.93.136', 56863): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:20:58.451 NotebookApp] SSL Error on 8 ('185.25.151.159', 52831): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:39:45.409 NotebookApp] SSL Error on 8 ('185.49.14.190', 40504): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:57:16.279 NotebookApp] SSL Error on 8 ('71.6.167.142', 46013): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:54:01.964 NotebookApp] SSL Error on 34 ('185.25.151.159', 45299): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:11:09.114 NotebookApp] SSL Error on 34 ('31.24.228.20', 65535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:33:59.869 NotebookApp] SSL Error on 34 ('94.102.49.174', 45622): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:53:39.476 NotebookApp] SSL Error on 34 ('93.174.93.136', 38295): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:28:38.463 NotebookApp] SSL Error on 34 ('120.132.50.135', 33448): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:28:40.890 NotebookApp] SSL Error on 34 ('120.132.50.135', 34542): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:41:23.246 NotebookApp] WebSocket ping timeout after 119982 ms.
+[W 14:41:32.498 NotebookApp] WebSocket ping timeout after 119956 ms.
+[W 16:05:24.205 NotebookApp] SSL Error on 8 ('91.196.50.33', 58377): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:24:46.893 NotebookApp] SSL Error on 8 ('93.174.93.218', 33928): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:24:55.448 NotebookApp] SSL Error on 8 ('93.174.93.218', 58086): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:24:59.991 NotebookApp] SSL Error on 8 ('93.174.93.218', 53672): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:22:51.100 NotebookApp] SSL Error on 8 ('185.49.14.190', 33617): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:14:48.575 NotebookApp] WebSocket ping timeout after 119957 ms.
+[W 04:14:51.179 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 10:33:00.498 NotebookApp] SSL Error on 8 ('91.196.50.33', 44102): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:24:29.111 NotebookApp] SSL Error on 34 ('93.174.93.136', 41232): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:26:07.537 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 15:43:26.677 NotebookApp] WebSocket ping timeout after 119980 ms.
+[W 18:49:54.053 NotebookApp] SSL Error on 34 ('93.174.93.218', 57626): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:49:59.596 NotebookApp] SSL Error on 34 ('93.174.93.218', 43734): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:50:11.615 NotebookApp] SSL Error on 34 ('93.174.93.218', 53310): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:27:54.943 NotebookApp] SSL Error on 34 ('185.25.151.159', 55322): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:04:29.940 NotebookApp] SSL Error on 34 ('123.59.59.52', 45084): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:11:21.279 NotebookApp] SSL Error on 34 ('123.59.59.52', 50123): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:18:37.154 NotebookApp] WebSocket ping timeout after 108159 ms.
+[W 01:55:57.663 NotebookApp] SSL Error on 8 ('94.102.49.174', 42085): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:54:23.504 NotebookApp] SSL Error on 8 ('185.25.148.240', 54671): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:09:06.442 NotebookApp] SSL Error on 8 ('185.25.151.159', 39143): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:32:37.616 NotebookApp] SSL Error on 8 ('93.174.93.218', 38614): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:32:45.156 NotebookApp] SSL Error on 8 ('93.174.93.218', 53072): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:32:53.513 NotebookApp] SSL Error on 8 ('93.174.93.218', 37034): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:55:02.468 NotebookApp] SSL Error on 8 ('93.174.93.136', 49899): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:34:08.500 NotebookApp] SSL Error on 8 ('185.49.14.190', 44582): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:46:36.990 NotebookApp] SSL Error on 8 ('185.49.14.190', 44372): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:03:21.512 NotebookApp] SSL Error on 8 ('123.59.59.52', 55000): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:50:27.986 NotebookApp] SSL Error on 8 ('185.25.151.159', 60707): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:16:41.384 NotebookApp] SSL Error on 8 ('94.102.49.174', 56467): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:24:24.646 NotebookApp] SSL Error on 8 ('93.174.93.136', 34523): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:14:28.459 NotebookApp] Notebook Rainbow.ipynb is not trusted
+[I 01:15:13.181 NotebookApp] Kernel started: fc6b5516-93fc-4b4d-93b4-3b56f2bf5945
+[I 01:17:13.240 NotebookApp] Saving file at /0.1 Python for math.ipynb
+[I 01:19:13.254 NotebookApp] Saving file at /0.1 Python for math.ipynb
+[I 01:21:13.247 NotebookApp] Saving file at /0.1 Python for math.ipynb
+[I 01:23:13.262 NotebookApp] Saving file at /0.1 Python for math.ipynb
+[I 01:23:57.224 NotebookApp] Saving file at /0.1 Python for math.ipynb
+[I 01:24:33.945 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:24:33.946 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:26:33.929 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:26:33.930 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:28:34.012 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:28:34.013 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:30:33.945 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:30:33.945 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:32:33.938 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:32:33.939 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:34:33.580 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:34:33.582 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:35:20.131 NotebookApp] Kernel started: 57675c52-6405-4280-ab98-89a29933a7f8
+[I 01:35:59.452 NotebookApp] Kernel started: 29f50a54-ce44-4585-a3ee-3ce5e2bdbbd8
+[I 01:36:32.957 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:36:32.958 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:37:21.978 NotebookApp] Saving file at /hacking minecraft.ipynb
+[I 01:37:33.771 NotebookApp] Saving file at /0.1 Python for math.ipynb
+[I 01:37:43.182 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:37:43.183 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:39:27.643 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 01:39:27.644 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 01:39:39.950 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 01:39:54.780 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 01:41:27.442 NotebookApp] Saving file at /2. Pi.ipynb
+[I 01:43:27.442 NotebookApp] Saving file at /2. Pi.ipynb
+[I 01:45:27.434 NotebookApp] Saving file at /2. Pi.ipynb
+[I 01:46:02.532 NotebookApp] Saving file at /2. Pi.ipynb
+[I 01:46:36.093 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 01:46:50.139 NotebookApp] 302 GET /notebooks/images/Alice.jpg (98.237.176.174) 1.12ms
+[I 01:47:23.886 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 01:47:34.587 NotebookApp] Saving file at /1. cellular automata.ipynb
+[I 01:47:44.901 NotebookApp] Kernel started: 52a54742-00ca-4750-98d6-f36f77dce8f2
+[I 01:48:21.055 NotebookApp] Saving file at /Taylor series.ipynb
+[I 01:54:15.646 NotebookApp] 302 GET /notebooks/images/Alice.jpg (98.237.176.174) 0.92ms
+[W 03:12:11.226 NotebookApp] SSL Error on 8 ('185.25.151.159', 37818): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:44:48.367 NotebookApp] SSL Error on 8 ('31.24.228.20', 65535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:23:45.436 NotebookApp] SSL Error on 8 ('93.174.93.218', 35866): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:23:48.974 NotebookApp] SSL Error on 8 ('93.174.93.218', 43430): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:23:53.509 NotebookApp] SSL Error on 8 ('93.174.93.218', 49930): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:39:24.040 NotebookApp] SSL Error on 8 ('91.196.50.33', 37845): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 15:06:42.237 NotebookApp] 302 GET / (195.154.14.134) 0.58ms
+[W 15:06:57.379 NotebookApp] SSL Error on 10 ('195.154.14.134', 47895): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 15:06:58.160 NotebookApp] 302 GET / (195.154.14.134) 0.41ms
+[W 15:06:58.236 NotebookApp] 404 GET /CHANGELOG.txt (195.154.14.134) 8.56ms referer=None
+[W 15:07:12.803 NotebookApp] SSL Error on 9 ('195.154.14.134', 49371): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 15:07:14.394 NotebookApp] 302 GET /tree (195.154.14.134) 0.68ms
+[I 15:07:14.450 NotebookApp] 302 GET / (195.154.14.134) 0.41ms
+[I 15:07:14.757 NotebookApp] 302 GET /tree (195.154.14.134) 0.65ms
+[W 15:07:14.926 NotebookApp] 404 GET /readme.html (195.154.14.134) 1.49ms referer=None
+[I 15:07:30.731 NotebookApp] 302 GET / (195.154.14.134) 0.40ms
+[I 15:07:30.886 NotebookApp] 302 GET /tree (195.154.14.134) 0.65ms
+[W 17:19:22.456 NotebookApp] SSL Error on 8 ('180.150.187.55', 45333): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:32:46.429 NotebookApp] SSL Error on 8 ('185.25.148.240', 56129): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:01:32.275 NotebookApp] SSL Error on 8 ('93.174.93.218', 57234): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:01:49.553 NotebookApp] SSL Error on 8 ('93.174.93.218', 53992): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:01:57.098 NotebookApp] SSL Error on 8 ('93.174.93.218', 57048): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:58:31.173 NotebookApp] SSL Error on 8 ('93.174.93.136', 45089): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:49:58.515 NotebookApp] SSL Error on 8 ('185.25.151.159', 48046): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:52.698 NotebookApp] SSL Error on 8 ('50.116.55.73', 52734): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:52.841 NotebookApp] SSL Error on 8 ('50.116.55.73', 52844): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:52.984 NotebookApp] SSL Error on 8 ('50.116.55.73', 52892): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:53.137 NotebookApp] SSL Error on 8 ('50.116.55.73', 52908): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:53.283 NotebookApp] SSL Error on 8 ('50.116.55.73', 52930): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:53.426 NotebookApp] SSL Error on 8 ('50.116.55.73', 52958): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:53.572 NotebookApp] SSL Error on 8 ('50.116.55.73', 52998): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:53.715 NotebookApp] SSL Error on 8 ('50.116.55.73', 53034): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:55.435 NotebookApp] SSL Error on 8 ('50.116.55.73', 53454): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:55.584 NotebookApp] SSL Error on 8 ('50.116.55.73', 53470): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:55.731 NotebookApp] SSL Error on 8 ('50.116.55.73', 53508): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:55.874 NotebookApp] SSL Error on 8 ('50.116.55.73', 53564): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:56.018 NotebookApp] SSL Error on 8 ('50.116.55.73', 53602): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:29:56.165 NotebookApp] SSL Error on 8 ('50.116.55.73', 53628): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 07:29:58.205 NotebookApp] 302 GET / (50.116.55.73) 0.58ms
+[W 10:38:55.597 NotebookApp] SSL Error on 8 ('94.102.49.174', 53796): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:06:02.617 NotebookApp] SSL Error on 8 ('185.25.151.159', 60057): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 16:32:42.693 NotebookApp] Saving file at /2. cellular automata.ipynb
+[W 16:32:48.701 NotebookApp] Notebook 2. Pi.ipynb is not trusted
+[I 16:34:49.521 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:36:49.586 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:38:49.530 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:40:49.574 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:42:49.554 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:44:49.870 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:46:49.554 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:48:49.565 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:50:49.604 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:52:49.616 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:54:49.610 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:56:49.617 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:58:49.626 NotebookApp] Saving file at /1. Pi.ipynb
+[I 17:00:49.653 NotebookApp] Saving file at /1. Pi.ipynb
+[I 17:02:49.630 NotebookApp] Saving file at /1. Pi.ipynb
+[I 17:04:49.645 NotebookApp] Saving file at /1. Pi.ipynb
+[I 17:05:25.401 NotebookApp] 302 GET /notebooks/1.%20Pi.ipynb (108.179.175.142) 0.68ms
+[I 17:05:41.734 NotebookApp] 302 POST /login?next=%2Fnotebooks%2F1.%2520Pi.ipynb (108.179.175.142) 0.96ms
+[I 17:16:49.674 NotebookApp] Saving file at /1. Pi.ipynb
+[I 17:18:50.098 NotebookApp] Saving file at /1. Pi.ipynb
+[W 23:28:14.378 NotebookApp] SSL Error on 8 ('93.174.93.218', 34552): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:28:18.919 NotebookApp] SSL Error on 8 ('93.174.93.218', 42920): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:28:22.458 NotebookApp] SSL Error on 8 ('93.174.93.218', 52504): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:56:41.459 NotebookApp] WebSocket ping timeout after 119954 ms.
+[W 01:56:38.108 NotebookApp] SSL Error on 8 ('185.25.148.240', 59457): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:30:50.097 NotebookApp] SSL Error on 8 ('93.174.93.136', 39844): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:23:37.563 NotebookApp] SSL Error on 8 ('185.25.151.159', 41826): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:16:19.758 NotebookApp] SSL Error on 8 ('93.174.93.218', 48170): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:16:23.303 NotebookApp] SSL Error on 8 ('93.174.93.218', 54502): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:16:28.855 NotebookApp] SSL Error on 8 ('93.174.93.218', 45432): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:33:50.904 NotebookApp] SSL Error on 8 ('185.25.148.240', 54717): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:00:30.362 NotebookApp] SSL Error on 8 ('94.102.49.174', 37376): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 04:30:08.930 NotebookApp] 302 GET /notebooks/1.%20Pi.ipynb (24.18.62.70) 0.69ms
+[I 04:30:16.842 NotebookApp] 302 POST /login?next=%2Fnotebooks%2F1.%2520Pi.ipynb (24.18.62.70) 0.94ms
+[W 05:04:35.231 NotebookApp] SSL Error on 8 ('91.196.50.33', 52001): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:03:23.268 NotebookApp] SSL Error on 8 ('93.174.93.136', 56521): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:13:09.178 NotebookApp] SSL Error on 8 ('93.174.93.218', 58348): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:13:12.715 NotebookApp] SSL Error on 8 ('93.174.93.218', 40662): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:13:20.260 NotebookApp] SSL Error on 8 ('93.174.93.218', 33234): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:27:37.034 NotebookApp] SSL Error on 8 ('198.20.99.130', 48072): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:18:48.969 NotebookApp] 405 OPTIONS /static/components/jquery-ui/themes/smoothness/ (70.97.65.230) 1.66ms referer=None
+[W 16:18:54.059 NotebookApp] 405 OPTIONS /static/components/jquery-ui/themes/smoothness/ (70.97.65.230) 1.71ms referer=None
+[W 16:18:54.149 NotebookApp] 405 OPTIONS /static/components/jquery-ui/themes/smoothness/ (70.97.65.230) 1.52ms referer=None
+[W 16:18:54.446 NotebookApp] 405 OPTIONS /static/components/jquery-ui/themes/smoothness/ (70.97.65.230) 1.64ms referer=None
+[W 16:18:55.166 NotebookApp] 405 OPTIONS /static/components/bootstrap-tour/build/css/ (70.97.65.230) 2.02ms referer=None
+[W 16:18:55.216 NotebookApp] 405 OPTIONS /static/components/bootstrap-tour/build/css/ (70.97.65.230) 1.64ms referer=None
+[W 16:18:55.566 NotebookApp] 405 OPTIONS /static/components/bootstrap-tour/build/css/ (70.97.65.230) 1.59ms referer=None
+[W 16:18:55.775 NotebookApp] 405 OPTIONS /static/components/bootstrap-tour/build/css/ (70.97.65.230) 1.71ms referer=None
+[W 16:18:56.231 NotebookApp] 405 OPTIONS /static/components/codemirror/lib/ (70.97.65.230) 1.66ms referer=None
+[W 16:18:56.286 NotebookApp] 405 OPTIONS /static/components/codemirror/lib/ (70.97.65.230) 1.62ms referer=None
+[W 16:18:56.342 NotebookApp] 405 OPTIONS /static/components/codemirror/lib/ (70.97.65.230) 1.52ms referer=None
+[W 16:18:56.558 NotebookApp] 405 OPTIONS /static/components/codemirror/lib/ (70.97.65.230) 1.65ms referer=None
+[W 16:18:56.979 NotebookApp] 405 OPTIONS /static/style/ (70.97.65.230) 1.65ms referer=None
+[W 16:18:57.030 NotebookApp] 405 OPTIONS /static/style/ (70.97.65.230) 1.63ms referer=None
+[W 16:18:57.084 NotebookApp] 405 OPTIONS /static/style/ (70.97.65.230) 1.58ms referer=None
+[W 16:18:57.295 NotebookApp] 405 OPTIONS /static/style/ (70.97.65.230) 1.64ms referer=None
+[W 16:18:58.685 NotebookApp] 405 OPTIONS /static/notebook/css/ (70.97.65.230) 1.60ms referer=None
+[W 16:18:58.768 NotebookApp] 405 OPTIONS /static/notebook/css/ (70.97.65.230) 1.62ms referer=None
+[W 16:18:59.107 NotebookApp] 405 OPTIONS /static/notebook/css/ (70.97.65.230) 1.57ms referer=None
+[W 16:18:59.318 NotebookApp] 405 OPTIONS /static/notebook/css/ (70.97.65.230) 1.64ms referer=None
+[W 16:18:59.768 NotebookApp] 405 OPTIONS /custom/ (70.97.65.230) 1.66ms referer=None
+[W 16:18:59.817 NotebookApp] 405 OPTIONS /custom/ (70.97.65.230) 1.66ms referer=None
+[W 16:18:59.871 NotebookApp] 405 OPTIONS /custom/ (70.97.65.230) 1.63ms referer=None
+[W 16:19:00.079 NotebookApp] 405 OPTIONS /custom/ (70.97.65.230) 1.75ms referer=None
+[W 16:19:00.515 NotebookApp] 405 OPTIONS /nbextensions/widgets/widgets/css/ (70.97.65.230) 1.68ms referer=None
+[W 16:19:00.566 NotebookApp] 405 OPTIONS /nbextensions/widgets/widgets/css/ (70.97.65.230) 1.66ms referer=None
+[W 16:19:00.618 NotebookApp] 405 OPTIONS /nbextensions/widgets/widgets/css/ (70.97.65.230) 1.57ms referer=None
+[W 16:19:00.863 NotebookApp] 405 OPTIONS /nbextensions/widgets/widgets/css/ (70.97.65.230) 1.73ms referer=None
+[I 16:21:47.403 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:23:47.645 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:25:47.565 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:27:47.379 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:29:47.372 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:31:48.349 NotebookApp] Saving file at /1. Pi.ipynb
+[I 16:43:48.330 NotebookApp] Saving file at /1. Pi.ipynb
+[W 17:37:17.407 NotebookApp] WebSocket ping timeout after 119771 ms.
+[I 18:13:13.327 NotebookApp] Saving file at /1. Pi.ipynb
+[I 18:21:12.215 NotebookApp] Saving file at /1. Pi.ipynb
+[W 18:26:11.567 NotebookApp] WebSocket ping timeout after 119334 ms.
+[W 18:26:32.692 NotebookApp] WebSocket ping timeout after 119952 ms.
+[I 22:08:49.522 NotebookApp] 302 GET /tree (173.250.183.85) 0.66ms
+[I 22:08:56.373 NotebookApp] 302 POST /login?next=%2Ftree (173.250.183.85) 0.94ms
+[W 11:18:14.890 NotebookApp] SSL Error on 8 ('93.174.93.218', 43044): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:18:19.433 NotebookApp] SSL Error on 8 ('93.174.93.218', 53270): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:18:24.974 NotebookApp] SSL Error on 8 ('93.174.93.218', 44404): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:36:49.129 NotebookApp] SSL Error on 36 ('93.174.93.136', 33701): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:42:11.864 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 18:17:11.234 NotebookApp] SSL Error on 8 ('185.25.151.159', 50199): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:19:43.474 NotebookApp] SSL Error on 8 ('94.102.49.174', 34485): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:00:19.909 NotebookApp] SSL Error on 8 ('185.25.148.240', 36417): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:41:33.048 NotebookApp] SSL Error on 8 ('93.174.93.218', 49762): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:41:36.618 NotebookApp] SSL Error on 8 ('93.174.93.218', 45220): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:41:41.188 NotebookApp] SSL Error on 8 ('93.174.93.218', 53290): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:18:33.573 NotebookApp] SSL Error on 8 ('185.25.151.159', 49572): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:24:15.745 NotebookApp] SSL Error on 8 ('185.25.151.159', 46903): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:07:31.434 NotebookApp] SSL Error on 8 ('93.174.93.136', 45346): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:45:42.978 NotebookApp] SSL Error on 8 ('91.196.50.33', 43422): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:35:42.767 NotebookApp] SSL Error on 8 ('94.102.49.174', 55194): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:15:00.348 NotebookApp] SSL Error on 8 ('47.197.167.26', 60278): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:15:03.524 NotebookApp] SSL Error on 8 ('47.197.167.26', 34566): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:15:04.705 NotebookApp] SSL Error on 8 ('47.197.167.26', 35520): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:42:58.633 NotebookApp] SSL Error on 8 ('47.197.167.26', 58678): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:43:07.817 NotebookApp] SSL Error on 8 ('47.197.167.26', 37844): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:43:17.001 NotebookApp] SSL Error on 8 ('47.197.167.26', 50044): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:12:46.011 NotebookApp] SSL Error on 8 ('47.197.167.26', 48974): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:12:56.212 NotebookApp] SSL Error on 8 ('47.197.167.26', 54314): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:12:58.384 NotebookApp] SSL Error on 8 ('47.197.167.26', 55644): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:54:46.088 NotebookApp] SSL Error on 8 ('185.25.151.159', 42923): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:54:17.121 NotebookApp] SSL Error on 8 ('93.174.93.218', 38208): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:54:25.717 NotebookApp] SSL Error on 8 ('93.174.93.218', 46228): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:54:35.315 NotebookApp] SSL Error on 8 ('93.174.93.218', 58324): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:04:39.596 NotebookApp] SSL Error on 8 ('185.25.151.159', 52538): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:13:42.500 NotebookApp] SSL Error on 8 ('93.174.93.136', 43360): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:28:32.986 NotebookApp] SSL Error on 8 ('91.196.50.33', 57018): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:49:18.931 NotebookApp] SSL Error on 8 ('93.174.93.218', 51962): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:49:29.535 NotebookApp] SSL Error on 8 ('93.174.93.218', 48740): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:49:39.137 NotebookApp] SSL Error on 8 ('93.174.93.218', 59904): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:29:44.543 NotebookApp] SSL Error on 8 ('185.25.151.159', 48618): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:58:13.610 NotebookApp] SSL Error on 8 ('94.102.49.174', 36671): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:53:50.448 NotebookApp] SSL Error on 8 ('185.49.14.190', 56136): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:44:10.809 NotebookApp] SSL Error on 8 ('93.174.93.136', 40393): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:33:29.914 NotebookApp] SSL Error on 8 ('103.37.144.245', 59399): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:06:29.024 NotebookApp] SSL Error on 8 ('185.25.151.159', 55443): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:53:15.087 NotebookApp] SSL Error on 8 ('91.196.50.33', 41088): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:31:00.363 NotebookApp] SSL Error on 8 ('93.174.93.218', 38824): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:31:09.905 NotebookApp] SSL Error on 8 ('93.174.93.218', 35346): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:31:12.624 NotebookApp] SSL Error on 8 ('93.174.93.218', 43874): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:35:36.080 NotebookApp] SSL Error on 8 ('185.49.14.190', 59876): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:16:06.782 NotebookApp] SSL Error on 8 ('93.174.93.136', 38687): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:46:56.272 NotebookApp] SSL Error on 8 ('91.196.50.33', 50639): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:06:57.065 NotebookApp] SSL Error on 8 ('93.174.93.218', 46354): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:06:58.613 NotebookApp] SSL Error on 8 ('93.174.93.218', 48222): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:07:03.161 NotebookApp] SSL Error on 8 ('93.174.93.218', 54174): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:21:21.633 NotebookApp] SSL Error on 8 ('94.102.49.174', 39157): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:01:18.619 NotebookApp] SSL Error on 8 ('185.25.151.159', 49613): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:12:24.963 NotebookApp] SSL Error on 8 ('185.25.151.159', 34302): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:05:13.763 NotebookApp] SSL Error on 8 ('103.37.149.119', 33089): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:56:36.457 NotebookApp] SSL Error on 8 ('80.82.65.212', 57569): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:44:45.127 NotebookApp] SSL Error on 8 ('93.174.93.136', 57653): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:25:56.612 NotebookApp] SSL Error on 8 ('185.25.151.159', 39547): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:29:26.187 NotebookApp] SSL Error on 8 ('93.174.93.218', 47324): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:29:32.729 NotebookApp] SSL Error on 8 ('93.174.93.218', 58120): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:29:44.274 NotebookApp] SSL Error on 8 ('93.174.93.218', 52110): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:41:53.095 NotebookApp] SSL Error on 8 ('94.102.49.174', 34898): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:14:32.457 NotebookApp] SSL Error on 8 ('185.25.151.159', 56342): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:18:33.378 NotebookApp] SSL Error on 8 ('93.174.93.136', 39094): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:06:59.401 NotebookApp] SSL Error on 8 ('185.25.151.159', 53160): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:19:17.712 NotebookApp] SSL Error on 8 ('185.25.151.159', 40185): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:29:09.993 NotebookApp] SSL Error on 8 ('185.25.151.159', 58208): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:52:24.825 NotebookApp] SSL Error on 8 ('93.174.93.136', 49203): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:04:31.335 NotebookApp] SSL Error on 8 ('94.102.49.174', 35192): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:04:41.988 NotebookApp] SSL Error on 8 ('185.25.148.240', 57224): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:23:54.559 NotebookApp] SSL Error on 8 ('93.174.93.218', 48724): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:23:56.105 NotebookApp] SSL Error on 8 ('93.174.93.218', 53308): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:23:57.643 NotebookApp] SSL Error on 8 ('93.174.93.218', 35308): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:22:32.137 NotebookApp] SSL Error on 8 ('91.196.50.33', 48895): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:24:33.867 NotebookApp] SSL Error on 8 ('93.174.93.136', 57329): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:42:20.787 NotebookApp] SSL Error on 8 ('185.25.151.159', 54213): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:35:55.008 NotebookApp] SSL Error on 8 ('93.174.93.218', 33004): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:35:59.547 NotebookApp] SSL Error on 8 ('93.174.93.218', 36804): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:36:06.087 NotebookApp] SSL Error on 8 ('93.174.93.218', 54388): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:51:57.927 NotebookApp] SSL Error on 8 ('139.162.34.160', 47650): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:51:58.323 NotebookApp] SSL Error on 8 ('139.162.34.160', 47780): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:51:58.691 NotebookApp] SSL Error on 8 ('139.162.34.160', 47896): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:52:19.454 NotebookApp] SSL Error on 8 ('139.162.34.160', 56046): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:45:35.305 NotebookApp] SSL Error on 8 ('185.25.151.159', 37178): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:24:25.781 NotebookApp] SSL Error on 8 ('94.102.49.174', 47735): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:58:41.564 NotebookApp] SSL Error on 8 ('91.196.50.33', 40540): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:56:17.252 NotebookApp] SSL Error on 8 ('93.174.93.136', 59909): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:09:16.793 NotebookApp] SSL Error on 8 ('185.25.151.159', 45195): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:56:53.362 NotebookApp] SSL Error on 8 ('91.196.50.33', 37398): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 22:29:41.893 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[W 23:41:41.666 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 01:52:17.296 NotebookApp] SSL Error on 8 ('93.174.93.218', 34442): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:52:22.832 NotebookApp] SSL Error on 8 ('93.174.93.218', 51100): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:52:33.377 NotebookApp] SSL Error on 8 ('93.174.93.218', 37020): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:40:26.122 NotebookApp] SSL Error on 8 ('185.25.148.240', 42701): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:41:27.340 NotebookApp] SSL Error on 8 ('94.102.49.174', 39722): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:26:03.650 NotebookApp] SSL Error on 8 ('93.174.93.136', 45002): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:48:18.194 NotebookApp] SSL Error on 8 ('185.25.151.159', 50093): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:00:03.493 NotebookApp] SSL Error on 8 ('93.170.187.41', 50292): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:00:03.854 NotebookApp] SSL Error on 8 ('93.170.187.41', 50309): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:49:11.620 NotebookApp] SSL Error on 8 ('93.170.187.41', 61363): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:49:11.995 NotebookApp] SSL Error on 8 ('93.170.187.41', 61380): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:28:16.932 NotebookApp] SSL Error on 8 ('93.174.93.218', 57204): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:28:24.572 NotebookApp] SSL Error on 8 ('93.174.93.218', 51452): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:28:32.115 NotebookApp] SSL Error on 8 ('93.174.93.218', 46168): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:41:46.790 NotebookApp] SSL Error on 8 ('93.170.187.41', 56062): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:41:47.149 NotebookApp] SSL Error on 8 ('93.170.187.41', 56080): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:46:13.459 NotebookApp] SSL Error on 8 ('93.170.187.41', 57787): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:46:13.831 NotebookApp] SSL Error on 8 ('93.170.187.41', 57806): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:06:26.490 NotebookApp] SSL Error on 8 ('185.25.151.159', 38052): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:22:49.872 NotebookApp] SSL Error on 8 ('61.164.149.211', 51171): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:22:50.483 NotebookApp] SSL Error on 8 ('61.164.149.211', 51292): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:22:51.133 NotebookApp] SSL Error on 8 ('61.164.149.211', 51401): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 18:56:51.124 NotebookApp] SSL Error on 8 ('93.174.93.136', 56736): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:24:50.699 NotebookApp] SSL Error on 8 ('185.25.151.159', 47142): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:10:55.285 NotebookApp] SSL Error on 8 ('93.174.93.218', 44632): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:11:05.828 NotebookApp] SSL Error on 8 ('93.174.93.218', 43306): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:11:08.388 NotebookApp] SSL Error on 8 ('93.174.93.218', 55636): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:51:12.978 NotebookApp] SSL Error on 8 ('185.49.14.190', 36504): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:35:24.693 NotebookApp] SSL Error on 8 ('123.59.56.200', 58424): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:43:49.068 NotebookApp] SSL Error on 8 ('91.196.50.33', 38854): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:27:31.092 NotebookApp] SSL Error on 8 ('93.174.93.136', 52633): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 03:24:48.479 NotebookApp] SSL Error on 8 ('185.25.148.240', 47697): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:40:42.176 NotebookApp] SSL Error on 8 ('94.102.49.174', 48927): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:55:47.262 NotebookApp] SSL Error on 8 ('91.196.50.33', 58800): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:22:11.832 NotebookApp] SSL Error on 8 ('103.37.151.59', 44511): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:35:26.539 NotebookApp] SSL Error on 8 ('91.196.50.33', 39651): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 00:58:54.928 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[W 02:17:52.072 NotebookApp] WebSocket ping timeout after 119963 ms.
+[W 03:57:52.140 NotebookApp] SSL Error on 8 ('93.174.93.136', 50231): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:34:00.328 NotebookApp] SSL Error on 8 ('91.196.50.33', 58860): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:58:59.884 NotebookApp] SSL Error on 8 ('91.196.50.33', 55174): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:26:36.173 NotebookApp] SSL Error on 36 ('103.37.148.222', 38433): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:34:54.716 NotebookApp] WebSocket ping timeout after 119981 ms.
+[W 21:57:06.630 NotebookApp] SSL Error on 8 ('94.102.49.174', 49537): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:02:42.212 NotebookApp] SSL Error on 8 ('139.162.34.160', 42426): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:02:42.584 NotebookApp] SSL Error on 8 ('139.162.34.160', 42500): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:02:42.957 NotebookApp] SSL Error on 8 ('139.162.34.160', 42552): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:03:03.697 NotebookApp] SSL Error on 8 ('139.162.34.160', 46470): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:16:40.877 NotebookApp] WebSocket ping timeout after 119731 ms.
+[W 08:23:07.176 NotebookApp] SSL Error on 8 ('93.174.93.136', 56926): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:41:37.564 NotebookApp] SSL Error on 8 ('91.196.50.33', 42921): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:44:03.603 NotebookApp] SSL Error on 9 ('117.21.191.2', 2691): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:44:06.385 NotebookApp] SSL Error on 8 ('117.21.191.2', 2586): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:53:28.399 NotebookApp] SSL Error on 8 ('117.21.191.2', 2592): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:53:28.850 NotebookApp] SSL Error on 8 ('117.21.191.2', 2612): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:45:36.956 NotebookApp] SSL Error on 8 ('93.170.187.41', 54744): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:45:37.326 NotebookApp] SSL Error on 8 ('93.170.187.41', 54770): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:05:45.353 NotebookApp] SSL Error on 8 ('93.174.93.218', 52708): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:06:00.952 NotebookApp] SSL Error on 8 ('93.174.93.218', 57938): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:06:09.505 NotebookApp] SSL Error on 8 ('93.174.93.218', 54218): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:26:25.122 NotebookApp] SSL Error on 8 ('93.170.187.41', 56621): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:26:25.493 NotebookApp] SSL Error on 8 ('93.170.187.41', 56645): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 12:47:21.505 NotebookApp] SSL Error on 8 ('93.174.93.136', 49532): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:09:28.273 NotebookApp] SSL Error on 8 ('94.102.49.174', 46210): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 15:16:59.185 NotebookApp] 302 GET /tree (63.239.210.13) 0.68ms
+[I 15:17:08.809 NotebookApp] 302 POST /login?next=%2Ftree (63.239.210.13) 0.93ms
+[I 15:19:50.720 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:29:50.749 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:31:49.782 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:33:49.733 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:35:50.737 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:37:49.850 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[W 16:54:48.633 NotebookApp] WebSocket ping timeout after 119899 ms.
+[W 16:54:59.235 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 21:04:10.913 NotebookApp] SSL Error on 8 ('91.196.50.33', 44312): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:41:09.121 NotebookApp] SSL Error on 8 ('91.196.50.33', 55307): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:02:29.252 NotebookApp] SSL Error on 8 ('185.49.14.190', 33301): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:16:45.214 NotebookApp] SSL Error on 8 ('93.174.93.136', 48608): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 20:37:45.014 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:39:44.834 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:41:44.822 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:43:45.008 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:47:44.840 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:49:45.942 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:51:44.849 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:53:44.863 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:55:44.867 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:57:44.579 NotebookApp] Saving file at /1. Pi.ipynb
+[I 20:59:45.047 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:01:44.617 NotebookApp] Saving file at /1. Pi.ipynb
+[W 21:04:46.429 NotebookApp] WebSocket ping timeout after 119808 ms.
+[I 21:06:20.605 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:09:45.312 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:11:45.324 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:13:45.317 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:15:45.372 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:17:45.350 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:19:45.350 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:21:45.343 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:23:45.370 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:25:45.358 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:27:45.356 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:29:45.419 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:33:45.438 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:35:45.444 NotebookApp] Saving file at /1. Pi.ipynb
+[I 21:37:45.454 NotebookApp] Saving file at /1. Pi.ipynb
+[W 21:38:57.460 NotebookApp] Notebook 1. Pi.ipynb is not trusted
+[I 21:41:01.310 NotebookApp] Saving file at /1. Pi.ipynb
+[W 21:41:01.310 NotebookApp] Saving untrusted notebook 1. Pi.ipynb
+[I 21:43:01.310 NotebookApp] Saving file at /1. Pi.ipynb
+[W 21:43:01.311 NotebookApp] Saving untrusted notebook 1. Pi.ipynb
+[I 21:45:01.346 NotebookApp] Saving file at /1. Pi.ipynb
+[W 21:45:01.347 NotebookApp] Saving untrusted notebook 1. Pi.ipynb
+[I 21:45:27.751 NotebookApp] 302 GET /notebooks/images/Alice.jpg (63.239.210.80) 1.10ms
+[I 21:47:01.296 NotebookApp] Saving file at /1. Pi.ipynb
+[W 21:47:01.297 NotebookApp] Saving untrusted notebook 1. Pi.ipynb
+[I 21:49:01.667 NotebookApp] Saving file at /1. Pi.ipynb
+[W 21:49:01.667 NotebookApp] Saving untrusted notebook 1. Pi.ipynb
+[I 21:49:29.332 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 21:51:29.622 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 21:53:29.621 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 21:55:29.644 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 21:57:29.653 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 21:59:29.650 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 22:01:29.644 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 22:03:30.173 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 22:04:18.634 NotebookApp] Saving file at /0.1 Python math and charts.ipynb
+[I 22:06:18.938 NotebookApp] Saving file at /0.1 Python math and charts.ipynb
+[I 22:08:19.967 NotebookApp] Saving file at /0.1 Python math and charts.ipynb
+[W 22:23:48.841 NotebookApp] WebSocket ping timeout after 119907 ms.
+[W 22:23:59.599 NotebookApp] WebSocket ping timeout after 119912 ms.
+[W 22:24:01.369 NotebookApp] WebSocket ping timeout after 119914 ms.
+[W 22:34:26.829 NotebookApp] WebSocket ping timeout after 115359 ms.
+[W 22:34:28.529 NotebookApp] WebSocket ping timeout after 118130 ms.
+[W 22:34:46.522 NotebookApp] WebSocket ping timeout after 119914 ms.
+[W 23:37:42.213 NotebookApp] SSL Error on 8 ('115.238.252.28', 65535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:45:02.459 NotebookApp] SSL Error on 8 ('185.25.148.240', 54802): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:08:27.741 NotebookApp] SSL Error on 8 ('93.174.93.218', 55056): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:08:33.355 NotebookApp] SSL Error on 8 ('93.174.93.218', 51036): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 02:25:30.498 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 02:27:30.510 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 02:31:15.024 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 02:33:30.524 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 02:35:30.982 NotebookApp] Saving file at /0. Welcome.ipynb
+[W 06:24:26.252 NotebookApp] SSL Error on 36 ('94.102.49.174', 40134): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:44:58.489 NotebookApp] WebSocket ping timeout after 119916 ms.
+[W 07:45:01.198 NotebookApp] WebSocket ping timeout after 119916 ms.
+[W 08:24:22.882 NotebookApp] SSL Error on 8 ('185.49.14.190', 39689): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:45:00.697 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 10:45:04.301 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 11:50:09.630 NotebookApp] SSL Error on 8 ('222.187.222.159', 1768): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 12:00:51.128 NotebookApp] Kernel restarted: 4912370d-c08c-4cfa-b813-646293217dda
+[I 12:01:23.089 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 12:03:22.623 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 12:04:43.544 NotebookApp] Kernel restarted: 0c0f0d6c-677d-4069-8330-6161a009f802
+[I 12:04:54.434 NotebookApp] Saving file at /1. Pi.ipynb
+[I 12:05:23.212 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 12:06:54.904 NotebookApp] Saving file at /1. Pi.ipynb
+[W 12:09:13.932 NotebookApp] WebSocket ping timeout after 119913 ms.
+[W 12:09:16.733 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 12:09:36.730 NotebookApp] WebSocket ping timeout after 119916 ms.
+[W 12:59:14.705 NotebookApp] WebSocket ping timeout after 119913 ms.
+[W 12:59:21.138 NotebookApp] WebSocket ping timeout after 119913 ms.
+[W 12:59:25.137 NotebookApp] WebSocket ping timeout after 119913 ms.
+[I 13:16:29.496 NotebookApp] Kernel restarted: 0c0f0d6c-677d-4069-8330-6161a009f802
+[I 13:16:55.504 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:36:55.676 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:38:55.676 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:40:55.733 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:42:56.099 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:44:55.709 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:46:55.703 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:48:55.951 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:50:55.720 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:52:55.773 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:54:55.774 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:56:55.776 NotebookApp] Saving file at /1. Pi.ipynb
+[I 13:58:55.769 NotebookApp] Saving file at /1. Pi.ipynb
+[I 14:00:55.954 NotebookApp] Saving file at /1. Pi.ipynb
+[W 14:01:34.767 NotebookApp] Notebook 4. Rainbows.ipynb is not trusted
+[I 14:04:55.913 NotebookApp] Saving file at /1. Pi.ipynb
+[I 14:06:55.958 NotebookApp] Saving file at /1. Pi.ipynb
+[I 14:07:58.495 NotebookApp] Saving file at /4. Rainbows.ipynb
+[W 14:07:58.496 NotebookApp] Saving untrusted notebook 4. Rainbows.ipynb
+[I 14:08:55.876 NotebookApp] Saving file at /1. Pi.ipynb
+[I 14:10:55.932 NotebookApp] Saving file at /1. Pi.ipynb
+[I 14:12:55.924 NotebookApp] Saving file at /1. Pi.ipynb
+[I 14:14:55.959 NotebookApp] Saving file at /1. Pi.ipynb
+[I 14:16:56.011 NotebookApp] Saving file at /1. Pi.ipynb
+[W 14:18:50.636 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 14:18:51.649 NotebookApp] WebSocket ping timeout after 119915 ms.
+[W 14:18:55.854 NotebookApp] WebSocket ping timeout after 119890 ms.
+[W 14:18:59.907 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 14:20:25.809 NotebookApp] Saving file at /1. Pi.ipynb
+[W 14:23:42.749 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:23:51.047 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 14:24:14.527 NotebookApp] WebSocket ping timeout after 119911 ms.
+[W 14:24:26.684 NotebookApp] WebSocket ping timeout after 119915 ms.
+[I 15:13:43.311 NotebookApp] Kernel restarted: 4912370d-c08c-4cfa-b813-646293217dda
+[W 15:14:49.079 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 15:14:49.389 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 15:14:49.414 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 15:15:23.444 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 15:16:12.630 NotebookApp] Saving file at /0.1 Python math and charts.ipynb
+[I 15:17:23.615 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 15:18:13.188 NotebookApp] Saving file at /0.1 Python and How To Do Things.ipynb
+[I 15:20:12.931 NotebookApp] Saving file at /0.1 Python and How To Do Things.ipynb
+[I 15:22:14.033 NotebookApp] Saving file at /0.1 Python and How To Do Things.ipynb
+[I 15:25:22.650 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:29:22.626 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:31:22.523 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:33:22.650 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:33:23.694 NotebookApp] Saving file at /0. Welcome.ipynb
+[I 15:35:22.654 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[W 15:36:01.554 NotebookApp] SSL Error on 15 ('93.174.93.218', 34378): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:36:12.104 NotebookApp] SSL Error on 15 ('93.174.93.218', 50674): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:36:16.651 NotebookApp] SSL Error on 15 ('93.174.93.218', 44238): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 15:37:22.651 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:41:22.566 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:43:22.895 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:45:22.688 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:47:22.707 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:49:22.676 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:51:22.921 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:53:23.073 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:55:22.806 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:57:23.631 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 15:59:20.981 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[W 16:17:02.626 NotebookApp] WebSocket ping timeout after 291560 ms.
+[I 16:17:03.606 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 16:17:16.455 NotebookApp] 302 GET /tree (63.239.210.80) 0.90ms
+[I 16:17:27.815 NotebookApp] 302 POST /login?next=%2Ftree (63.239.210.80) 1.02ms
+[W 17:39:46.894 NotebookApp] SSL Error on 12 ('185.49.14.190', 38434): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:07:37.085 NotebookApp] WebSocket ping timeout after 119916 ms.
+[W 21:43:51.018 NotebookApp] SSL Error on 39 ('93.174.93.136', 60500): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:28:10.687 NotebookApp] SSL Error on 8 ('123.59.149.64', 33419): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:43:13.143 NotebookApp] SSL Error on 8 ('91.196.50.33', 59225): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:14:42.157 NotebookApp] SSL Error on 8 ('139.162.34.160', 40988): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:14:43.557 NotebookApp] SSL Error on 8 ('139.162.34.160', 41164): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:14:43.963 NotebookApp] SSL Error on 8 ('139.162.34.160', 41660): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:15:04.779 NotebookApp] SSL Error on 8 ('139.162.34.160', 49770): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:46:06.254 NotebookApp] SSL Error on 8 ('93.174.93.218', 50700): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:46:08.625 NotebookApp] SSL Error on 8 ('93.174.93.218', 33188): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:46:19.171 NotebookApp] SSL Error on 8 ('93.174.93.218', 52210): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:17:51.879 NotebookApp] SSL Error on 8 ('91.196.50.33', 55401): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:42:58.375 NotebookApp] SSL Error on 8 ('94.102.49.174', 48562): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:07.824 NotebookApp] SSL Error on 8 ('96.126.111.38', 52108): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:07.968 NotebookApp] SSL Error on 8 ('96.126.111.38', 52200): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:08.112 NotebookApp] SSL Error on 8 ('96.126.111.38', 52262): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:08.256 NotebookApp] SSL Error on 8 ('96.126.111.38', 52292): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:08.400 NotebookApp] SSL Error on 8 ('96.126.111.38', 52310): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:08.552 NotebookApp] SSL Error on 8 ('96.126.111.38', 52334): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:08.698 NotebookApp] SSL Error on 8 ('96.126.111.38', 52354): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:08.844 NotebookApp] SSL Error on 8 ('96.126.111.38', 52376): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:10.559 NotebookApp] SSL Error on 8 ('96.126.111.38', 52810): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:10.706 NotebookApp] SSL Error on 8 ('96.126.111.38', 52844): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:10.852 NotebookApp] SSL Error on 8 ('96.126.111.38', 52874): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:10.994 NotebookApp] SSL Error on 8 ('96.126.111.38', 52916): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:11.140 NotebookApp] SSL Error on 8 ('96.126.111.38', 52956): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:51:11.284 NotebookApp] SSL Error on 8 ('96.126.111.38', 52972): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 23:51:13.328 NotebookApp] 302 GET / (96.126.111.38) 0.99ms
+[W 02:12:56.182 NotebookApp] SSL Error on 8 ('93.174.93.136', 53449): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:32:08.362 NotebookApp] SSL Error on 8 ('185.25.148.240', 53410): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:01:51.295 NotebookApp] SSL Error on 8 ('91.196.50.33', 39816): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:10:43.534 NotebookApp] SSL Error on 8 ('185.49.14.190', 49726): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:01:19.927 NotebookApp] SSL Error on 8 ('222.187.222.159', 1464): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:38:13.225 NotebookApp] SSL Error on 8 ('93.174.93.136', 34416): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:45:58.217 NotebookApp] SSL Error on 8 ('185.25.148.240', 45350): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:59:05.508 NotebookApp] SSL Error on 8 ('94.102.49.174', 36507): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:25:51.122 NotebookApp] SSL Error on 8 ('91.196.50.33', 49324): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:47:20.851 NotebookApp] SSL Error on 8 ('115.238.252.28', 65535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:38:07.723 NotebookApp] SSL Error on 8 ('91.196.50.33', 36181): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:25:30.017 NotebookApp] SSL Error on 8 ('93.174.93.218', 59024): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:25:35.379 NotebookApp] SSL Error on 8 ('93.174.93.218', 46860): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:25:42.918 NotebookApp] SSL Error on 8 ('93.174.93.218', 52388): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:03:20.115 NotebookApp] SSL Error on 8 ('93.174.93.136', 59972): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:54:50.540 NotebookApp] SSL Error on 8 ('91.196.50.33', 34727): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:06:02.319 NotebookApp] SSL Error on 8 ('91.196.50.33', 54738): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:47:46.817 NotebookApp] SSL Error on 8 ('115.238.252.28', 65535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:07:40.120 NotebookApp] SSL Error on 8 ('93.174.93.218', 39114): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:07:58.411 NotebookApp] SSL Error on 8 ('93.174.93.218', 37752): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:08:02.950 NotebookApp] SSL Error on 8 ('93.174.93.218', 53234): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:17:26.668 NotebookApp] SSL Error on 8 ('94.102.49.174', 50478): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:07:44.859 NotebookApp] SSL Error on 8 ('91.196.50.33', 42773): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:29:26.028 NotebookApp] SSL Error on 8 ('93.174.93.136', 39524): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:00:51.877 NotebookApp] SSL Error on 8 ('103.37.150.227', 50850): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:30:23.953 NotebookApp] SSL Error on 8 ('91.196.50.33', 42556): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 02:36:09.143 NotebookApp] 302 GET / (24.18.62.70) 0.41ms
+[I 02:36:09.173 NotebookApp] 302 GET /tree (24.18.62.70) 0.62ms
+[I 02:36:15.485 NotebookApp] 302 POST /login?next=%2Ftree (24.18.62.70) 0.95ms
+[W 02:44:27.415 NotebookApp] SSL Error on 8 ('185.25.148.240', 52934): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:58:22.789 NotebookApp] SSL Error on 8 ('185.25.148.240', 40609): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:57:42.404 NotebookApp] SSL Error on 8 ('93.174.93.136', 48781): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 21:59:49.796 NotebookApp] SSL Error on 8 ('115.238.252.28', 65535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 22:35:27.740 NotebookApp] SSL Error on 8 ('91.196.50.33', 54180): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:31:59.175 NotebookApp] SSL Error on 8 ('93.174.93.218', 39848): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:32:06.717 NotebookApp] SSL Error on 8 ('93.174.93.218', 53082): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:32:27.039 NotebookApp] SSL Error on 8 ('93.174.93.218', 51160): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:35:12.186 NotebookApp] SSL Error on 8 ('94.102.49.174', 47237): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:41:09.067 NotebookApp] SSL Error on 8 ('103.37.146.216', 41167): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:30:44.611 NotebookApp] SSL Error on 8 ('91.196.50.33', 47430): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:40:27.263 NotebookApp] SSL Error on 8 ('91.196.50.33', 35477): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:22:48.803 NotebookApp] SSL Error on 8 ('93.174.93.218', 57428): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:22:57.339 NotebookApp] SSL Error on 8 ('93.174.93.218', 47658): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:23:02.877 NotebookApp] SSL Error on 8 ('93.174.93.218', 33848): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:31:52.753 NotebookApp] SSL Error on 8 ('117.21.191.2', 4331): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 01:42:19.290 NotebookApp] SSL Error on 8 ('185.49.14.190', 56043): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:44:59.304 NotebookApp] SSL Error on 8 ('52.57.243.207', 44444): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:10:43.698 NotebookApp] SSL Error on 8 ('185.49.14.190', 39115): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:03:46.510 NotebookApp] SSL Error on 8 ('222.187.222.159', 3362): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:28:03.250 NotebookApp] SSL Error on 8 ('139.162.34.160', 52104): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:28:03.617 NotebookApp] SSL Error on 8 ('139.162.34.160', 52190): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:28:03.987 NotebookApp] SSL Error on 8 ('139.162.34.160', 52264): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:28:24.759 NotebookApp] SSL Error on 8 ('139.162.34.160', 57310): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:50:38.413 NotebookApp] SSL Error on 8 ('94.102.49.174', 50929): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:17:34.162 NotebookApp] SSL Error on 8 ('93.174.93.136', 58689): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:59:42.915 NotebookApp] SSL Error on 8 ('93.174.93.218', 44290): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 16:59:59.347 NotebookApp] SSL Error on 8 ('93.174.93.218', 42772): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:00:09.895 NotebookApp] SSL Error on 8 ('93.174.93.218', 42782): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:22:25.185 NotebookApp] SSL Error on 8 ('91.196.50.33', 47420): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:56:36.559 NotebookApp] SSL Error on 8 ('185.49.14.190', 55601): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:04:12.740 NotebookApp] SSL Error on 8 ('93.174.93.218', 37948): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:04:15.289 NotebookApp] SSL Error on 8 ('93.174.93.218', 52244): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:04:22.852 NotebookApp] SSL Error on 8 ('93.174.93.218', 47416): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 13:43:49.905 NotebookApp] SSL Error on 8 ('91.196.50.33', 45648): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 20:40:09.278 NotebookApp] SSL Error on 8 ('93.174.93.136', 54076): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:11:03.750 NotebookApp] SSL Error on 8 ('185.49.14.190', 40963): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:01:37.662 NotebookApp] SSL Error on 8 ('115.238.252.28', 65535): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 07:58:15.081 NotebookApp] SSL Error on 8 ('94.102.49.174', 53334): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 08:20:58.474 NotebookApp] SSL Error on 8 ('91.196.50.33', 46700): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:12:32.633 NotebookApp] SSL Error on 8 ('93.174.93.218', 45066): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:12:35.180 NotebookApp] SSL Error on 8 ('93.174.93.218', 54398): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 14:12:43.730 NotebookApp] SSL Error on 8 ('93.174.93.218', 60700): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 17:44:20.597 NotebookApp] SSL Error on 8 ('91.196.50.33', 52958): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:59:26.730 NotebookApp] SSL Error on 8 ('93.174.93.136', 49314): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:44:45.754 NotebookApp] SSL Error on 8 ('185.25.148.240', 55348): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 04:39:18.482 NotebookApp] 302 GET /tree (98.237.176.174) 0.69ms
+[I 04:39:25.642 NotebookApp] 302 POST /login?next=%2Ftree (98.237.176.174) 0.95ms
+[I 04:41:37.952 NotebookApp] Saving file at /1. Pi.ipynb
+[I 04:44:28.395 NotebookApp] Saving file at /2. cellular automata.ipynb
+[W 09:41:04.026 NotebookApp] SSL Error on 8 ('93.174.93.218', 57718): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:41:14.657 NotebookApp] SSL Error on 8 ('93.174.93.218', 54636): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 09:41:17.229 NotebookApp] SSL Error on 8 ('93.174.93.218', 58204): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:57:50.278 NotebookApp] SSL Error on 8 ('91.196.50.33', 51000): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 23:09:57.332 NotebookApp] SSL Error on 8 ('52.57.170.188', 44444): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:13:46.267 NotebookApp] SSL Error on 8 ('94.102.49.174', 49033): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:57:44.259 NotebookApp] SSL Error on 8 ('93.174.93.218', 37132): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:57:53.809 NotebookApp] SSL Error on 8 ('93.174.93.218', 59666): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 02:57:58.359 NotebookApp] SSL Error on 8 ('93.174.93.218', 35552): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 05:24:27.625 NotebookApp] SSL Error on 8 ('93.174.93.136', 39515): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:30:09.282 NotebookApp] SSL Error on 8 ('185.49.14.190', 51805): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 15:36:38.722 NotebookApp] SSL Error on 8 ('91.196.50.33', 56346): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 17:14:35.219 NotebookApp] 302 GET / (173.250.156.141) 0.90ms
+[I 17:44:31.874 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 17:46:31.916 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 17:48:32.006 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 17:53:24.660 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel f5f73ea0-2f89-4947-98c4-d77c16cdc0bc restarted
+[I 17:54:20.160 NotebookApp] Kernel restarted: f5f73ea0-2f89-4947-98c4-d77c16cdc0bc
+[I 17:54:31.744 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 18:02:41.161 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel f5f73ea0-2f89-4947-98c4-d77c16cdc0bc restarted
+[W 18:40:18.964 NotebookApp] SSL Error on 40 ('71.35.127.70', 51273): [SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:590)
+[I 18:40:22.557 NotebookApp] 302 GET / (71.35.127.70) 0.51ms
+[I 18:40:22.593 NotebookApp] 302 GET /tree (71.35.127.70) 0.74ms
+[I 18:41:09.743 NotebookApp] 302 GET / (71.35.127.70) 0.42ms
+[I 18:41:09.780 NotebookApp] 302 GET /tree (71.35.127.70) 0.65ms
+[I 18:44:44.159 NotebookApp] 302 GET / (173.250.156.141) 0.40ms
+[I 18:46:07.802 NotebookApp] 302 GET /notebooks/images/Alice.jpg (173.250.156.141) 1.09ms
+[I 18:48:48.807 NotebookApp] Saving file at /0.1 Python and How To Do Things.ipynb
+[I 18:49:32.011 NotebookApp] Saving file at /2. cellular automata.ipynb
+[I 18:49:49.470 NotebookApp] Saving file at /0.1 Python and How To Do Things.ipynb
+[I 18:51:31.611 NotebookApp] Saving file at /2. cellular automata.ipynb
+[I 18:53:31.848 NotebookApp] Saving file at /2. cellular automata.ipynb
+[I 19:26:08.085 NotebookApp] 302 GET / (173.250.156.141) 0.42ms
+[I 19:30:42.546 NotebookApp] 302 GET / (173.250.156.141) 0.40ms
+[I 19:30:42.566 NotebookApp] 302 GET /tree (173.250.156.141) 0.56ms
+[W 20:16:20.242 NotebookApp] WebSocket ping timeout after 119988 ms.
+[W 00:29:59.180 NotebookApp] SSL Error on 8 ('93.174.93.218', 54994): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:30:05.731 NotebookApp] SSL Error on 8 ('93.174.93.218', 55198): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:30:09.278 NotebookApp] SSL Error on 8 ('93.174.93.218', 46868): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:44:56.331 NotebookApp] SSL Error on 8 ('91.196.50.33', 37758): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 02:10:28.170 NotebookApp] 302 GET / (98.237.176.174) 0.41ms
+[I 02:10:28.192 NotebookApp] 302 GET /tree (98.237.176.174) 0.57ms
+[I 02:10:37.258 NotebookApp] 302 POST /login?next=%2Ftree (98.237.176.174) 0.97ms
+[I 02:12:43.809 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 02:51:47.285 NotebookApp] 302 GET / (98.237.176.174) 0.42ms
+[I 02:52:02.395 NotebookApp] 302 POST /login?next=%2F (98.237.176.174) 0.98ms
+[I 02:52:02.418 NotebookApp] 302 GET / (98.237.176.174) 0.41ms
+[I 03:53:02.549 NotebookApp] 302 GET / (98.237.176.174) 0.42ms
+[I 03:57:15.244 NotebookApp] Saving file at /1. Pi.ipynb
+[I 03:59:15.211 NotebookApp] Saving file at /1. Pi.ipynb
+[I 04:03:41.818 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:05:42.735 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:07:42.164 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:11:42.553 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:13:43.839 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:15:41.996 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:17:41.741 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:19:48.372 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:21:06.484 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[I 04:21:40.422 NotebookApp] Kernel restarted: f5f73ea0-2f89-4947-98c4-d77c16cdc0bc
+[I 04:21:40.623 NotebookApp] Saving file at /3. Egon in Monte Carlo.ipynb
+[W 04:22:05.135 NotebookApp] Notebook 4. Rainbows.ipynb is not trusted
+[W 04:33:36.469 NotebookApp] SSL Error on 13 ('185.19.217.78', 56577): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 04:33:36.989 NotebookApp] SSL Error on 13 ('185.19.217.78', 57577): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:24:12.142 NotebookApp] SSL Error on 13 ('185.19.217.78', 52322): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 06:24:13.632 NotebookApp] SSL Error on 13 ('185.19.217.78', 65124): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 09:17:34.459 NotebookApp] 302 GET / (199.30.228.156) 0.61ms
+[I 09:17:34.503 NotebookApp] 302 GET /tree (199.30.228.156) 0.88ms
+[W 09:49:35.456 NotebookApp] SSL Error on 13 ('93.174.93.136', 51082): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 10:57:53.312 NotebookApp] SSL Error on 13 ('185.49.14.190', 58880): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 11:47:29.872 NotebookApp] SSL Error on 13 (not connected): [SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:590)
+[W 11:47:30.290 NotebookApp] SSL Error on 13 ('206.225.80.193', 52136): [SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:590)
+[W 11:47:33.879 NotebookApp] SSL Error on 13 (not connected): [SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:590)
+[I 11:47:48.384 NotebookApp] 302 GET / (163.172.169.87) 0.60ms
+[I 11:47:51.802 NotebookApp] 302 GET /tree (77.247.181.162) 0.85ms
+[I 13:14:31.209 NotebookApp] 302 GET / (107.22.28.15) 0.44ms
+[I 13:14:31.550 NotebookApp] 302 GET /tree (107.22.28.15) 0.68ms
+[W 16:28:00.610 NotebookApp] SSL Error on 13 ('94.102.49.174', 59990): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 17:40:03.606 NotebookApp] 302 GET / (91.121.83.118) 0.44ms
+[I 17:40:03.782 NotebookApp] 302 GET /tree (91.121.83.118) 0.68ms
+[W 19:14:03.548 NotebookApp] SSL Error on 15 ('93.174.93.218', 39968): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:14:11.114 NotebookApp] SSL Error on 15 ('93.174.93.218', 33480): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 19:14:12.672 NotebookApp] SSL Error on 15 ('93.174.93.218', 38826): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 20:40:39.818 NotebookApp] 302 GET / (54.71.236.25) 0.47ms
+[I 20:40:39.827 NotebookApp] 302 GET /tree (54.71.236.25) 0.70ms
+[I 21:29:54.452 NotebookApp] 302 GET / (108.179.153.54) 0.41ms
+[I 21:33:43.504 NotebookApp] Saving file at /Appendix B. Hacking Minecraft.ipynb
+[I 21:35:43.919 NotebookApp] Saving file at /Appendix B. Hacking Minecraft.ipynb
+[I 21:38:04.849 NotebookApp] Creating new notebook in 
+[I 21:38:06.487 NotebookApp] Kernel started: f3bf3138-f937-4b50-8766-f202bfe0d201
+[I 21:41:02.894 NotebookApp] Creating new notebook in 
+[I 21:41:04.435 NotebookApp] Kernel started: 9bb9729a-145c-4880-aaae-0f638123fedb
+[I 21:42:06.426 NotebookApp] Saving file at /5. Area of a circle.ipynb
+[I 21:43:04.486 NotebookApp] Saving file at /6. Fibonacci spiral.ipynb
+[I 21:43:53.861 NotebookApp] Kernel restarted: 9bb9729a-145c-4880-aaae-0f638123fedb
+[I 21:45:04.469 NotebookApp] Kernel restarted: f3bf3138-f937-4b50-8766-f202bfe0d201
+[I 21:45:04.601 NotebookApp] Saving file at /6. Fibonacci spiral.ipynb
+[I 21:46:06.505 NotebookApp] Saving file at /5. Area of a circle.ipynb
+[I 21:48:06.519 NotebookApp] Saving file at /5. Area of a circle.ipynb
+[I 21:50:06.572 NotebookApp] Saving file at /5. Area of a circle.ipynb
+[I 21:51:59.818 NotebookApp] Saving file at /5. Area of a circle.ipynb
+[I 21:52:06.458 NotebookApp] Saving file at /5. Area of a circle.ipynb
+[I 21:52:30.149 NotebookApp] Saving file at /5. Area of a circle.ipynb
+[I 21:53:16.792 NotebookApp] Saving file at /6. Fibonacci spiral.ipynb
+[I 21:53:48.362 NotebookApp] Saving file at /Appendix D. How To Do Things With Python.ipynb
+[I 21:53:58.215 NotebookApp] Saving file at /Appendix C. Taylor Series and Sympy LaTeX.ipynb
+[I 21:54:06.094 NotebookApp] Saving file at /Appendix B. Hacking Minecraft.ipynb
+[I 21:55:11.670 NotebookApp] Saving file at /Appendix A. How To Do Things With Python.ipynb
+[I 21:55:16.773 NotebookApp] Saving file at /Appendix D. Misc Notes.ipynb
+[I 22:15:34.398 NotebookApp] 302 POST /login?next=%2Ftree (108.179.153.54) 1.19ms

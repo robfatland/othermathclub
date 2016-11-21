@@ -30,4 +30,4 @@ might be best to begin with a few axioms and observations.
   
 ## The progression
 
-Solving problems that involve calculation might be '''A''', the first step in the progression of an acolyte mathematician. 
+Solving problems that involve calculation might be *A*, the first step in the progression of an acolyte mathematician. 

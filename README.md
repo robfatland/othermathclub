@@ -27,7 +27,7 @@ images for illustration purposes.
 def Show(folder, filename, width, height):
     """
     import an image from the repo images/folders for dispaly in a Python cell
-    """"
+    """
     import requests, shutil
     from PIL import Image
     fullpath = 'https://raw.githubusercontent.com/robfatland/othermathclub/master/images/' + folder + '/' + filename

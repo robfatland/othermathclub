@@ -28,8 +28,8 @@ those other books (because it is time to go to sleep or much worse because you h
 the last page) you know you are returning to the real and the ordinary world where rabbits
 do not check their watches and trolls do not turn to stone in the morning sunshine. 
 This book, on the other hand, is not like that. Everything in this book is real, 
-with actual reasons for being so. Despite this book being extraordinary it is
-insists on realness. This brings me to the second difference. 
+with actual reasons for being so. This book seeks after things *extraordinary*
+but it insists on realness. This brings me to the second difference. 
 
 
 When we read about an extraordinary world we are presented with certain facts that are 

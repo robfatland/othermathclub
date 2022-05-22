@@ -3,45 +3,40 @@
 
 # the other math club
 
-Question: Have you ever read a book about a *seemingly* ordinary world? 
-When suddenly the rules change? 
-Have you ever felt a moment of *imbalance* as you are reading along?
-Have you teetered on the edge of a rabbit hole?  And then tumbled down 
-in slow motion past cupboards containing jars of marmalade?
-Ever find yourself in a new world?  One built from echoes of the 
-ordinary...
-but with something extraordinary and amazing as well?
+Question: Have you ever read a book about a *seemingly* ordinary world
+when suddenly the rules change? 
+Have you ever felt a moment of *imbalance* as you turn the pages?
+Have you teetered on the edge of a rabbit hole and then tumbled down 
+in slow motion past cupboards and jars of marmalade?
+Have you ever found yourself in a new world inside a book?  And by this 
+I mean a world that is built from echoes of the 
+ordinary together with something extraordinary and amazing...
+well I must admit I have; so I will carry on assuming you have as well.
 
 
-(I have.) 
+Which book did you find?
+Was it about a girl who found it curious that a rabbit passing by muttered to itself? 
+Perhaps the book concerned
+climbing into a wardrobe. Perhaps it was a book about a boy who learns he is actually a wizard. 
+Perhaps it was a book with a live dragon waiting at the end, asleep on a mountain of gold.
 
 
-Maybe it was a book about a girl who is curious about a rabbit passing by. 
-Maybe it was a book about
-children who climb into a wardrobe that becomes a forest as they push past the first layer
-of coats. Perhaps it was a book about a boy who learns he is actually a wizard. Perhaps
-it is a book with a live dragon waiting for you at the end.
-
-
-This book is such a book, in a way. It is definitely not about the ordinary; 
-it is like those extraordinary books in spirit. 
-But I must begin by explaining two important differences between those books and this one.
+This book is related to -- is inspired by -- such books.
+So I begin by explaining two important differences between those books and this one.
 First, when you set down
-those other books because it is time to go to sleep or much worse because you have finished
-the last page: You know you are returning to the real and the ordinary world where rabbits
+those other books (because it is time to go to sleep or much worse because you have finished
+the last page) you know you are returning to the real and the ordinary world where rabbits
 do not check their watches and trolls do not turn to stone in the morning sunshine. 
 This book, on the other hand, is not like that. Everything in this book is real, 
 with actual reasons for being so. Despite this book being extraordinary it is
-all quite real... although you will have to decide for yourself whether you believe me.
-This brings me to the second difference. 
+insists on realness. This brings me to the second difference. 
 
 
 When we read about an extraordinary world we are presented with certain facts that are 
-simply so. 'There are trolls.' There it is. The agreed-upon rule is: 
-When they say there are trolls we accept that as fact and keep reading.
-In *this* book: Here is the difference: Because the extraordinary things 
-in this book are claimed to be real, you have the option to decide if you agree, 
-if you so choose. 
+simply so. The author says: 'There are trolls here.' There it is. The agreed-upon rule is: 
+They say there are trolls so we accept that as fact and keep reading.
+In *this* book the difference is: Because the extraordinary claims to be real, 
+you have the option to decide if you agree. You choose. 
 
 
 If you have read this far: You are a good candidate for reading more of this book.
@@ -49,35 +44,37 @@ If you have not read this far: Maybe someone who has read this book will tell yo
 about it. 
 
 
-If you have a bit of blank paper and a pencil on hand: You are a good 
+If you have a bit of blank paper and a pencil on hand: You are even more so a good 
 candidate for reading more of this book. If you pick up the pencil and draw a
-square on the paper... and another square overlapping it, offset up and to the right
+square on the paper... and draw another square overlapping it, offset up and to the right
 a bit, and if you connect the nearest four corners of the two squares with four
-diagonal lines to produce a cube: You are on your way. 
+diagonal lines: You have a cube to stand on, you are on your way. 
 
 
 Here is the deal this book offers: I will do my best 
 to convey the extraordinary, and you do your best to think about it using
 your imagination and a pencil and paper... but you must think **slowly**. 
-What does it mean to think slowly? Daniel Kahneman
+What does it mean to think slowly? A chap named Daniel Kahneman
 describes thinking slowly in terms of how our brain deals with new information. 
-He says that the new thing starts out by making no sense. We could imagine it is
-kind of *blurry*. So we enter a sort of trance where the new thing slowly slowly slowly 
+He says that the new information starts out by making no sense to us. We could imagine it is
+kind of *blurry*. So we enter a slow-thinking trance where the new thing gradually gradually
 comes into focus.  It becomes a part of our understanding. Something interesting 
 happens in this process: If you focus your mind, slowly, on
 something that is extraordinary... and you keep focusing
-on it... and gradually it comes into focus, you come to understand it... 
+on it... and gradually it comes into focus... and you come to understand it... 
 then **you** have become *more extraordinary*. 
 
 
 There is my secret. This is a book about becoming more extraordinary.
-It takes place in this ordinary world... that is actually an extraordinary world. 
+You are extraordinary to begin with, for so many reasons I could spend
+hours and hours telling you. But the wonderful news about this world is
+that there is always room to discover more.
 Understand that *you* will be doing all the work. I am simply 
 acting as a *messenger* bringing you the invitation. I hold the door open, 
 you do the work of passing through. 
 
 
-Let us start with a story about a Fishing Kid. 
+Let us begin with a story about a Fishing Kid. 
 
 
 ## The Fishing Kid

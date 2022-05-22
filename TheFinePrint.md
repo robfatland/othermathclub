@@ -32,13 +32,27 @@ in higher dimensions. This is where a subtle point comes up: Does the
 *idea* of a 27-dimensional box mean such a box can be built? No. Does 
 the *idea* of a 27-dimensional box exist? Certainly, just as ideas about
 trolls exist. Is it a useful idea? Well the idea of trolls is very useful
-because trolls make for excellent adversaries in stories. 
+because trolls make for excellent adversaries in stories.
+
+
+Here is my contention: Like a warehouse our minds can store away ideas
+that may or may not prove valuable. Some day the idea of a 27-dimensional cube may
+come in handy. This is the unbounded nature of ideas.
 
 
 ## Disproving a negative (Russell's teapot)
 
 
+Who dreamed it?...
+
+
+It is no coincidence that Martin Gardner wrote The Annotated Alice.
+
+
 ## Magic tricks versus Shoulders of giants
+
+
+There is a joke among geologists...
 
 
 

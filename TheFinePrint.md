@@ -55,5 +55,7 @@ It is no coincidence that Martin Gardner wrote The Annotated Alice.
 There is a joke among geologists...
 
 
+## Repetition (r...)
 
+### ...and coding versus programming...
 

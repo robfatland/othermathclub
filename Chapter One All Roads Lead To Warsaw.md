@@ -45,23 +45,18 @@ Egon stares at this for a few moments. "What is this $\alpha$ you have here?"
 Egon stared for a few more moments. "And $\beta$? I suppose $\beta$ can be anything?"
 
 
-"Of course!" responded Kdppi. "Now you're getting the hang of it!"
+"Of course!" responded Kyd. "Now you're getting the hang of it!"
 
 
-Egon made a 'nonplussed' face and doggedly continued: 'And is $n$ anything as well?' 
+Egon made a nonplussed face and then a dogged face; and continued: 'And is $n$ anything I like as well?' 
 
 
-'Oh no' she replied. $n$ is a non-negative integer. 
+'Oh no' she replied. $n$ is a positive integer... or zero. So $n$ can be zero or one or 
+two or three or four or... so on like that, as high as you care to go.'
 
 
-'What is that?' asked Egon.
-
-
-'Well $n$ can be zero or one or two or three or four or... and so on like that, as high as you care to go.'
-
-
-'So anything, anything, and then $n$ is 0, 1, 2, 3, and so on. Isn't this supposed to be *equal* to
-something?'
+'So $/alpha$ is anything, $/beta$ is anything, and $n$ is 0, 1, 2, 3, and so on. 
+Why is there no *equal* sign? Isn't this supposed to *equal* something?'
 
 
 'If you like.'
@@ -70,7 +65,8 @@ something?'
 'Well so what is it equal to?' asked Egon. 
 
 
-Kid Pipkin finished writing another row of zeroes -- this time there were a few ones as well -- before responding.
+Kyd Pypkn finished writing another row of zeros on her homework -- this time there were a few ones as well -- 
+and then she said,
 'Well suppose $n$ is 2. Then you have $\alpha$ plus $\beta$ squared, which is $\alpha^2$ plus $2 \cdot \alpha \cdot \beta$
 plus $\beta^2$.'
 

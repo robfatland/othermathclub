@@ -33,10 +33,10 @@ his throat.
 that means?"
 
 
-"Certainly!" responded Kyd. She writes down on a fresh sheet of paper ${( \alpha \; + \; \beta )}^n$.
+"Certainly!" responded Kyd. She writes down on a fresh sheet of paper ${( \alpha  +  \beta )}^n$.
 
 
-Egon stares at this for a few moments. "What is this $\alpha you have here?"
+Egon stares at this for a few moments. "What is this $\alpha$ you have here?"
 
 
 "Oh that's the beauty of the binomial theorem: $\alpha$ can be anything you like."

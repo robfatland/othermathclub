@@ -4,35 +4,42 @@
 ## Egon is stumbling home in bluing and rags
 
 
-Egon is a painter and a central character in this chapter.
+Egon is a painter and a central character. His full name is Egon Byzkn.
 It must be said of Egon that while he does not have a great deal of initiative,
-he does have the admirable quality of perseverence. Once he gets an idea in his head 
-he will keep pursuing it, for much longer than most people. Also Egon has a friend named 
-Kdppi; whose name is unpronounceable. She is quite the opposite
-of Egon: She has a wealth of ideas and initiative but she always seems rather busy,
-particularly doing her homework... so she can come across as a little bit impatient. 
+he does have an extraordinary ability to persevere. Once he gets an idea in his head 
+he will keep pursuing it, for much longer than most people. Egon has a friend named 
+Kyd; whose last name is Pypkn. She is rather the opposite
+of Egon in some ways: She has a wealth of ideas and initiative but 
+she tends to seem rather busy,
+particularly busy with her homework... to be honest she can come across as a little impatient.
 
 
-One evening Egon was stumbling home (he is rather uncoordinated, more so in the later phases
-of theevening) when he passed by a restaurant. Really it is a pub; but they serve curry and rice. 
-In the pub there is a television, and the television shouts at Egon as he walks by:  
+Most mornings around 9:30 or so Egon and Kyd have coffee in the piazza, the public square 
+at the center of the town where they live, a town called Monte Carlo. 
+
+
+One evening Egon is stumbling home (he is rather uncoordinated, more so in the later stages
+of the evening) when he passes a restaurant. Really it is a pub; but they serve curry with 
+rice. In this pub there is a television, and the television shouts at Egon as he walks by:  
 '... Something Something Something Binomial Theorem Something Something!!'
-Egon perseveres, continues walking, arrives home and falls asleep.
+Egon ignores this, perseveres, continues walking, arrives home and falls asleep.
 
 
-The next morning he meets Kdppi for coffee. She seems to be working on a homework problem
-that involves writing rows of zeros across a piece of paper. 'A television shouted
-"Binomial Theorem" at me last night", observes Egon. "Do you have any notion of what 
+The next morning Egon meets Kyd for coffee in the piazza. She seems to be working on a 
+homework problem that involves writing rows of zeros across a piece of paper. Egon clears
+his throat.
+
+'A television shouted "Binomial Theorem" at me last night", observes Egon. "Do you have any notion of what 
 that means?"
 
 
-"Certainly!" responded Kdppi. She writes down on a fresh sheet of paper $( \alpha \; + \; \beta )^n$.
+"Certainly!" responded Kyd. She writes down on a fresh sheet of paper ${( \alpha \; + \; \beta )}^n$.
 
 
-Egon stares at it for a few moments. "What is this $\alpha you have here?"
+Egon stares at this for a few moments. "What is this $\alpha you have here?"
 
 
-"Oh that's the beauty of it: $\alpha$ can be anything!"
+"Oh that's the beauty of the binomial theorem: $\alpha$ can be anything you like."
 
 
 Egon stared for a few more moments. "And $\beta$? I suppose $\beta$ can be anything?"

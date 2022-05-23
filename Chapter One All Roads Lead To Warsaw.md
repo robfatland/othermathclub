@@ -26,7 +26,7 @@ that involves writing rows of zeros across a piece of paper. 'A television shout
 that means?"
 
 
-"Certainly!" responded Kdppi. She writes down on a fresh sheet of paper $( \alpha \; + \; \beta ) ^ {n}$.
+"Certainly!" responded Kdppi. She writes down on a fresh sheet of paper $( \alpha \; + \; \beta )^n$.
 
 
 Egon stares at it for a few moments. "What is this $\alpha you have here?"

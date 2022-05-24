@@ -56,7 +56,7 @@ Egon makes a nonplussed face and then a dogged face; and continues: 'And is $n$ 
 two or three or four... and so on like that.'
 
 
-'So $/alpha$ is anything, $/beta$ is anything, and $n$ is 0, 1, 2, 3, and so on. 
+'So $\alpha$ is anything, $\beta$ is anything, and $n$ is 0, 1, 2, 3, and so on. 
 Why is there no *equal* sign? Isn't this math? I recall there was supposed to 
 be an *equal* sign lurking about somewhere... it was some time ago.'
 

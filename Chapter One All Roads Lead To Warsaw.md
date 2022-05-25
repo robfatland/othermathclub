@@ -76,12 +76,12 @@ be an *equal* sign lurking about somewhere when it was math... mind you this was
 
 Kyd Pypkn finishes writing another row of zeros on her homework -- this time there 
 are a few ones as well -- and she says,
-'Well suppose $n$ is 2. Then you have $\alpha + \beta$ squared, and this ***equals*** 
+'Well suppose $n$ is 2. Then you have $\alpha \ + \ \beta$ squared, and this ***equals*** 
 $\alpha^2 \ + \ 2 \cdot \alpha \cdot \beta \ + \ \beta^2$.'
 
 
 "Ok I see $\alpha$ here on the left... squared... and I see it in the middle... but where did $\alpha$ go 
-in this third part on the right where we have the $\beta^{2} \$?" asks Egon.
+in this third part on the right where we have the $\beta^{2} \ $?" asks Egon.
 
 
 "Oh it is still there; but it is raised to the zero power... so that makes it a 1 and we do not bother writing it down."
@@ -92,7 +92,7 @@ and he writes in big letters:
 
 
 $$
-(\alpha \ + \ \beta)^2 \ \llarge{=} \ 1 \cdot \alpha^2 \cdot \beta^0 \ + \ 2 \cdot \alpha^1 \cdot \beta^1 \ + \ 1 \cdot \alpha^0 \cdot \beta^2
+(\alpha \ + \ \beta)^2 \ \Large{=} \ 1 \cdot \alpha^2 \cdot \beta^0 \ + \ 2 \cdot \alpha^1 \cdot \beta^1 \ + \ 1 \cdot \alpha^0 \cdot \beta^2
 $$
 
 

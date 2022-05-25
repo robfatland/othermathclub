@@ -92,7 +92,7 @@ and he writes:
 
 
 $$
-(\alpha + \beta)^2 \big{=} 1 \cdot \alpha^2 \cdot \beta^0 + 2 \cdot \alpha \cdot \beta + 1 \cdot \alpha^0 \cdot \beta^2
+(\alpha + \beta)^2 \large{=} 1 \cdot \alpha^2 \cdot \beta^0 + 2 \cdot \alpha \cdot \beta + 1 \cdot \alpha^0 \cdot \beta^2
 $$
 
 

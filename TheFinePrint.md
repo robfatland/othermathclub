@@ -5,6 +5,23 @@ The introduction to this book lays out the program. Here I will talk about some 
 * notice this is a math book that uses computers, not a computer book that cherry picks math
 
 
+## My hidden agenda
+
+
+My goal is not to teach you something. I am holding the door open into the world of the
+extraordinary for a first reason; which is to enable you to yourself become even more
+extraordinary than you already are. It is like pointing out a rainbow: It is something
+we do naturally as a way of connecting through enjoyment of the world. 
+
+
+But my second reason is more subtle. I am holding the door open to convince you that 
+holding this door open is fun. My hidden agenda
+is to give you some level of enthusiasm for and facility with being a teacher yourself.
+We need more educated human beings. There are not enough good teachers. Let's treat
+teaching as a skill like driving a car or playing a video game. If it is fun and
+rewarding we have motivation to keep going and improve. 
+
+
 
 ## The realness of an idea
 

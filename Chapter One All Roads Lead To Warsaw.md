@@ -77,7 +77,7 @@ be an *equal* sign lurking about somewhere when it was math... mind you this was
 Kyd Pypkn finishes writing another row of zeros on her homework -- this time there 
 are a few ones as well -- and she says,
 'Well suppose $n$ is 2. Then you have $\alpha + \beta$ squared, and this ***equals*** 
-$\alpha^2 \quad + \quad 2 \cdot \alpha \cdot \beta \quad + \quad \beta^2$.'
+$\alpha^2 \, + \, 2 \cdot \alpha \cdot \beta \, + \, \beta^2$.'
 
 
 "Ok I see $\alpha$ here on the left... squared... and I see it in the middle... but where did $\alpha$ go 

@@ -96,7 +96,11 @@ $$
 $$
 
 
-"Yes, just so," said Kid Pipkin. "and the result changes if you change $n$."
+"Yes, just so," said Kyd Pypkn. "and the result changes if you change $n$. You see those three numbers you put 
+in front of each term, the $1 \qquad 2 \qquad 1$? That's the important part. Those three numbers are entirely
+the fault of choosing $n \quad = \quad 2$. Change $n$ and you will get a different set of numbers... but the
+first and last numbers will always be $1$ and the *number* of numbers you get will be $n \quad + \quad 1$. So 
+for example if you choose $n \quad = \quad 5$ you will get $\large{6}$ numbers on the right side of the equals.
 
 
 

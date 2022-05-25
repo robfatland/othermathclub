@@ -58,7 +58,7 @@ $n$ is a positive integer... or zero. So $n$ is zero or 1 or
 2 or 3 or 4... and so on like that.'
 
 
-'So $\alpha$ is anything, $\beta$ is anything, they don't matter, this is not about them, and $n$ is 0, 1, 2, 3, and so on.'
+'So $\alpha$ is anything, $\beta$ is anything, they don't matter anyway, and $n$ is 0, 1, 2, 3, or... so on.'
 
 
 'You got it.'
@@ -77,18 +77,18 @@ be an *equal* sign lurking about somewhere when it was math... mind you this was
 Kyd Pypkn finishes writing another row of zeros on her homework -- this time there 
 are a few ones as well -- and she says,
 'Well suppose $n$ is 2. Then you have $\alpha + \beta$ squared, and this ***equals*** 
-$\alpha^2 + 2 \cdot \alpha \cdot \beta + \beta^2$.'
+$\alpha^2 \quad + \quad 2 \cdot \alpha \cdot \beta \quad + \quad \beta^2$.'
 
 
-'Ok I see $\alpha$ here on the left... squared... and I see it in the middle... but where did $\alpha$ go 
-in this third part on the right where we have the $\beta^2$?' asks Egon.
+"Ok I see $\alpha$ here on the left... squared... and I see it in the middle... but where did $\alpha$ go 
+in this third part on the right where we have the $\beta^{2}$?" asks Egon.
 
 
-'Oh it is still there; but it is raised to the zero power... so that makes it 1 and we do not bother writing it down.'
+"Oh it is still there; but it is raised to the zero power... so that makes it a 1 and we do not bother writing it down."
 
 
-'Ah', said Egon, his eyebrows going up, '...so then a really complete version of this is ...' 
-and he writes:
+"Ah", said Egon, his eyebrows going up, "...so then a really complete version of this goes ..." 
+and he writes in big letters:
 
 
 $$
@@ -96,7 +96,7 @@ $$
 $$
 
 
-'Yes, just so,' said Kid Pipkin. 'And the result changes if you make $n$ something else than 2 to something else.'
+"Yes, just so," said Kid Pipkin. "and the result changes if you change $n$."
 
 
 

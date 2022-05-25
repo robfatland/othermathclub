@@ -2,6 +2,8 @@
 
 The introduction to this book lays out the program. Here I will talk about some of the details.
 
+* notice this is a math book that uses computers, not a computer book that cherry picks math
+
 
 
 ## The realness of an idea

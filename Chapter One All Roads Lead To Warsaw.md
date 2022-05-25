@@ -49,14 +49,16 @@ Egon blinks... and stares for a few more moments. "And $\beta$? I suppose $\beta
 "Of course!" responded Kyd. "Now you're getting the hang of it!"
 
 
-Egon makes a nonplussed face that slowly becomes a dogged face; and he continues: 'Is $n$ anything I like as well?' 
+Egon makes a nonplussed face that slowly becomes a dogged face; and he continues: 'Is $n$ also not important
+and also anything I like as well?' 
 
 
-'Oh no' she replies. $n$ is a positive integer... or it can be zero. So $n$ can be zero or one or 
-two or three or four... and so on like that.'
+'Oh no no no no' she replies. $n$ is important. Today, in this conversation, 
+$n$ is a positive integer... or zero. So $n$ is zero or 1 or 
+2 or 3 or 4... and so on like that.'
 
 
-'So $\alpha$ is anything, $\beta$ is anything, this is not about them, and $n$ is 0, 1, 2, 3, and so on.'
+'So $\alpha$ is anything, $\beta$ is anything, they don't matter, this is not about them, and $n$ is 0, 1, 2, 3, and so on.'
 
 
 'You got it.'
@@ -69,27 +71,28 @@ be an *equal* sign lurking about somewhere when it was math... mind you this was
 'Yes there is an equals sign, if you like.'
 
 
-'Well so what is on the other side of the equal sign?' asks Egon. 
+'Well so what is on the other side of the equals sign?' asks Egon. 
 
 
-Kyd Pypkn finishes writing another row of zeros on her homework -- this time there are a few ones as well -- 
-and says,
+Kyd Pypkn finishes writing another row of zeros on her homework -- this time there 
+are a few ones as well -- and she says,
 'Well suppose $n$ is 2. Then you have $\alpha + \beta$ squared, and this ***equals*** 
 $\alpha^2 + 2 \cdot \alpha \cdot \beta + \beta^2$.'
 
 
-'But where did the $\alpha$ go in the $\beta^2$ part?' asks Egon.
+'Ok I see $\alpha$ here on the left... squared... and I see it in the middle... but where did $\alpha$ go 
+in this third part on the right where we have the $\beta^2$?' asks Egon.
 
 
-'Oh it's still there; but it is raised to the zero power... so that makes it 1 and we do not bother writing it down.'
+'Oh it is still there; but it is raised to the zero power... so that makes it 1 and we do not bother writing it down.'
 
 
-'Ah', said Egon, his eyebrow going up, '...so then really the complete version is ...' 
-and he wrote: 
+'Ah', said Egon, his eyebrows going up, '...so then a really complete version of this is ...' 
+and he writes:
 
 
 $$
-(\alpha + \beta)^2 = 1 \cdot \alpha^2 \cdot \beta^0 + 2 \cdot \alpha \cdot \beta + 1 \cdot \alpha^0 \cdot \beta^2
+(\alpha + \beta)^2 \big{=} 1 \cdot \alpha^2 \cdot \beta^0 + 2 \cdot \alpha \cdot \beta + 1 \cdot \alpha^0 \cdot \beta^2
 $$
 
 

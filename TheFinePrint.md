@@ -1,41 +1,52 @@
 # The Fine Print
 
-The introduction to this book lays out the program. Here I will talk about some of the details.
+The introduction to this book is the basic idea. Here are found framework
+details,  'the author's view'.
 
-* notice this is a math book that uses computers, not a computer book that cherry picks math
+
+## First the horse, then the cart
+
+
+This is a book about selected themes in mathematics. It uses computers when repetitive 
+actions are enlightening but tedious. It uses Python because it is very readable and
+has a very big supporting library.
 
 
 ## My hidden agenda
 
 
-My goal is not to teach you something. I am holding the door open into the world of the
-extraordinary for a first reason; which is to enable you to yourself become even more
-extraordinary than you already are. It is like pointing out a rainbow: It is something
-we do naturally as a way of connecting through enjoyment of the world. 
+As mentioned, I am one of an army of people who see that we need more careful thought
+in view of the challenges of the world. I chose the metaphor of 'holding open the door 
+to an extraordinary world' as an invitation. My hope is that this is not a zero-sum
+game, that we may become even more
+extraordinary than we already are. But in contrast to, say, pointing out a
+rainbow, the process here involves (sometimes considerable) effort. That's the
+front end story; but what about the hidden agenda? 
 
 
-But my second reason is more subtle. I am holding the door open to convince you that 
-holding this door open is fun. My hidden agenda
-is to give you some level of enthusiasm for and facility with being a teacher yourself.
-We need more educated human beings. There are not enough good teachers. Let's treat
-teaching as a skill like driving a car or playing a video game. If it is fun and
-rewarding we have motivation to keep going and improve. 
+I am holding the door open **also** to convince you that 
+holding this door open is itself fun. Perhaps you will develop some 
+level of enthusiasm for and facility with being a teacher yourself.
+There are not enough good teachers in the world. 
+Teaching is a skill. If it is fun and
+rewarding we have motivation to develop it; and 
+this gives us more opportunities to teach the extraordinary.
 
 
 
-## The realness of an idea
+## The realness ideas
 
 
 Let's pursue trolls a little bit more. We are fairly sure that we could walk
 the length of this earth and never come upon an actual living troll. But we will
 definitely find paintings of them, stories about them, even statues and
-sculptures of trolls. The idea of trolls is real thing. It is
-something we can agree upon and discuss late into the night.
+sculptures of trolls. The idea of trolls is a real thing; or else I
+could not write this sentence. Trolls we can argue over and discuss late into the night.
 
 
-What about a twenty-seven-dimensional box? The paper or the screen holding
-these words is flat, two dimensional. The room I occupy has three physical dimensions.
-I know the number after three is four so what about four dimension? I do not have
+What about a twenty-seven-dimensional box? The paper or screen holding
+these words lies flat, has two dimensions. The bus I ride has three physical dimensions.
+I know the number after three is four so what in my experience has four dimensions? I do not have
 any experience of four dimensions. Are four or five or six dimensions or more 'real'?
 
 

@@ -1,36 +1,52 @@
 # The Fine Print
 
-The introduction to this book is the basic idea. Here are found framework
-details,  'the author's view'.
+The introduction to this book is more than sufficient to get started.
+The Fishing Kid story is the real start. 
+If the reader has any interest in the backing thought process: 
+Here is that framework, 'the author's view'.
 
 
 ## First the horse, then the cart
 
 
-This is a book about selected themes in mathematics. It uses computers when repetitive 
-actions are enlightening but tedious. It uses Python because it is very readable and
-has a very big supporting library.
+This is a book on interesting themes in mathematics. It uses a computer when a 
+repetitive calculation would be tedious. For example:
+Suppose you are standing on the real number line at zero looking east towards 1...
+suppose 1 is one mile distant... and you decide to walk halfway there. You arrive
+at 0.5 and then turn around and walk halfway back to
+where you began. Now you arrive at 0.25; and once again you turn around and walk 
+halfway back to the previous stop, which was 0.5. And so forth; you keep
+cutting back and forth, each leg of your journey getting progressively shorter
+until it becomes miniscule. Where did you wind up on that real number line? 
+We might be able to calculate this; but we can also put a computer up to 
+the task of making the journey.
+
+
+First the math, then sometimes the computer.
 
 
 ## My hidden agenda
 
 
-As mentioned, I am one of an army of people who see that we need more careful thought
-in view of the challenges of the world. I chose the metaphor of 'holding open the door 
-to an extraordinary world' as an invitation. My hope is that this is not a zero-sum
-game, that we may become even more
-extraordinary than we already are. But in contrast to, say, pointing out a
-rainbow, the process here involves (sometimes considerable) effort. That's the
-front end story; but what about the hidden agenda? 
+I am one of many people who see that we need careful consideration
+on a vast scale
+to meet the challenges of living safely and happily in this present world. 
+For my self, as an advocate for learning to think effectively, 
+I chose the metaphor of 'holding open the door to an extraordinary world', 
+really to act as an invitation. My contention is that this is not a zero-sum
+game, that by sharing this world we may become even more
+extraordinary than we already are. There is no loss when you
+turn to your neighbor and point out a rainbow. 
+But to be sure the rainbows here involve effort, sometimes considerable effort. 
+That's the front end story, 'holding the door open'; but what about 
+the hidden agenda? 
 
 
-I am holding the door open **also** to convince you that 
-holding this door open is itself fun. Perhaps you will develop some 
+I intend **also** to convince you that 
+holding this door open is itself great fun. Perhaps you will develop some 
 level of enthusiasm for and facility with being a teacher yourself.
-There are not enough good teachers in the world. 
-Teaching is a skill. If it is fun and
-rewarding we have motivation to develop it; and 
-this gives us more opportunities to teach the extraordinary.
+Teaching is a skill, a skill that is fun and
+rewarding to develop. So let us become teachers, that is my hidden agenda.
 
 
 
@@ -64,13 +80,34 @@ of higher dimension. The idea is real even if building such boxes
 is beyond our present skill.
 
 
-Let me take a sharp turn now to uncertainty. Presented with a new thing that
-radiates uncertainty sets off my personal alarm bells. I tend to back away 
-to the familiar and definite. The idea here is to suggest that a degree of
-familiarity with the feeling of uncertainty is a useful skill; so it has to
-be developed. The approach to that facet of the program here is to present
-some new topic and carry it to an open-ended ellipsis as the end point. 
-Math textbooks end with problems... how do these function?
+## A sharp turn into uncertainty
+
+Presenting a new thing that
+radiates uncertainty tends to motivate us to head with all haste 
+back towards the familiar and the definite. 
+In a sense the *uncertain* and the *familiar* are opposites. So what
+is meant by *familiar uncertainty*? This term -- which I just made up -- 
+sounds a bit strange, even paradoxical.
+But bear with me here. Suppose for a moment that each subject presented 
+in this book does not end on a conclusive note. Instead the conclusion
+begins to indicate what might lie beyond; eventually to trail
+off in thought with those three little dots called an *ellipsis*...
+
+
+The motivation for open-ended endings comes from research,
+the pursuit of deeper understanding motivated by
+unanswered questions. Here too is a paradox; because most any answer 
+research arrives at suggests, even leads inexorably towards more questions.
+Research is the business of mostly not knowing, of mostly living 
+in uncertainty and doubt, of living with a bewildering lack of 
+comprehension. Hence for a person engaged in research, *uncertainty*
+becomes *familiar*. Sometimes the process brings us a great 
+discovery. When this happens the satisfaction of answering a
+deep question can motivate us to press forward. But in many
+cases it is the process of pursuit that keeps us going. Again
+the analogy of reading a good book comes to mind: What will
+happen next? 
+
 
 
 Berg, Schoenberg, Krenek, Stravinski, Prokoviev, Mussorgsky
@@ -105,7 +142,6 @@ There is a joke among geologists...
 
 ## Repetition (r...)
 
-### ...and coding versus programming...
 
 # From the 'Welcome.ipynb' notebook:
 
@@ -119,46 +155,49 @@ $$\\pi = \\frac{4}{1} - \\frac{4}{3} + \\frac{4}{5} - \\frac{4}{7} + \\frac{4}{9
 3.200365515409549
  
 Sue discovers that $x - 1 = 0$ has a *solution* for $x$, namely $x = 1$. Later she
-    "encounters $x^2 - 1 = 0$. Again $x = 1$ is a solution. But Sue knows that \n",
-    "$-1 \\cdot -1 = 1$. A second solution is available, $x = -1$. \n",
-    "Now a thought occurs: If $x^1 - 1 = 0$ has one solution and $x^2 - 1 = 0$ \n",
-    "has two solutions... then perhaps $x^3 - 1 = 0$ has *three* solutions. \n",
-    "This guess happens to be correct but it leads into quite a complex new landscape.\n",
-    "So there we have it, an opportunity for an extended journey. \n",
+encounters $x^2 - 1 = 0$. Again $x = 1$ is a solution. But Sue knows that
+$-1 \\cdot -1 = 1$. A second solution is available, $x = -1$.
+Now a thought occurs: If $x^1 - 1 = 0$ has one solution and $x^2 - 1 = 0$
+has two solutions... then perhaps $x^3 - 1 = 0$ has *three* solutions.
+This guess happens to be correct but it leads into quite a complex new landscape.
+So there we have it, an opportunity for an extended journey.
 
- "$$a^2=a\\cdot a\\;\\;\\;\\;\\;\\;\\;\\;\\; \n",
-    "\\sqrt{\\frac{3}{5}}=\\frac{\\sqrt{3}}{\\sqrt{5}}\\;\\;\\;\\;\\;\\;\\;\\;\\;\n",
-    "\\frac{\\frac{3}{4}}{5}=\\frac{3}{20}\\;\\;\\;\\;\\;\\;\\;\\;\\;\n",
-    "{\\left(\\frac{\\sqrt{3}a}{7}\\right)}^2=\\frac{3\\cdot a^2}{49}$$\n",
-
-
-
-    "Another example, an idea that is not automatic: The pythagorean theorem relates the legs\n",
-    "of a right triangle to its hypotenuse. *Squares* are in the formula but the sides \n",
-    "of the triangle are *not* squares. We often determine the length \n",
-    "of a side by taking a square root. \n",
+$$
+a^2 = a \cdot a \quad 
+\sqrt{\frac{3}{5}}=\frac{\sqrt{3}}{\sqrt{5}}
+\frac{\frac{3}{4}}{5}=\frac{3}{20}
+{\left(\frac{\sqrt{3}a}{7}\right)}^2=\frac{3\cdot a^2}{49}
+$$
 
 
 
-    "Math has the notion that things are true when there is a convincing argument for them. Such an argument \n",
-    "is a *proof*. We talk about proofs in the Other Math Club to understand the difference\n",
-    "between 'I *think* this is true' and 'I *know* this is true and here is *why*'. You may have the \n",
-    "intuition that there is an infinite supply of prime numbers, for example. This is a good intuition\n",
-    "but why is it correct?\n",
+Another example, an idea that is not automatic: The pythagorean theorem relates the legs
+of a right triangle to its hypotenuse. *Squares* are in the formula but the sides
+of the triangle are *not* squares. We often determine the length
+of a side by taking a square root.
+
+
+
+Math has the notion that things are true when there is a convincing argument for them. Such an argument
+is a *proof*. We talk about proofs in the Other Math Club to understand the difference
+between 'I *think* this is true' and 'I *know* this is true and here is *why*'. You may have the
+intuition that there is an infinite supply of prime numbers, for example. This is a good intuition
+but why is it correct?
 
 
 
 
-    "> Mathematics is the study of patterns using imagination, creativity and reason. \n",
-    "\n",
-    "> Science is the study of *nature* using imagination, creativity, observation, experiment and reason. \n",
+> Mathematics is the study of patterns using imagination, creativity and reason.
 
 
+> Science is the study of *nature* using imagination, creativity, observation, experiment and reason.
 
-    "> \"Well,\" said the Wart, \"what about it?\" \n",
-    "> \n",
-    "> \"The best thing for being sad,\" replied Merlyn, beginning to puff and blow, \"is to learn something. \n",
-    "> That is the only thing that never fails. You may grow old and trembling in your anatomies, you may lie \n",
+
+>"Well," said the Wart, "what about it?"
+>
+> \"The best thing for being sad," replied Merlyn, beginning to puff and blow, "is to learn something."
+
+"> That is the only thing that never fails. You may grow old and trembling in your anatomies, you may lie \n",
     "> awake at night listening to the disorder of your veins, you may miss your only love, you may see the \n",
     "> world about you devestated by evil lunatics, or know your honour trampled in the sewers of baser minds. \n",
     "> There is only one thing for it then--to learn. [...] That is the only thing which the mind can never \n",
@@ -260,15 +299,9 @@ Sue discovers that $x - 1 = 0$ has a *solution* for $x$, namely $x = 1$. Later s
 
 
 
-    "# The Other Introduction\n",
-    "\n",
-    "If you are a student who likes math (who has not yet been taught that math is not fun) but you are\n",
-    "not really interested in math as *competition*: You might enjoy the ideas presented here. \n",
 
+## Emily's elegant solution to Monty Hall
 
-
-
-## Monty Hall: Emily's elegant solution
 
 You are a contestant on a game show. The host (Monty Hall) shows you three boxes, only one of which
 has a prize hidden inside. You are allowed to choose one of the boxes. Before its contents are revealed
@@ -277,22 +310,23 @@ un-revealed boxes: The one you chose and the other un-revealed box. Monty now of
 to switch your choice to the other box. What should you do? That is: What is your best strategy assuming
 you want to win the prize?
 
+
 Emily:
 Your probability of choosing correctly at the start is clearly 1 in 3. Think of two swimming pools of size 1/3
 and size 2/3. You are now sitting in the swimming pool of size 1/3 and the other two boxes are in the other larger
 swimming pool. We can agree that the numbers 1/3 and 2/3 represent the probabilities that the actual prize is in the
 two respective pools.
 
-Now (after one of the empty boxes is revealed) you have the opportunity to jump into the larger swimming\n",
-pool, the one with a probability of 2/3. You do so... and now here is where it gets interesting. If after you\n",
-jumped into the bigger pool you had to choose between the two boxes in that pool you would have even chances\n",
-of selecting the correct box, the one with the prize.\n",
 
-    "But Monty Hall has conveniently eliminated the wrong choice. You can't possibly make a mistake when you jump\n",
-    "into the larger pool and therefore your chances of winning the prize using Emily's strategy will double\n",
-    "to 2/3.\n",
+Now the empty box in the 2/3 pool is revealed and discarded. You now have the opportunity to jump into that
+2/3 pool.  So do that... and now here is where it gets interesting. If after you
+jumped into the bigger pool you had to choose between the two boxes originally in that pool: You would have 
+even chances of selecting the correct box, the one with the prize. That gets you back to a 1/3 chance.
+But Monty Hall has thrown out the wrong choice. You can't possibly make a mistake when you jump
+into the larger pool because the mistake option is gone. Your chances of winning the prize remains 2/3.
 
-## Some problems in graph theory \n",
+
+## Some problems in graph theory
 
 Terms: A graph is two sets: A set of vertices or dots and a set of lines that connect pairs of vertices. \n",
 These lines are usually called *edges*. And by the way the singular of *vertices* is *vertex*.  \n",

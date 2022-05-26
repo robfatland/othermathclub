@@ -34,29 +34,48 @@ this gives us more opportunities to teach the extraordinary.
 
 
 
-## The realness ideas
+## Realness of ideas
 
 
-Let's pursue trolls a little bit more. We are fairly sure that we could walk
+Let's pursue trolls a bit more. We are fairly sure that we could walk
 the length of this earth and never come upon an actual living troll. But we will
 definitely find paintings of them, stories about them, even statues and
 sculptures of trolls. The idea of trolls is a real thing; or else I
-could not write this sentence. Trolls we can argue over and discuss late into the night.
+could not write this sentence. Trolls we can argue and discuss late into the night.
 
 
 What about a twenty-seven-dimensional box? The paper or screen holding
 these words lies flat, has two dimensions. The bus I ride has three physical dimensions.
-I know the number after three is four so what in my experience has four dimensions? I do not have
-any experience of four dimensions. Are four or five or six dimensions or more 'real'?
+I know the number after three is four so what in my experience has four dimensions? 
+Nothing! I do not have any experience of four dimensions. But I do know that 
+shadows have one less dimension than the thing casting the shadow... so what
+does a three dimensional shadow of a four-dimensional object look like?
+And what about five or six or more dimensions? Let's suppose that, like for trolls,
+the idea is valid... but does it lead to anything substantial?
 
 
-The story of the Fishing Kid could happen in real life. It uses
+This is really a comment on the premise of this book. The story of the 
+Fishing Kid is presented in a manner that could actually happen. It uses
 a little finesse, that the silly bus driver's rule does not concern 
-'longest dimension' but rather 'implicit dimension' of an object.
+'longest dimension' but rather 'implicit dimension' of an object. But
+it is essentially a possible scenario. In contrast, the coda at the end 
+of the story takes further liberties into boxes
+of higher dimension. The idea is real even if building such boxes 
+is beyond our present skill.
 
 
-But the coda at the end of the story takes further liberties into boxes
-in higher dimensions. Does the
+Let me take a sharp turn now to uncertainty. Presented with a new thing that
+radiates uncertainty sets off my personal alarm bells. I tend to back away 
+to the familiar and definite. The idea here is to suggest that a degree of
+familiarity with the feeling of uncertainty is a useful skill; so it has to
+be developed. The approach to that facet of the program here is to present
+some new topic and carry it to an open-ended ellipsis as the end point. 
+Math textbooks end with problems... how do these function?
+
+
+
+
+Does the
 *idea* of a 27-dimensional box mean such a box can be built? No. Does 
 the *idea* of a 27-dimensional box exist? Certainly! Just as ideas about
 trolls exist. Is it a useful idea? Well the idea of trolls is very useful

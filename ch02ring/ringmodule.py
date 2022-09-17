@@ -1,3 +1,4 @@
+import random as rand
 from random import randint, choice
 
 def R_n_zero(n, x):
@@ -30,7 +31,7 @@ def kInc(k, n):
     while kpo >= n: kpo -= n
     return kpo
 
-def distance(a, b, n):
+def Distance(a, b, n):
     '''shorter distance between a and b'''
     return min(abs(a - b), abs((a + n) - b), abs((a - n) - b))
 
@@ -48,7 +49,7 @@ def PosList(R):
         if R[i] > 0: poslocs.append(i); nPos += 1
     return nPos, poslocs
 
-def flip(R, a):
+def Flip(R, a):
     '''in ring R flip site a; also returns the flip (positive) value'''
     n = len(R)
     if a >= 0 and a < n:
@@ -67,19 +68,14 @@ def IsQuiescent(R):
     if not Rsum == 1: return False
     return True
 
-def f_c(R):
-    '''return (predicted) number of flips to reach Q from R'''
-    n = len(R)
-    return 1
-
-def entropy(R):
+def Entropy(R):
     '''return (predicted) sum of flips to reach Q from R'''
     n, E = len(R), 0
     for i in range(n-1):
-        for j in range(i+1, n): E += R[i]*R[j]*(j-i)*(j-i-n)/2
-    return int(E)
+        for j in range(i+1, n): E += R[i]*R[j]*(j-i)*(j-i-n)
+    return E
 
-def entropy2(R):
+def Entropy2(R):
     """
     E = triangle + final vertical (j = n - 1). Does s2 save the day?
     """
@@ -91,11 +87,11 @@ def entropy2(R):
     return s1, s2, s1 + s2
 
 def RQ(R):
-    fc, fs = 0, 0
-    while True:
-        if IsQuiescent(R): break
-        nnegs, neglocs = NegList(R)
-        R, a = flip(R, neglocs[choice(range(nnegs))])
-        fc += 1
-        fs += a
+    '''resolve a ring R to quiescent Q'''
+    fc, fs = 0, 0                                            # reset flip count and sum
+    while not IsQuiescent(R):                                # Given R this while drives it to Q
+        nn, nl  = NegList(R)                                 # number and list of negative sites
+        R, v    = Flip(R, nl[rand.randint(0, nn-1)])         # flip randomly; receive back the revised Ring and the positive value of the flipped site 
+        fc     += 1                                          # update flip count
+        fs     += v                                          # update flip sum
     return fc, fs

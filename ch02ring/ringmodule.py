@@ -50,7 +50,7 @@ def PosList(R):
     return nPos, poslocs
 
 def Flip(R, a):
-    '''in ring R flip site a; also returns the flip (positive) value'''
+    '''flip site a in R; return R and flip 'double' value'''
     n = len(R)
     if a >= 0 and a < n:
         v = -R[a]
@@ -58,7 +58,7 @@ def Flip(R, a):
             R[a] = v
             R[kDec(a, n)] -= v
             R[kInc(a, n)] -= v
-    return R, v
+    return R, 2*v
 
 def IsQuiescent(R):
     n, Rsum = len(R), 0
@@ -91,7 +91,7 @@ def RQ(R):
     fc, fs = 0, 0                                            # reset flip count and sum
     while not IsQuiescent(R):                                # Given R this while drives it to Q
         nn, nl  = NegList(R)                                 # number and list of negative sites
-        R, v    = Flip(R, nl[rand.randint(0, nn-1)])         # flip randomly; receive back the revised Ring and the positive value of the flipped site 
+        R, v    = Flip(R, nl[rand.randint(0, nn-1)])         # flip randomly; return tuple = new R + 2 x abs(negative site) 
         fc     += 1                                          # update flip count
-        fs     += v                                          # update flip sum
+        fs     += v                                        # update flip sum
     return fc, fs

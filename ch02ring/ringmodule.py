@@ -61,11 +61,18 @@ def Flip(R, a):
     return R, 2*v
 
 def IsQuiescent(R):
+    '''Specific to sum = 1 version'''
     n, Rsum = len(R), 0
     for i in range(n):
         if R[i] < 0: return False
         Rsum += R[i]
     if not Rsum == 1: return False
+    return True
+
+def Q(R):
+    '''generalized to no negative values in R'''
+    for i in range(len(R)):
+        if R[i] < 0: return False
     return True
 
 def Entropy(R):

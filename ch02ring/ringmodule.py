@@ -93,14 +93,15 @@ def Entropy2(R):
     for i in range(n-1): s2 += R[i]*R[j]*(j - i)*((j - i) - n) 
     return s1, s2, s1 + s2
 
-def RQ(R):
+def RQ(R, verbose=False):
     '''resolve a ring R to quiescent Q'''
     fc, fs = 0, 0                                            # reset flip count and sum
     while not IsQuiescent(R):                                # Given R this while drives it to Q
+        if verbose: print(Entropy(R), R)       
         nn, nl  = NegList(R)                                 # number and list of negative sites
         R, v    = Flip(R, nl[rand.randint(0, nn-1)])         # flip randomly; return tuple = new R + 2 x abs(negative site) 
         fc     += 1                                          # update flip count
-        fs     += v                                        # update flip sum
+        fs     += v                                          # update flip sum
     return fc, fs
 
 

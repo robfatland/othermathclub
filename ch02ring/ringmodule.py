@@ -99,64 +99,85 @@ def RQ(R, verbose=False):
     while not IsQuiescent(R):                                # Given R this while drives it to Q
         if verbose: print(Entropy(R), R)       
         nn, nl  = NegList(R)                                 # number and list of negative sites
-        R, v    = Flip(R, nl[rand.randint(0, nn-1)])         # flip randomly; return tuple = new R + 2 x abs(negative site) 
+        R, v    = Flip(R, nl[rand.randint(0, nn-1)])         # flip randomly; return 
+                                                             #   tuple = new R + 2 x abs(negative site) 
         fc     += 1                                          # update flip count
         fs     += v                                          # update flip sum
     return fc, fs
 
+def RPositives(R):    return [i for i in range(len(R)) if R[i]  > 0]
+def RNegatives(R):    return [i for i in range(len(R)) if R[i]  < 0]
+def RNonpositives(R): return [i for i in range(len(R)) if R[i] <= 0]
+def RNonnegatives(R): return [i for i in range(len(R)) if R[i] >= 0]
 
-# sourceA is a list of rings, each ring being a list of integers
-sourceA = [\
-          [-1, 2, 0, 0, 0], [-1, 0, 2, 0, 0], 
-          [-1, 2, 0, 0, 0, 0], [-1, 0, 2, 0, 0, 0], [-1, 0, 0, 2, 0, 0], \
-          [-1, 2, 0, 0, 0, 0, 0], [-1, 0, 2, 0, 0, 0, 0], [-1, 0, 0, 2, 0, 0, 0], \
-          [-1, 2, 0, 0, 0, 0, 0, 0], [-1, 0, 2, 0, 0, 0, 0, 0], [-1, 0, 0, 2, 0, 0, 0, 0], [-1, 0, 0, 0, 2, 0, 0, 0], \
-          [-1, 2, 0, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 2, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 2, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 0, 2, 0, 0, 0, 0],
-          [-1, 2, 0, 0, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 2, 0, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 2, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 0, 2, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 0, 0, 2, 0, 0, 0, 0],
-          [-1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0],
-          [-1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0], 
-          [-1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
-         ]
+def ReverseFlip(R, i, n):
+    '''Returns R after site i is reverse-flipped'''
+    RF = R[:]
+    a = RF[i]
+    RF[i] = -a
+    RF[i-1] += a
+    RF[(i+1)%n] += a
+    return RF
 
-# These source rings compare binary values and separations for n = 12
-sourceB = [\
-          [-1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0], 
-          [-1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0],
-          [-2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-2, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-2, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0], 
-          [-2, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0], 
-          [-2, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0],
-          [-3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-3, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-3, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-3, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0], 
-          [-3, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0], 
-          [-3, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0],
-          [-4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-4, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-4, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0], 
-          [-4, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0], 
-          [-4, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0], 
-          [-4, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0],
-         ]
+def Congruent(R1, R2):
+    '''R1 congruent R2: The same up to a phase (index) shift'''
+    n = len(R2)
+    for i in range(n):              # start-compare index of R2
+        match = True                # presume this is a match
+        for j in range(n):          # run through R1 indices
+            R2idx = (i + j) % n     
+            if R1[j] != R2[R2idx]: 
+                match = False
+                break
+        if match: return True
+    return False
+
+def RingMagnitude(R):
+    '''
+    returns the maximum absolute value of site values in R
+    '''
+    n, ringmax = len(R), 0
+    for i in range(n):
+        if abs(R[i]) > ringmax: ringmax = abs(R[i])
+    return ringmax
+
+
+def IncrementR(R, m, n, idx):
+    '''Increment the ring considered as an n-digit base-m integer'''
+    if idx < 0: return False
+    R[idx] += 1
+    if R[idx] > m:
+        R[idx] = -m
+        return IncrementR(R, m, n, idx-1)
+    else: return R
+
+
+
+def BmGenerator(m, n):
+    '''
+    Generate L: A list of possible rings Rn where all sites have abs <= m. Do not retain rings that are 
+    cyclic permutations in forward or reverse order of existing Rn in L. 
+    '''
+    L = []
+    R = [-m]*n
+    
+    while True:
+        Rt = R.copy()
+        if not sum(Rt) == 1: 
+            goodR = False
+        elif not (-m in R or m in R):
+            goodR = False
+        else: 
+            goodR = True
+            for c in L:               # c is a comparative ring from the existing list
+                if Congruent(Rt, c):
+                    goodR = False
+                    break
+                Rt.reverse()
+                if Congruent(Rt, c):
+                    goodR = False
+                    break
+        if goodR: L.append(R[:]) 
+        R = IncrementR(R, m, n, n-1)
+        if not R: return L
+

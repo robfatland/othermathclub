@@ -1,10 +1,7 @@
 # PythonBytes Project In-Depth
 
 
-[Here is a link to this page.](https://github.com/robfatland/pythonbytes/tree/master/projects/fractals-I#pythonbytes-project-in-depth)
-
-
-<img src="https://github.com/robfatland/pythonbytes/blob/master/projects/fractals-I/wharf.png" alt="drawing" width="400"/>
+<img src="https://github.com/robfatland/othermathclub/blob/master/pythonbytes/projects/fractals-I/wharf.png" alt="drawing" width="400"/>
 
 
 These project ideas require you to have a Python environment where you can do some serious work. You can

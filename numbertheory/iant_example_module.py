@@ -123,6 +123,15 @@ def Totient(n):
     return totient
 
 
+def GeneralizedTotient(k, n):
+    '''Euler's totient(n) = how many relatively prime numbers rp there are for 1 <= r < n'''
+    if n < 1: return -1
+    gtotient = 1
+    for i in range(2, n):    # Only active for n > 2 notice
+        if relativelyprime(n, i): gtotient += i**k
+    return gtotient
+
+
 def Mobius(n):
     '''mu(1) = 1. mu(n>1) = 0 or (-1)**k; see ANT chapter 2'''
     if n < 1: return

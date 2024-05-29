@@ -10,6 +10,13 @@ def odd(a): return True if a%2 else False
 
 def divides(a, b): return not b % a
 
+def prime(n):
+    '''Boolean is n prime'''
+    if not n%2: return False
+    for i in range(3, int(sqrt(n)) + 1, 2): 
+        if not n%i: return False
+    return True
+
 def factor(n):
     '''sorted list of factors i.e. with repetitions: 8 > [2, 2, 2]'''
     if n < 1:  return('something has gone horribly wrong')
@@ -27,6 +34,8 @@ def factor(n):
 
 # print(divides(4,9))
 # print(factor(31*37*3))
+
+
 
 def exponentfactors(n):
     '''n assumed > 1; return (prime, exponent) tuples'''
@@ -151,6 +160,13 @@ def Nu(n):
     if n == 1: return 0
     return len(uniquefactors(n))
 
+#
+# Dirichlet convolution section
+#   (f, g, n) works directly off the definition for f * g
+#   ..."using lists" presumes f and g are lists of values for 1, 2, ..., n
+#   ...then there are some aliases
+#   ...then across lists produces a list of D-products for n = 1, 2, ..., given n
+# 
 def Dirichlet(f, g, n):
     '''
     Dirichlet multiplication of two functions f and g for value n
@@ -198,3 +214,6 @@ def U(n):
 
 def N(n):
     return n
+
+def Na(n, a):
+    return n**a

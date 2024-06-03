@@ -2,7 +2,7 @@
 #   bool even, odd, divides
 #   factor() -> integer list
 
-from math import sqrt, prod, log2
+from math import sqrt, prod, log2, floor
 
 def even(a): return False if a%2 else True
 
@@ -17,19 +17,23 @@ def prime(n):
         if not n%i: return False
     return True
 
+def is_prime(n): return(prime(n))
+
+def IsPrime(n): return(prime(n))
+
 def factor(n):
     '''sorted list of factors i.e. with repetitions: 8 > [2, 2, 2]'''
     if n < 1:  return('something has gone horribly wrong')
     if n == 1: return [1]
     n_redux = n
     f, d, u = [], 2, int(sqrt(n_redux))
-    while True:                                # big while: keep going until possible divisors exhausted
-        while not n_redux % d:                 # little while: counts out all factors of value d
+    while True:                                # ...continue til possible divisors exhausted
+        while not n_redux % d:                 # ...all factors of value d
             f.append(d)
-            n_redux = n_redux // d             # calculate the balance of the original n that remains to be factored
-        d = 3 if d == 2 else d + 2             # adjust the candidate factor d: check 2 and odd numbers up to floor sqrt (n)
-        if d > u: break                        # only way out of the big while
-    if n_redux > 1: f.append(n_redux)          # tack on either the residual if it is greater than 1 (will be n when n is prime)
+            n_redux = n_redux // d             # balance of original n remaining
+        d = 3 if d == 2 else d + 2             # check 2 and odd numbers up to floor sqrt (n)
+        if d > u: break                        # end of outer while
+    if n_redux > 1: f.append(n_redux)          # include any residual > 1
     return f
 
 # print(divides(4,9))
@@ -49,7 +53,7 @@ def exponentfactors(n):
     return(p)
 
 
-def uniquefactors(n):
+def uniqueprimefactors(n):
     '''n presumed > 1: Return a list of unique prime factors of n > 1'''
     if n < 1: return('something has gone horribly wrong')
     if n == 1: return [1]
@@ -62,6 +66,8 @@ def uniquefactors(n):
         if d > u: break
     if n > 1 and not n in f: f.append(n)
     return f
+
+def uniquefactors(n): return uniqueprimefactors(n)
 
         
 def gcd(a, b):
@@ -77,6 +83,11 @@ def relativelyprime(a, b):
     '''are a and b relatively prime?'''
     return True if gcd(a, b) == 1 else False
 
+def relprime(a, b): return relativelyprime(a, b)
+
+def is_relativelyprime(a, b): return relativelyprime(a, b)
+
+def is_relprime(a, b): return relativelyprime(a, b)
 
 def listproduct(l):
     '''product of all elements of list l: uses built-in math function'''
@@ -84,7 +95,7 @@ def listproduct(l):
 
 
 def divisors(n):
-    '''list of all the divisors of n'''
+    '''list of all the divisors of n including 1 and n'''
     if n < 1: return
     d, f = [1], factor(n)                      # factor() is the list of primes with repetitions
     nf = len(f)                                # 60 will have nf = 4: [2, 2, 3, 5]
@@ -133,7 +144,11 @@ def Totient(n):
 
 
 def GeneralizedTotient(k, n):
-    '''Euler's totient(n) = how many relatively prime numbers rp there are for 1 <= r < n'''
+    '''
+    Euler's (basic idea) totient: Number of relative primes less than n.
+    Generalized: exponent k added i.e. sum the k'th power of all the 
+      relative primes of n.
+    '''
     if n < 1: return -1
     gtotient = 1
     for i in range(2, n):    # Only active for n > 2 notice

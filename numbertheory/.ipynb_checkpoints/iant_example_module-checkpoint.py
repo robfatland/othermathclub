@@ -155,6 +155,14 @@ def GeneralizedTotient(k, n):
         if relativelyprime(n, i): gtotient += i**k
     return gtotient
 
+def ExtendedTotient(x, n): 
+    '''Extended totient per definition includes real parameter x'''
+    if x < 1: return 0
+    extended_totient = 0
+    for i in range(1, floor(x) + 1):
+        if relativelyprime(i, n): extended_totient += 1
+    return extended_totient       
+
 
 def Mobius(n):
     '''mu(1) = 1. mu(n>1) = 0 or (-1)**k; see ANT chapter 2'''

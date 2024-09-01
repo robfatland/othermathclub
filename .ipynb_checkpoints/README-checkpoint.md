@@ -119,10 +119,17 @@ questions. For example: Where might Mr. Two-thirds wind up?
         - You agree to bring your computer to the club fully charged
 
 
-- Administrative
+- Administrative including Discord
     - Get permission from Tyee and the PTSA for the POA
-    - Maintain open lines of communication
+        - Maintain lines of communication with them
     - Check in with the Tyee teacher responsible for Python: Any interest in the club?
+    - Discord server
+        - Was useful for club announcements, most importantly short-notice cancellation
+        - Students tend to use discord to be silly, not ask serious questions
+        - However there are some exceptions to this...
+        - ...and I used it on restricted channel to communicate to coaches
+        - So if possible I recommend having something like this available
+        - Reji will know more about how it is set up
 
 
 - Workshop 1: Teaching method and starting curriculum

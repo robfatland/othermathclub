@@ -3,6 +3,9 @@
 # Python Bytes
 
 
+Related notes: See the `python/teaching notes` folder.
+
+
 > Ms. Halfway lives one city block from the Post Office and she needs to
 > mail a letter. Unfortunately she is rather indecisive which is how she got
 > her name. She begins walking from her house (location `0.0`) towards the Post
@@ -42,49 +45,79 @@ This helps in the club's shift to a focus on ideas, described below.
 > appropriate challenges.
 
 
-## Language dichotomy
+## Language
 
 
 We learn a languages on multiple levels; and let's suppose we are 
-motivated by some need to communicate so all those levels are important.
+motivated by some need to communicate so all those levels come together.
 Python as a programming language follows this pattern; so the challenge in
-the club is to combine motivating ideas with learning the mechanics of coding. 
-With a limited club time of 75 minutes per week this challenge is very
-acute.
+the club is to combine motivating ideas with a process of learning the 
+basics, the mechanics of coding. Do this with a limited club time of 
+75 minutes per week.
 
 
-Let's assume that details of Python syntax are going to be picked up the 
+Let's assume that details of Python syntax will be picked up by the 
 students along the way. We are now free to shift emphasis to ideas and ask:
-What kinds of ideas will translate to a good learning experience? 
-An example of one such idea is given at the top in the story of Ms. Halfway.
-
-
-
-
-
-This problem has three great features. First we can act it out in the classroom. 
+What are some ideas that produce a good learning experience? 
+One such idea is the story of Ms. Halfway.
+The Ms. Halfway problem ('Where does she wind up?') has three great 
+features. First we can act it out in the classroom. 
 Second it can be solved mathematically. And third it can be simulated using
-a small amount of Python code. This is the basis 
+a small amount of Python code.
+
 
 ## Teaching approach
 
 
+### Part 1 Start with ideas
+
+
+As noted above we hope to begin with ideas that have nothing to do with
+computers or `print` statements. From there we want to dream up
+exploratory ideas that translate to calculation. Then and only
+then, thirdly, we open our computers and begin writing code.
+
+
+Once the code works we can solve the problem. However in the spirit of
+exploration this is intended as a rewarding starting point. Is our code
+able to help us explore other questions? Other ideas?
+
+
+### Part 2 Methods
+
+
 Middle school students do not (with some exceptions) have the perseverence 
-to simply learn `print` and `while` and so on. Here are some approaches to 
+to simply learn `print` and `while` in a vacuum. Here are some approaches to 
 leading the process.
 
 
 - code along: Instructor writes code on the whiteboard, student copies.
 Explanations as we go. Good to get started and get a working result.
 Does not get the students self-sufficient
-- solve this challenge: Instructor gives a problem to solve by writing code.
-This might be a many-steps process. Interactively determine what commands
-to use. Students help one another: The one who gets it first becomes the expert.
+- Solve it: The guide presents a problem to solve via code.
+This might be a many-steps / iterative process. Interactively go over
+relevant commands. Students work together or individually. Here the idea
+is to provide minimal intervention; so working on self-sufficiency.
 - Socratic: Instructor chooses a student, asks them a high-level question.
-Example: "Where does Ms. Halfway end up?" Assuming the student is not sure
-of the answer, we get to quiz this student and perhaps other students on
-small steps to eventually build the code to give an answer. Very important:
-There is no coding until the algorithm is understood. 
+Example: After introducing Ms. Halfway ask "Where does she end up?"
+Assuming the student is not sure of the answer: We resort to small leading
+questions directed to this student and to other students. By means of these
+small steps we eventually arrive at a plan for code that solves the problem.
+Very important: No coding until the algorithm is understood.
+- Kinesthetic: Activities away from the computer that enact some part of
+a source idea. These work well if there is some motion involved and if there
+is an opportunity to reach a non-obvious conclusion.
+
+
+### Part 3 Pedagogy
+
+Python syntax can be deconstructed into (let us say) 20 sub-topics.
+These can be organized into a learning sequence. Elements of the 
+sequence are then presented and internalized. As an example starting
+point we want to begin with *flow* (statements and order of execution),
+*information* (variables and data structures) and *bugs* (iterative
+development). We might try and solve the task of getting a drink of 
+water. 
 
 
 ## Originating from ideas

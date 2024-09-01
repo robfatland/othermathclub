@@ -43,174 +43,196 @@ And once we have a working program: We can use it to explore related
 questions. For example: Where might Mr. Two-thirds wind up?
 
 
-### Bullet point planning thoughts
+### Planning
 
 
-- Agree on the club philosophy of operation
-    - I recommend the "ideas > calculation > code > experimentation" plan
-    - Suggest Units: Four-week blocks devoted to a particular topic
-    - Students tend to want to code up games but note these qualifiers:
-        - Games that work properly tend to require a fair amount of coding skill
-            - This means that a fun idea can become very frustrating
-        - Games are potentially a good direction for advanced students
-        - Intent on building a game? 
-            - Coaches should be involved in the process
-            - Start out by writing a simplest-possible game
-                - For example: Guess a number from 1 to 100
-                    - Write this from the number chooser side
-                    - Write this from the number guesser side
-                    -Everything good? Now turn to more complicated games
+#### Agree on the club philosophy of operation
 
 
-- Highschool Coaches
-    - Recruit coaches: Reji knows the way!
-        - The HS students are signing up for a number of responsibilities
-            - Two workshops
-                - Workshop 1: Curriculum and methods (more on this below)
-                - Workshop 2: Developing your own curriculum
-            - Manage the classroom
-                - Dealing with technical issues
-                - Dealing with behavior issues (see below on computer games)
+- I recommend the "ideas > calculation > code > experimentation" plan
+- Suggest Units: Four-week blocks devoted to a particular topic
+- Students tend to want to code up games but note these qualifiers:
+    - Games that work properly tend to require a fair amount of coding skill
+        - This means that a fun idea can become very frustrating
+    - Games are potentially a good direction for advanced students
+    - Intent on building a game? 
+        - Coaches should be involved in the process
+        - Start out by writing a simplest-possible game
+            - For example: Guess a number from 1 to 100
+                - Write this from the number chooser side
+                - Write this from the number guesser side
+                -Everything good? Now turn to more complicated games
 
 
-- Advertise the club
-    - Parent's night (zoom or in person)
-        - Be sure to communicate the importance of the Code of Conduct
-            - Why it exists
-            - Patterns we have seen
-            - Limitations of the club: One day per week, many skip weeks
-            - Working away from the club
-                - We do not expect this; it is not a class with homework
-                - Work on your own is the best way to benefit
-                - We will do our best to involve projects: You and your friends
-                - At the end of the year: Our goal is your self-sufficiency
-    - Policy on friends: Yes if possible, shuffle if necessary (see below)
-    - What if student went through the club last year and wish to participate again?
-        - This usually does not happen but if it does...
-            - Create a separate advanced track
-            - Get one or more HS coaches to sign up to teach
-            - Do some planning; and run with it
+#### Highschool Coaches
 
 
-- Onboard the students who sign up
-    - Students will configure a working computer
-        - Do this with your parents
-        - Do this before the first club meeting
-        - First meeting: We will test your installation to make sure you are good to go
-        - Students need Python, a development environment and the turtle graphics module
-        - Simplest: install the Python IDE from [python.org/downloads](https://www.python.org/downloads/)
-        - Optional, more advanced: Install Visual Studio Code (VSCode) with Python extension
-        - Not recommended: Use the school-provided laptop (too slow, too many restrictions)
-        - Cloud option: Create an account on [replit](https://repl.it)
-            - Advantage: Nothing to install on your computer (runs in a browser)
-            - Disadvantage: Probably need your own WiFi hotspot; BSD does not support
-        - See the test program section below on what should work properly after installing Python
-    - Students sign a code of conduct
-        - Seating as directed
-        - Do not engage with anything else found in the classroom
-        - Return the room to how we found it: Get the ok to leave from the coach
-        - Do not leave any items or any sort of a mess in the room
-        - Rules of the club concerning friends
-        - We do not open our computers until directed
-        - We do not play computer games at the club
-            - If you really need to play computer games the club will invite you to do so at home
-        - The club activities will include some moving and talking
-            - You agree to participate with a positive attitude
-        - You agree to bring your computer to the club fully charged
+- Recruit coaches: Reji knows the way!
+    - The HS students are signing up for a number of responsibilities
+        - Two workshops
+            - Workshop 1: Curriculum and methods (more on this below)
+            - Workshop 2: Developing your own curriculum
+        - Manage the classroom
+            - Dealing with technical issues
+            - Dealing with behavior issues (see below on computer games)
 
 
-- Administrative including Discord
-    - Get permission from Tyee and the PTSA for the POA
-        - Maintain lines of communication with them
-    - Check in with the Tyee teacher responsible for Python: Any interest in the club?
-    - Discord server
-        - Was useful for club announcements, most importantly short-notice cancellation
-        - Students tend to use discord to be silly, not ask serious questions
-        - However there are some exceptions to this...
-        - ...and I used it on restricted channel to communicate to coaches
-        - So if possible I recommend having something like this available
-        - Reji will know more about how it is set up
+#### Advertise the club
 
 
-- Workshop 1: Teaching method and starting curriculum
-    - Name tags for everyone!!
-    - Three hour session: Very full as we will cover: 
-        - Philosophy: Ideas > Calculation > Code > Experiments 
-        - Python mechanics
-            - Taught using an "in passing" approach
-            - The initial technical content includes the following:
-                - Flow of execution, jumps, logic, logic-driven jumps
-                - Variables having 3 attributes including a mutable value
-                - Arithmetic with variables includeing the modulo `%` operator
-                - Information is stable
-                - Random numbers
-                - Programs live in files
-                - Coding is a step-by-step process, there are bugs
-                - Two-way communication: `input()` and `print()`
-                - Our first data structure is a `string`
-        - Kinesthetics
-        - Self-sufficiency approach, code-along approach, hybrid approach
-        - Our initial curriculum includes 3 "for sure" items and a stretch item
-            - Curriculum 1: Ms.Halfway
-            - Curriculum 2: Four prisoners, five hats (no coding)
-            - Curriculum 3: Many roads lead to π
-                - Let's include some actual pie to celebrate
-            - Stretch: Curriculum 4: `requests`
-        - The most difficult thing about teaching
-        - Pauses and silence
-        - Responding to questions
-        - Using the whiteboard
-        - Back-up coaching: How to engage when you are a Guide on the Side
-        - Start thinking about what you would like to teach: Prep for workshop 2!
+- Parent's night (zoom or in person)
+    - Be sure to communicate the importance of the Code of Conduct
+        - Why it exists
+        - Patterns we have seen
+        - Limitations of the club: One day per week, many skip weeks
+        - Working away from the club
+            - We do not expect this; it is not a class with homework
+            - Work on your own is the best way to benefit
+            - We will do our best to involve projects: You and your friends
+            - At the end of the year: Our goal is your self-sufficiency
+- Policy on friends: Yes if possible, shuffle if necessary (see below)
+- What if student went through the club last year and wish to participate again?
+    - This usually does not happen but if it does...
+        - Create a separate advanced track
+        - Get one or more HS coaches to sign up to teach
+        - Do some planning; and run with it
+
+
+#### Onboard the students who sign up
+
+
+- Students will configure a working computer
+    - Do this with your parents
+    - Do this before the first club meeting
+    - First meeting: We will test your installation to make sure you are good to go
+    - Students need Python, a development environment and the turtle graphics module
+    - Simplest: install the Python IDE from [python.org/downloads](https://www.python.org/downloads/)
+    - Optional, more advanced: Install Visual Studio Code (VSCode) with Python extension
+    - Not recommended: Use the school-provided laptop (too slow, too many restrictions)
+    - Cloud option: Create an account on [replit](https://repl.it)
+        - Advantage: Nothing to install on your computer (runs in a browser)
+        - Disadvantage: Probably need your own WiFi hotspot; BSD does not support
+    - See the test program section below on what should work properly after installing Python
+- Students sign a code of conduct
+    - Seating as directed
+    - Do not engage with anything else found in the classroom
+    - Return the room to how we found it: Get the ok to leave from the coach
+    - Do not leave any items or any sort of a mess in the room
+    - Rules of the club concerning friends
+    - We do not open our computers until directed
+    - We do not play computer games at the club
+        - If you really need to play computer games the club will invite you to do so at home
+    - The club activities will include some moving and talking
+        - You agree to participate with a positive attitude
+    - You agree to bring your computer to the club fully charged
+
+
+#### Administrative including Discord
+
+
+- Get permission from Tyee and the PTSA for the POA
+    - Maintain lines of communication with them
+- Check in with the Tyee teacher responsible for Python: Any interest in the club?
+- Discord server
+    - Was useful for club announcements, most importantly short-notice cancellation
+    - Students tend to use discord to be silly, not ask serious questions
+    - However there are some exceptions to this...
+    - ...and I used it on restricted channel to communicate to coaches
+    - So if possible I recommend having something like this available
+    - Reji will know more about how it is set up
+
+
+#### Workshop 1: Teaching method and starting curriculum
+
+
+- Name tags for everyone!!
+- Three hour session: Very full as we will cover: 
+    - Philosophy: Ideas > Calculation > Code > Experiments 
+    - Python mechanics
+        - Taught using an "in passing" approach
+        - The initial technical content includes the following:
+            - Flow of execution, jumps, logic, logic-driven jumps
+            - Variables having 3 attributes including a mutable value
+            - Arithmetic with variables includeing the modulo `%` operator
+            - Information is stable
+            - Random numbers
+            - Programs live in files
+            - Coding is a step-by-step process, there are bugs
+            - Two-way communication: `input()` and `print()`
+            - Our first data structure is a `string`
+    - Kinesthetics
+    - Self-sufficiency approach, code-along approach, hybrid approach
+    - Our initial curriculum includes 3 "for sure" items and a stretch item
+        - Curriculum 1: Ms.Halfway
+        - Curriculum 2: Four prisoners, five hats (no coding)
+        - Curriculum 3: Many roads lead to π
+            - Let's include some actual pie to celebrate
+        - Stretch: Curriculum 4: `requests`
+    - The most difficult thing about teaching
+    - Pauses and silence
+    - Responding to questions
+    - Using the whiteboard
+    - Back-up coaching: How to engage when you are a Guide on the Side
+    - Start thinking about what you would like to teach: Prep for workshop 2!
 
        
-- Club meeting number 1
-    - Name tags for everyone!!
-    - As a group (lunch area): Review the Code of Conduct
-    - Group photo!
-    - Split up into classrooms
-        - Write names of each classroom's participants for reference
-    - Create a student status spreadsheet 
-        - 1 student per row, columns are status
-            - Student name, email, parent name, parent email, emergency contact
-            - Status: The student has attended in person
-            - Student's computer has passed the basic program test (see below)
-            - Has the student been playing computer games?
-    - Once we get all of this taken care of: Begin with Ms. Halfway
-        - Notice that much of this activity does not require a computer
+#### Club meeting number 1
+
+
+- Name tags for everyone!!
+- As a group (lunch area): Review the Code of Conduct
+- Group photo!
+- Split up into classrooms
+    - Write names of each classroom's participants for reference
+- Create a student status spreadsheet 
+    - 1 student per row, columns are status
+        - Student name, email, parent name, parent email, emergency contact
+        - Status: The student has attended in person
+        - Student's computer has passed the basic program test (see below)
+        - Has the student been playing computer games?
+- Once we get all of this taken care of: Begin with Ms. Halfway
+    - Notice that much of this activity does not require a computer
         
      
-- Club meetings: Before winter break
-    - Need an adult or HS person to act as gatekeeper at the door
-    - Typically we meet 3 or 4 times before the December break
-    - Each classroom has a lead Coach and supporting Coaches
-    - This will correspond to the "everyone on the same page" curriculum
-    - We can call this "Unit 1"
-    - The stretch topic "requests" may be introduced at the very end
+#### Club meetings: Before winter break
 
 
-- Workshop 2: Creating your curriculum
-    - Discussion: How has it been going? 
-    - Presenting "that moment when I realized..."
-    - Presenting your ideas
-    - Process: Choosing an idea to road test
-        - Idea
-        - Kinesthetics
-        - Calculation
-        - Coding
-        - Experiment
+- Need an adult or HS person to act as gatekeeper at the door
+- Typically we meet 3 or 4 times before the December break
+- Each classroom has a lead Coach and supporting Coaches
+- This will correspond to the "everyone on the same page" curriculum
+- We can call this "Unit 1"
+- The stretch topic "requests" may be introduced at the very end
+
+
+#### Workshop 2: Creating your curriculum
+
+
+- Discussion: How has it been going? 
+- Presenting "that moment when I realized..."
+- Presenting your ideas
+- Process: Choosing an idea to road test
+    - Idea
+    - Kinesthetics
+    - Calculation
+    - Coding
+    - Experiment
         
         
-- Club meetings: After winter break
-    - Assessment: Coaches lead: How has it been going so far?
-    - Assessment: Can students create a working program from scratch?
-        - What are the obstacles?
-    - Introduce Project 1
-    - Begin Unit 2
+#### Club meetings: After winter break
+
+
+- Assessment: Coaches lead: How has it been going so far?
+- Assessment: Can students create a working program from scratch?
+    - What are the obstacles?
+- Introduce Project 1
+- Begin Unit 2
     
     
-- Course correction
-    - Based on assessment we may need to change what we are doing
+#### Course correction
+
+
+- Based on assessment we may need to change what we are doing
 
 
 ### Friends

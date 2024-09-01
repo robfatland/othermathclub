@@ -1,4 +1,4 @@
-[This `README.md` file](https://github.com/robfatland/othermathclub/blob/master/README.md)
+[This `README.md` file](https://github.com/robfatland/othermathclub/blob/master/README.md) <br>
 [Notes on teaching](https://github.com/robfatland/othermathclub/blob/master/python/teaching%20notes/Teaching.ipynb)
 
 

@@ -151,18 +151,11 @@ questions. For example: Where might Mr. Two-thirds wind up?
     - Python mechanics
         - Taught using an "in passing" approach
         - The initial technical content includes the following:
-            - Flow of execution, jumps, logic, logic-driven jumps
-            - Variables having 3 attributes including a mutable value
-            - Arithmetic with variables includeing the modulo `%` operator
-            - Information is stable
-            - Random numbers
-            - Programs live in files
-            - Coding is a step-by-step process, there are bugs
-            - Two-way communication: `input()` and `print()`
-            - Our first data structure is a `string`
+            - Redacted in favor of the working slide deck version
     - Kinesthetics
     - Self-sufficiency approach, code-along approach, hybrid approach
     - Our initial curriculum includes 3 "for sure" items and a stretch item
+        - Curriculum 0: Puzzle Pieces, What Does This Do?
         - Curriculum 1: Ms.Halfway
         - Curriculum 2: Four prisoners, five hats (no coding)
         - Curriculum 3: Many roads lead to π

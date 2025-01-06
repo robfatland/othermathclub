@@ -23,8 +23,6 @@ def box_indices(i):
 #   1 to 9 -- act as excluder values: Values that may not be placed in cell i. 
 connected = [(set.union(set(box_indices(i)), set(row_indices(i)), set(col_indices(i))) - set([i])) for i in range(81)]
 
-solution_count = 0
-
 # solver(p) will recursively find solutions and "yield" them
 #   Key idea 1: The 'p' passed to solver(p) is at first the original puzzle (as a string). 
 #   Later (recursive) calls to solver(p) will provide guess-versions of p with more of the
@@ -36,8 +34,6 @@ solution_count = 0
 #       - Build a picture of possible moves first; then test and *yield*
 
 def solver(p):
-
-    global solution_count
 
     # First thing we could do here is check to see if the puzzle is solved by 'p'
     #   The question is: What is sufficient logic to be sure that our puzzle is ok?
@@ -90,8 +86,15 @@ def CheckSolution(a):
 p0 = '000000000000000000000000000000000000000000000000000000000000000000000000000000000'
 p1 = '060000008201800500905002000000704602300090005504608000000900301007005906100000050'
 p2 = '008632400040000010500904006800000005600000004107000902400751003060000020005826700'
-allsolns = solver(p2)
+p  = '200805970000600500503719000000000005060908010700000000000487206007003000052106004'      # rated Difficult
+
+
+allsolns = solver(p)
 for a in allsolns:
-    print(a)
+    for i in range(9):
+        msg = a[i*9]
+        for j in range(1, 9): msg += ' ' + a[i*9 + j]
+        print(msg)
+    print()
     CheckSolution(a)
 

@@ -1,8 +1,14 @@
-Links: This [other math](https://github.com/robfatland/othermathclub) project,
-some [theory of numbers](https://github.com/robfatland/ant) project,
-a [sodium](https://github.com/robfatland/sodium) distributed information project,
-an ocean [epipelargosy](https://github.com/geosmart/oceanography),
-and the [nexus how-to](https://robfatland.github.io/nexus/).
+# The Other Math Club
+
+
+## Links
+
+This [other math club](https://github.com/robfatland/othermathclub) project.
+The [theory of numbers](https://github.com/robfatland/ant)
+On distributed information: [Sodium](https://github.com/robfatland/sodium) 
+A nautical journey, the [epipelargosy](https://github.com/geosmart/oceanography),
+Documenting how to do things: [nexus](https://robfatland.github.io/nexus/)
+STEM plus Art gets us to [Steam](https://github.com/robfatland/steam)
 
 
 # other math and python bytes
@@ -12,6 +18,7 @@ The other math club began at a middle school in 2017 as an exploration of
 interesting ideas intended for 11-to-13-year-old students. After two years it
 transformed into more computer programming emphasis, becoming "Python Bytes".
 As of 2024 Python Bytes continues...
+
 
 ![sodium_flame](https://github.com/user-attachments/assets/5c2e40d3-e73d-4fd4-b8ca-67ae2cc30add)
 

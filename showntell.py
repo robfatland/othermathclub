@@ -1,3 +1,6 @@
+'''
+Draw a stick figure person
+'''
 def Person(x, y, h):
     from math import cos, sin, pi
     px, py = [x], [y]

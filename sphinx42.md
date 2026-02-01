@@ -167,28 +167,35 @@ def sphinx42(req: func.HttpRequest) -> func.HttpResponse:
 ```
 
 
-The other code is the information for the riddles; which I recreate here in redacted form. The idea
-is to create a dictionary where the key is the riddle ID and the value is a tuple of 3 values: A
-prompt (stating the riddle), the correct solution, and a correct guess response message. The latter
-is intended to pass the User along to the next riddle.
+The other code file is `riddles.py` containing of course the information for the riddles. 
+I have given the code below in redacted form. The idea is to set up a dictionary `riddles` where the 
+key is the riddle ID and the value is a tuple: 
+
+
+- A prompt (stating the riddle)
+- The correct solution
+- A correct-guess response message
+
+
+The response message passes the User along to the next riddle.
 
 
 ```
 riddles = {
-    "1": ("I would like text", 
-          "text", 
+    "1": ("I would like ...text...", 
+          "answer", 
           "Right on! You have passed on to try riddle 101."),
-    "101": ("What is the text?", 
-            "text", 
+    "101": ("What is the ...text...?", 
+            "answer", 
             "Excellent! Now you can try riddle 'halfway'"),
-    "halfway": ("Where does text?", 
-                  "text", 
+    "halfway": ("Where does ...text...?", 
+                  "answer", 
                   "We text. You can now attempt the riddle called 'chaos'."),
-    "chaos": ("In the chaos game what is text?",
-              "text",
+    "chaos": ("In the chaos game what is ...text...?",
+              "answer",
               "Very nice! Now finally try riddle 42."),
-    "42": ("What is text?", 
-           "text", 
+    "42": ("What is ...text...?", 
+           "answer", 
            "congratulations, you have completed the sphinx42 game.")
 }
 ```

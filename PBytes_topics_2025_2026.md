@@ -160,4 +160,42 @@ Some of these resonate with material in the "Puzzles" section.
 - Work versus Distraction
 - The Unreliable Narrator and the social contract of instruction
 
-    
+## The L-System Code-Along
+
+
+```
+from turtle import Turtle, done
+
+def CreateDirections(s, n):
+  # return "x+y-x+y-x+y-x-y-x+y+x-y"
+  for i in range(n):
+    s1 = ""
+    for c in s:
+      if c == "x": s1 += "y+x+y"
+      elif c == "y": s1 += "x-y-x"
+      else: s1 += c
+    s = s1
+  return s
+
+d = CreateDirections("x", 4)
+print(d)
+
+t = Turtle()
+t.pencolor("blue")
+t.setheading(60)
+t.penup()
+t.goto(-100, -100)
+t.pendown()
+
+go = 10
+
+for c in d:
+  if c == "+":
+    t.left(60)
+    t.forward(go)
+  elif c == "-":
+    t.right(60)
+    t.forward(go)
+
+done()
+```

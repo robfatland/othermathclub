@@ -164,38 +164,38 @@ Some of these resonate with material in the "Puzzles" section.
 
 
 ```
-from turtle import Turtle, done
+from turtle import Turtle, done, tracer, update, Screen
+screen = Screen()
+screen.setup(width=700, height=700)
 
 def CreateDirections(s, n):
-  # return "x+y-x+y-x+y-x-y-x+y+x-y"
+  # Simon Says: return "+-+-+-+---++-"
   for i in range(n):
     s1 = ""
     for c in s:
-      if c == "x": s1 += "y+x+y"
+      if c == "x":   s1 += "y+x+y"
       elif c == "y": s1 += "x-y-x"
-      else: s1 += c
+      else:          s1 += c
     s = s1
   return s
 
-d = CreateDirections("x", 4)
+go   =  9
+n    =  6
+bend = 60
+d = CreateDirections("x", n)
 print(d)
 
 t = Turtle()
-t.pencolor("blue")
-t.setheading(60)
-t.penup()
-t.goto(-100, -100)
+t.pencolor("blue"); t.setheading(60); t.penup()
+if n % 2: t.goto(0, -300)
+else: t.goto(-300, -300)
 t.pendown()
-
-go = 10
+tracer(0, 0)
 
 for c in d:
-  if c == "+":
-    t.left(60)
-    t.forward(go)
-  elif c == "-":
-    t.right(60)
-    t.forward(go)
+  if c == "+":   t.left(bend);  t.forward(go)
+  elif c == "-": t.right(bend); t.forward(go)
 
+update()
 done()
 ```

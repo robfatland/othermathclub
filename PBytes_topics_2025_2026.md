@@ -44,16 +44,18 @@ Some of these resonate with material in the "Puzzles" section.
     - Loops break this
     - Conditional logic breaks this
     - Functions are read but not run until called
+    - Indented code blocks are called just that: *blocks* or (formally) a *suite*.
 - Indentation syntax ~ multiple lines as a group activity
     - This suggests functions
-- The turtle library
-    - turtle.Screen
+- The turtle library cheat sheet
+    - `turtle.Screen`
     - `tracer(0, 0)` and `update()`
-    - turtle.Turtle()
+    - `turtle.Turtle()`
     - `t.towards(x, y)` and `t[0].towards(t[1])`
     - `t.setheading(direction)` and composition `(randint(etc))`
     - `t.dot(25)`, `t.penup()`, `t.pendown()`
     - `t.pencolor("blue")`
+    - turtle.done() is the means of avoiding blip-draw-gone syndrome
 
 
 ### Short exercises that emphasize code mechanics and syntax

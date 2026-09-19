@@ -1,0 +1,3 @@
+docker build -t icositetrachoron -f Dockerfile .
+mkdir -p output
+docker run -v $(pwd)/output:/output icositetrachoron

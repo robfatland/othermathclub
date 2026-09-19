@@ -1,0 +1,3 @@
+docker build -t tesseract -f Dockerfile .
+mkdir -p output
+docker run -v $(pwd)/output:/output tesseract

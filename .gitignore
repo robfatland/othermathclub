@@ -1,0 +1,11 @@
+# Rendered animation artifacts (regenerated from *_anim.py + Dockerfile).
+# Keep the source scripts tracked; keep the heavy video outputs out of git.
+Book2/mathvis/**/output/
+
+# Video render outputs anywhere in the repo
+*.mp4
+
+# Python / Jupyter cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

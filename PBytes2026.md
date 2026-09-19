@@ -1,4 +1,57 @@
-# From the 2025/2026 school year
+# PBytes2026
+
+
+This document has an upper section (this) that identifies the bulk of our startup issues for the 2026 2027 school year (**Topics**). Below that are some un-tidied notes on the program from the previous school year. 
+
+
+## Topics
+
+
+- Action: (Rob) Re-org of the curriculum repo: `https://github.com/robfatland/othermathclub` by October 4.
+- Coach experience and wisdom
+- Coach roster, recruitment and plan
+- Pre-club Coach Camp: Covers the process we will adopt for the year
+    - Action: Pick a date and location
+- Teaching principles
+    - Names
+    - Dual nature of the program: Addressing the for-loop problem
+    - Modes
+        - Kinesthetics
+        - Code-along
+        - Projects small+
+        - Engagement (most important)
+    - Assessment
+    - Address AI
+- Expectations of students
+    - Code of conduct
+    - Behavior issues: From 1 to 3 strikes
+    - Room etiquette
+- Club operation
+    - Volunteer conditions (new)
+    - Parent attendance
+    - Access to the building (Tyee admin, janitorial staff, etcetera)
+        - Overcommunicating
+    - Computing environment
+    - Student incentives
+    - Rob's 'vagabond with projector' idea
+    - Post-huddle
+Calendar
+    - Coach Camp
+    - Info Night
+    - Meetings
+    - Celebration events
+
+
+### Curriculum for 2026-27
+
+- Nuts and bolts Python
+- Math + Aha (Meru Prastarah, Chaos Game and so on)
+- Music
+- Server/Client Game (`requests`)
+- Physical actuator
+
+
+## 2025/2026 school year
 
 
 MS abbreviates "middle school"

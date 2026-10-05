@@ -1,3 +1,7 @@
+# Pursuit family — Four Bugs (fully commented teaching version)
+# Previously: Resources/4_Models/pursuit/example.py
+# Four bugs at the corners of a square, each chasing the next; they spiral to the center.
+
 # we will need some turtles; one for each bug plus a spare
 from turtle import Turtle
 

@@ -1,4 +1,8 @@
-# Same program as 'example.py' but fewer lines, some minor changes
+# Pursuit family — Four Bugs (compact, list-based version)
+# Previously: Resources/4_Models/pursuit/example2.py
+# Same problem as four_bugs.py, written tersely with a list of turtles.
+
+# Same program as 'four_bugs.py' but fewer lines, some minor changes
 import turtle
 from turtle import Turtle
 

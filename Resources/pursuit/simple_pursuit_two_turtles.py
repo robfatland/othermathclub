@@ -1,3 +1,8 @@
+# Pursuit family — Simple pursuit game (two turtles)
+# Previously: Resources/PythonBytes/vscode_turtle_pursuit_example.py
+# A wandering target q and a pursuer r that steers toward q with distance-based speed.
+# The gentlest entry point to pursuit before Four Bugs.
+
 from time import time, sleep
 from turtle import Turtle, tracer, update
 from math import sqrt, cos

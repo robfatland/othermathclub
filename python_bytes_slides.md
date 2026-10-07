@@ -77,9 +77,9 @@ Each chapter is an independent exploration building on the boot camp foundation.
 - Pick three points (vertices of a triangle)
 - Start anywhere. Repeat: pick a random vertex, jump halfway there, draw a dot.
 - **Expected result**: a random cloud of dots
-- **Actual result**: the Sierpinski Triangle — a fractal!
-
-Students are *surprised* into wanting to understand why.
+- **Actual result**: the Sierpinski Triangle fractal
+    - Challenge: Understand why this works
+    - Hint: Multiverse approach
 
 ---
 

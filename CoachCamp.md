@@ -4,7 +4,8 @@
 
 We are here to learn about rhinoceroses and sandwiches
 (and on the way: tools and skills).
-Let's begin with matching: The familiar to the new World of computer programming.
+Let's begin with matching: The familiar World of stories to the new World of computer programming.
+
 
 | Human | Computer |
 | --- | --- |
@@ -17,10 +18,10 @@ Let's begin with matching: The familiar to the new World of computer programming
 | Audience | Me/You again! |
 
 
-There is one more item (invisible). Human ear: translates a sequence of sounds to something we understand: "The rhinoceros walked west on Elm street." Computer side: the Python interpreter. It tells us when our attempt to speak Python comes out not quite right.
+There is one more item (invisible). Human ear + brain: translates a sequence of sounds to something we understand: "The rhinoceros walked west on Elm street." Computer side: the Python interpreter. It tells us when our attempt to speak Python comes out right or not quite.
 
 
-There is more but this is enough to begin with.
+This is enough to begin with.
 
 
 And now let us pick a story that begins... with a sandwich.
@@ -92,11 +93,6 @@ And now let us pick a story that begins... with a sandwich.
     - End of school year
 
 
-- Music (with `music21` and possibly `midiano`)
-- Server/Client Game (with `requests`)
-- Physical actuator?
-
-
 ## Rob's teaching principles
 
 
@@ -105,8 +101,9 @@ And now let us pick a story that begins... with a sandwich.
 - It is ok to repeat myself... in fact it is *necessary*
 - 1:1 is effective
     - Engage: "Tell me your crazy plan here..."
-
-
+        - Most common response is "I don't know..." 
+            - Then I say "Let's come up with a crazy plan together..."
+            - I can create a handwritten sheet to help the student keep going.
 
 
 
@@ -243,42 +240,14 @@ And now let us pick a story that begins... with a sandwich.
 - Work versus Distraction
 - The Unreliable Narrator and the social contract of instruction
 
-## The L-System Code-Along
+
+## Aspirational topics
 
 
-```
-from turtle import Turtle, done, tracer, update, Screen
-screen = Screen()
-screen.setup(width=700, height=700)
+- Music (with `music21` and possibly `midiano`)
+- Server/Client Game (with `requests`)
+- Physical actuator
 
-def CreateDirections(s, n):
-  # Simon Says: return "+-+-+-+---++-"
-  for i in range(n):
-    s1 = ""
-    for c in s:
-      if c == "x":   s1 += "y+x+y"
-      elif c == "y": s1 += "x-y-x"
-      else:          s1 += c
-    s = s1
-  return s
 
-go   =  9
-n    =  6
-bend = 60
-d = CreateDirections("x", n)
-print(d)
 
-t = Turtle()
-t.pencolor("blue"); t.setheading(60); t.penup()
-if n % 2: t.goto(0, -300)
-else: t.goto(-300, -300)
-t.pendown()
-tracer(0, 0)
 
-for c in d:
-  if c == "+":   t.left(bend);  t.forward(go)
-  elif c == "-": t.right(bend); t.forward(go)
-
-update()
-done()
-```

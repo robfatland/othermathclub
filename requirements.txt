@@ -1,0 +1,10 @@
+# Python Bytes — pip fallback (prefer environment.yml with conda)
+#
+# Install:  pip install -r requirements.txt
+#
+# Most teaching code needs only the standard library (turtle, random, math, time).
+# turtle graphics needs a desktop Python built with Tk — not pip-installable.
+matplotlib    # fractal / visualization topics
+numpy         # paired with matplotlib for array work
+requests      # server-interaction topics
+# pygame      # optional: only for the Attic games

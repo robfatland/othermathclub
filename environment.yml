@@ -1,0 +1,20 @@
+# Python Bytes — conda environment
+#
+# Create:  conda env create -f environment.yml
+# Update:  conda env update -f environment.yml --prune
+# Use:     conda activate python-bytes
+#
+# Most teaching code needs only the standard library (turtle, random, math, time).
+# The packages below cover the topics that reach past it.
+#
+# Note: turtle graphics needs a desktop Python with Tk (tk is pulled in by python).
+name: python-bytes
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - matplotlib   # fractal / visualization topics
+  - numpy        # paired with matplotlib for array work
+  - requests     # server-interaction topics
+  # Optional, not installed by default — uncomment if you run the Attic games:
+  # - pygame

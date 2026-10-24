@@ -1,6 +1,20 @@
+# The purpose of this program is to illustrate drawing from the matplotlib
+#   perspective (not turtle). 
+
+# AI in use: True
+# trinket: OK | vscode: OK (renders live in a window via the TkAgg backend)
 '''
 Draw a stick figure person
+
+Rendering note: this renders live in a matplotlib window using the TkAgg
+backend. The default "agg" backend only writes to a file, so we select
+TkAgg explicitly. This must happen BEFORE pyplot is imported, which is
+why matplotlib.use("TkAgg") sits at the top of the module.
 '''
+import matplotlib
+matplotlib.use("TkAgg")
+
+
 def Person(x, y, h):
     from math import cos, sin, pi
     px, py = [x], [y]
@@ -27,6 +41,15 @@ def DrawXY(x, y):
     return ax
 
 
-def DrawPerson(a, b, c): 
+def DrawPerson(a, b, c):
+    from matplotlib import pyplot as plt
     x, y = Person(a, b, c)
-    return DrawXY(x, y)
+    ax = DrawXY(x, y)
+    plt.show()   # live window via TkAgg
+    return ax
+
+
+if __name__ == "__main__":
+    DrawPerson(0, 0, 9)
+
+

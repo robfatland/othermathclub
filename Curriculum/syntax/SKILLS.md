@@ -62,10 +62,8 @@ Turtle     → 5, 7, 19                (turtle is the new idea; a loop drives th
 Chaos      → 5, 10, 14, 20           (fixed points, random.choice, jump halfway, draw a dot)
 ```
 
-Halfway and Fibonacci are about the **reset** — repeating a block of code some number of times,
-not loops as a skill. (We just repeat the block ten times; a student can meet them before loops
-are automatic.) Turtle introduces one new thing: the drawing canvas. Chaos adds lists +
-randomness. That is the anti-greedy pacing.
+Halfway and Fibonacci are about **reuse** of code: Copy-paste a bunch of times gets the job done.
+
 
 ## Beyond the automatic stuff
 
